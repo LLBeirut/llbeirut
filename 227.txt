@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 868f1585-9ba5-4f24-8d51-a7c2886f0c20
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=1cdc1411-ecf7-4f2c-9bd7-02ba688141ce
+ revised_id: 227
+ date_taken: 22-09-15
+ time_taken: 19:33:50
+ time_zone: EEST
+ created_by: 24
+ latitude: 33.92477463
+ longitude: 35.63534929
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,misspelling,humor" 
+ general_context: Health/Beauty 
+ material:
+    
+    
+ comments: 
+ comments2: 

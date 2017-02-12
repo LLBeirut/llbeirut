@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 75949edd-c912-40d2-b2c5-518af84a81de
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=5aa1a0c9-223c-4640-bf3a-ea740ec10d12
+ revised_id: 588
+ date_taken: 14-11-15
+ time_taken: 11:24:24
+ time_zone: EET
+ created_by: 13
+ latitude: 33.89595257
+ longitude: 35.54187136
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "wordplay,audience-specific,humor" 
+ general_context: Advertising 
+ material:
+    
+    
+ comments: 
+ comments2: 

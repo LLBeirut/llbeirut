@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 09107cba-1064-4881-9ebb-513f1e8a88e7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=174a2e5c-134d-468e-8afe-1779d5ee82ca
+ revised_id: 504
+ date_taken: 05-11-15
+ time_taken: 21:08:01
+ time_zone: EET
+ created_by: 5
+ latitude: 33.88686917
+ longitude: 35.50970542
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: unilingual 
+ general_context: Housing 
+ material:
+    
+    
+ comments: 
+ comments2: 

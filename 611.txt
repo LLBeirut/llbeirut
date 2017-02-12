@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 2d98980b-4449-4426-88ae-6a8f231a474b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=73a8aec5-00e0-434c-8855-5442d412b31d
+ revised_id: 611
+ date_taken: 12-11-15
+ time_taken: 11:46:54
+ time_zone: EET
+ created_by: 25
+ latitude: 33.89906532
+ longitude: 35.47970002
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "unilingual,bilingual,meaning same across langs,audience-specific,multiple scripts in total item,Western numbers" 
+ general_context: Housing 
+ material:
+    
+    
+ comments: 
+ comments2: 

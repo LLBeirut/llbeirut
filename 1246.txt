@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: a7de69ae-9412-4907-a9d3-a143bca6f5f5
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=ce279613-13a6-40ea-a146-6a0020a2124f
+ revised_id: 1246
+ date_taken: 20-02-16
+ time_taken: 12:33:32
+ time_zone: EET
+ created_by: 18
+ latitude: 33.8891509
+ longitude: 35.486922
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: "unilingual,Oriental numbers" 
+ general_context: "Graffiti,Advertising,Education" 
+ material:
+    
+    
+ comments: 
+ comments2: 

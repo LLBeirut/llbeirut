@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: fac13e2d-d6a5-4bb9-afc1-c84a59e5420e
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=0401164c-9011-43a0-9233-96587f51648b
+ revised_id: 1236
+ date_taken: 13-02-16
+ time_taken: 14:44:41
+ time_zone: EET
+ created_by: 28
+ latitude: 33.8235848
+ longitude: 35.73644098
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning same across langs,multiple scripts in total item,religion" 
+ general_context: Signage 
+ material:
+    
+    
+ comments: 
+ comments2: 

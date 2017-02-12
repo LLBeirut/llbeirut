@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: db28f864-6280-40a3-89e4-3745c79c8cef
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=48834179-72ed-4640-93be-77a4bb96606c
+ revised_id: 1428
+ date_taken: 17-04-16
+ time_taken: 12:18:11
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.8889699
+ longitude: 35.51653949
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,religion" 
+ general_context: "Signage,Housing" 
+ material:
+    
+    
+ comments: 
+ comments2: 

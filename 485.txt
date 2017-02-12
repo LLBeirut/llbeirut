@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 124dcd98-5d23-4cd1-b801-ef13502bad04
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=8a6ddb08-d00e-4384-a18f-2d126801b551
+ revised_id: 485
+ date_taken: 29-10-15
+ time_taken: 14:40:25
+ time_zone: EET
+ created_by: 25
+ latitude: 33.89476747
+ longitude: 35.47605177
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,humor,wordplay" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: 
+ comments2: 

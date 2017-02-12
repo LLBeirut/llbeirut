@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 3b52cc46-1b77-40c4-a555-d13520d890ee
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=68276c0a-bbba-4645-9293-d2e0e5c1f06f
+ revised_id: 944
+ date_taken: 08-12-15
+ time_taken: 12:46:47
+ time_zone: EET
+ created_by: 1
+ latitude: 33.8833471
+ longitude: 35.5145444
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning not same across langs,cultural reference,Frenched by definite article (le la l'),business name in French" 
+ general_context: "Signage,Food/Entertainment,Advertising,Merchandise" 
+ material:
+    
+    
+ comments: 
+ comments2: 

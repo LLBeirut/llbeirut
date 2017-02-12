@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 3730047b-33f3-4fdb-862a-eaa104923612
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=0f4fce0d-03ed-4fb8-b30c-a4999a35f14b
+ revised_id: 708
+ date_taken: 17-11-15
+ time_taken: 14:58:36
+ time_zone: EET
+ created_by: 22
+ latitude: 33.89758838
+ longitude: 35.47877934
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: "unilingual,transliteration,usage issue,misspelling,machine translation" 
+ general_context: Health/Beauty 
+ material:
+    
+    
+ comments: 
+ comments2: 

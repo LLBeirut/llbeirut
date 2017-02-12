@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: ed8df6f4-f483-4cf1-9cd4-e8d7e1ce9b2f
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f696c29a-fd01-4325-a1d0-0e27edced130
+ revised_id: 684
+ date_taken: 23-11-15
+ time_taken: 17:46:52
+ time_zone: EET
+ created_by: 4
+ latitude: 33.89865096
+ longitude: 35.48340674
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning not same across langs,transliteration,mixed languages,multiple scripts in total item,misspelling" 
+ general_context: "Services,Travel" 
+ material:
+    
+    
+ comments: 
+ comments2: 

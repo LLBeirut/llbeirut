@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: effa3c83-66c3-457b-aa65-4034cc10cdd3
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=70b7eeab-43d7-4a4b-82d4-43c17dbf14a6
+ revised_id: 1614
+ date_taken: 26-04-16
+ time_taken: 11:39:57
+ time_zone: EEST
+ created_by: 19
+ latitude: 33.89396824
+ longitude: 35.48928481
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: "humor,cultural reference" 
+ general_context: Graffiti 
+ material:
+    
+    
+ comments: 
+ comments2: 

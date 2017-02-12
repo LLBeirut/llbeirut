@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 69ea6c33-7f05-44e8-a408-3d07da3f264b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3729c8d2-624c-4aa8-886b-46d15a206b2e
+ revised_id: 1170
+ date_taken: 08-02-16
+ time_taken: 18:02:38
+ time_zone: EET
+ created_by: 16
+ latitude: 33.89534382
+ longitude: 35.47462801
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "Frenched by definite article (le la l'),mixed languages,bilingual" 
+ general_context: "Signage,Food/Entertainment" 
+ material:
+    
+    
+ comments: 
+ comments2: 

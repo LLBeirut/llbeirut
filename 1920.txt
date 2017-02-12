@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 789e2e34-ae0c-4597-97ff-556604bcd7a7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=58daf5ad-9e21-4d2b-8fdf-e6d865453b51
+ revised_id: 1920
+ date_taken: 29-04-16
+ time_taken: 14:18:00
+ time_zone: EEST
+ created_by: 11
+ latitude: 33.8751899
+ longitude: 35.5167256
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "trilingual,calligraphy,Frenched by definite article (le la l)" 
+ general_context: Services 
+ material:
+    
+    
+ comments: 
+ comments2: 

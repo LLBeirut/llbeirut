@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 677f1be1-0376-4ada-b351-9b4c21830b55
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d9856ceb-b8db-4b29-b730-b5ed31983063
+ revised_id: 952
+ date_taken: 08-12-15
+ time_taken: 13:11:56
+ time_zone: EET
+ created_by: 1
+ latitude: 33.8836831
+ longitude: 35.5190259
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: unilingual 
+ general_context: "Signage,Food/Entertainment,Advertising,Merchandise,Franchise" 
+ material:
+    
+    
+ comments: 
+ comments2: 

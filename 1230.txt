@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 5e165b8a-b9ac-40d1-b5b4-682afda28184
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=4a79b38f-1f85-4808-98a1-1b6e956d4337
+ revised_id: 1230
+ date_taken: 13-02-16
+ time_taken: 14:46:44
+ time_zone: EET
+ created_by: 28
+ latitude: 33.8238391
+ longitude: 35.73620528
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: unilingual 
+ general_context: Signage 
+ material:
+    
+    
+ comments: The data is associate with the blue sign.
+ comments2: 

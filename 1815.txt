@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: fc003b62-6ba4-499f-9b45-a8382a0c1a7c
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=bb9cc9fd-f2d7-4491-9909-0e80ad54e62f
+ revised_id: 1815
+ date_taken: 28-04-16
+ time_taken: 13:14:37
+ time_zone: EEST
+ created_by: 10
+ latitude: 33.8802695
+ longitude: 35.4922445
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: unilingual 
+ general_context: Merchandise 
+ material:
+    
+    
+ comments: JVC Are written in arabic as ji vi ci 
+ comments2: 

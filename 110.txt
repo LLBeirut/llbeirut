@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 2afd5f8a-1e5c-489f-aa77-115b4b0e9947
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=aac51830-7d74-4255-810a-08c490261f65
+ revised_id: 110
+ date_taken: 17-09-15
+ time_taken: 19:46:42
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.98781609
+ longitude: 35.64256475
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: Frenched by definite article (le la l') 
+ general_context: "Signage,Merchandise" 
+ material:
+    
+    
+ comments: "A common feature that ""Frenchifies"" is adding the definite article le la l'"
+ comments2: 

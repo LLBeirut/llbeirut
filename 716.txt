@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 277014bd-dd1d-4309-b369-284ba3657296
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3ddbc755-f201-431a-a71a-2a07cc482234
+ revised_id: 716
+ date_taken: 27-11-15
+ time_taken: 17:52:29
+ time_zone: EET
+ created_by: 17
+ latitude: 33.93198594
+ longitude: 35.59173923
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: transliteration 
+ general_context: Signage 
+ material:
+    
+    
+ comments: شاد اوبتيك
+ comments2: 

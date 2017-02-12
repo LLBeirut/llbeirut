@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: cf2767bb-c532-4734-a3ae-d926fb82c7a3
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=8496dba2-2f25-4bf5-9b33-5d8e37a18eea
+ revised_id: 1347
+ date_taken: 31-03-16
+ time_taken: 19:09:39
+ time_zone: EEST
+ created_by: 3
+ latitude: 33.87941473
+ longitude: 35.50463847
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: bilingual 
+ general_context: Merchandise 
+ material:
+    
+    
+ comments: """fachion"" instead of "" fashion "" "
+ comments2: 

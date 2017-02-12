@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: ca8436eb-59a0-4802-af3c-f780b5b0c486
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=01bfa236-76c2-4d66-b744-09f17d411586
+ revised_id: 1792
+ date_taken: 29-04-16
+ time_taken: 16:20:47
+ time_zone: EEST
+ created_by: 3
+ latitude: 33.88286708
+ longitude: 35.5041687
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: unilingual 
+ general_context: Event 
+ material:
+    
+    
+ comments: 
+ comments2: 

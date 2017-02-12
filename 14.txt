@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 07bd9b62-68b6-4cdf-be5a-f1c914ee4113
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=b3d0e6d2-86ec-4756-88f4-cda3bc10cf2f
+ revised_id: 14
+ date_taken: 06-09-15
+ time_taken: 15:32:56
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89831952
+ longitude: 35.47835039
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning same across langs,Western numbers" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: I'm pretty sure the franchise translated this from English and this is probably used all across the Arab world. But the hashtag in Arabic is better. #Yourstomake vs #كل_يوم_يومك 
+ comments2: 

@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 875cd020-3981-406b-9b5d-611aa703685b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=0a3d0685-440c-4da7-9ec4-e9592cc02b82
+ revised_id: 1466
+ date_taken: 18-04-16
+ time_taken: 13:34:51
+ time_zone: EEST
+ created_by: 15
+ latitude: 33.89640058
+ longitude: 35.48100164
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: bilingual Politics 
+ general_context: Graffiti 
+ material:
+    
+    
+ comments: 
+ comments2: 

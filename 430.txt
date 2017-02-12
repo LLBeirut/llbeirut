@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: c3a4f406-c8ad-4b88-87f1-0a1405e34641
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=1ad81085-58bf-4895-a64c-d0b782878902
+ revised_id: 430
+ date_taken: 21-10-15
+ time_taken: 00:03:26
+ time_zone: EEST
+ created_by: 12
+ latitude: 33.89510594
+ longitude: 35.51801328
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,humor" 
+ general_context: Services 
+ material:
+    
+    
+ comments: 
+ comments2: 

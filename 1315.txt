@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 33a134f3-54fc-490c-ba09-1f1e096f388c
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=2654d103-c4c5-44d9-bea2-c5690ff9ba70
+ revised_id: 1315
+ date_taken: 06-02-16
+ time_taken: 19:37:08
+ time_zone: EET
+ created_by: 10
+ latitude: 33.89538591
+ longitude: 35.48654795
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: unilingual 
+ general_context: "Merchandise,Franchise" 
+ material:
+    
+    
+ comments: 
+ comments2: 

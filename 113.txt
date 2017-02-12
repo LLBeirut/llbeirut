@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: f362bc10-9f2a-4501-9e89-868f7cb28a1e
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=0c5d44fb-2666-4a0a-a261-7373ad2dbfae
+ revised_id: 113
+ date_taken: 17-09-15
+ time_taken: 19:29:01
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.96929283
+ longitude: 35.60851993
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: business name in French 
+ general_context: Services 
+ material:
+    
+    
+ comments: "Common feature is to have the business name in French, but everything else in English"
+ comments2: 

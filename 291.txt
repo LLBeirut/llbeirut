@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 4d0c7466-86a9-4e1e-85a0-a8fe040b4f13
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=91526d4a-b04e-4320-ad77-06523084acef
+ revised_id: 291
+ date_taken: 27-09-15
+ time_taken: 12:20:03
+ time_zone: EEST
+ created_by: 5
+ latitude: NA
+ longitude: NA
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: "bilingual,transliteration,meaning not same across langs,Western numbers" 
+ general_context: "Advertising,Event,Food/Entertainment" 
+ material:
+    
+    
+ comments: 
+ comments2: 

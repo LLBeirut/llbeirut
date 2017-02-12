@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 99f879d2-46ff-4aa3-8e2e-7c7fb03c32c2
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=4948552d-1c5a-420c-9f16-295e7721cde7
+ revised_id: 328
+ date_taken: 07-10-15
+ time_taken: 20:18:42
+ time_zone: EEST
+ created_by: 12
+ latitude: 33.89504833
+ longitude: 35.5179821
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,humor,Western numbers" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: 
+ comments2: 

@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 9e3c2ac6-b7fb-44ba-8466-04c39ccfef8a
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=fb20bdc8-3d42-42f7-b50e-7f044f4ae18e
+ revised_id: 1784
+ date_taken: 02-04-16
+ time_taken: 14:32:58
+ time_zone: EEST
+ created_by: 14
+ latitude: 33.890782
+ longitude: 35.545076
+
+ languages:  
+  dominant_language: null
+    
+ script: "Armenian ,Arabic " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning same across langs,transliteration,multiple scripts in total item" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: 
+ comments2: 
