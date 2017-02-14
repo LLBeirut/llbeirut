@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: c462112a-5152-4409-aa91-40f8e692078b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=2bad9662-1d2c-4241-b0f6-5a60c867302d
+ revised_id: 1694
+ date_taken: 26-04-16
+ time_taken: 12:26:07
+ time_zone: EEST
+ created_by: 19
+ latitude: 33.89924109
+ longitude: 35.48368067
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: meaning same across langs 
+ general_context: "Signage,Advertising,Health/Beauty" 
+ material:
+    
+    
+ comments: 
+ comments2: 

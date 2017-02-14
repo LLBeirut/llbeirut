@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: f4d49dd2-4d13-4bcc-a72d-d36d8d676aad
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=5c45b20d-bf3f-42c2-bad6-d30ee7bb5593
+ revised_id: 540
+ date_taken: 18-09-15
+ time_taken: 11:27:04
+ time_zone: EEST
+ created_by: 22
+ latitude: 33.8979483
+ longitude: 35.47888739
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning not same across langs,audience-specific,Western numbers" 
+ general_context: Signage 
+ material:
+    
+    
+ comments: It's interesting that a completely Arabic sign is posted for a completely English/Latin store name 
+ comments2: 

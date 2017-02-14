@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 9dc9122b-509e-4092-9a1b-b45ace7ffed9
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=044ffc3f-3c47-4085-abc1-326e15dbab64
+ revised_id: 69
+ date_taken: 13-09-15
+ time_taken: 14:53:08
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.73822175
+ longitude: 35.45387311
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: meaning not same across langs 
+ general_context: "Education,Advertising" 
+ material:
+    
+    
+ comments: 
+ comments2: 

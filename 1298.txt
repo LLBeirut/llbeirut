@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: e337722b-53ec-40fa-abdd-78d69ff54730
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=5a8f5274-e643-4be1-87be-b8d2e46f1e87
+ revised_id: 1298
+ date_taken: 17-03-16
+ time_taken: 22:18:50
+ time_zone: EET
+ created_by: 19
+ latitude: 33.89899675
+ longitude: 35.48435491
+
+ languages:  
+  dominant_language: null
+    
+ script:  english
+  dominant_script: null
+    
+ Charateristics: "mixed languages,usage issue" 
+ general_context: Event 
+ material:
+    
+    
+ comments: 
+ comments2: 

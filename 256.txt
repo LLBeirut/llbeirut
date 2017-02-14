@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 693779f0-c5e8-4d7c-a831-224c4efeefd3
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=29ed6614-5691-433e-be1d-9f077c47ffde
+ revised_id: 256
+ date_taken: 25-09-15
+ time_taken: 12:54:25
+ time_zone: EEST
+ created_by: 12
+ latitude: 34.00848164
+ longitude: 35.64951058
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: "bilingual,transliteration,mixed languages,Western numbers,Oriental numbers,misspelling,mixed scripts in same words,literal translation" 
+ general_context: Signage 
+ material:
+    
+    
+ comments: 
+ comments2: 

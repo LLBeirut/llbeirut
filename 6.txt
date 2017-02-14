@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: a41e4c14-dd97-4cc2-a7fb-0d7c32e7a106
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d9c3adaf-cf50-4255-8985-f866a538bba8
+ revised_id: 6
+ date_taken: 04-09-15
+ time_taken: 19:25:01
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89671713
+ longitude: 35.47737918
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: single language 
+ general_context: "Advertising,Vehicle" 
+ material:
+    
+    
+ comments: 
+ comments2: 

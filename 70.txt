@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 93be83b3-8f16-4f84-907a-41542ba330de
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=a97db437-8cb5-4968-acfd-08a0cd65ab10
+ revised_id: 70
+ date_taken: 14-09-15
+ time_taken: 21:10:57
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.8967701
+ longitude: 35.4794152
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "religion,mixed languages" 
+ general_context: Vehicle 
+ material:
+    
+    
+ comments: 
+ comments2: 

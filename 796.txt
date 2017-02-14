@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: c1a951a7-c8b3-4791-9af1-91bcefbaef65
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3a634dd0-ceb0-4814-914d-229e72d9d13f
+ revised_id: 796
+ date_taken: 04-12-15
+ time_taken: 09:30:30
+ time_zone: EET
+ created_by: 26
+ latitude: 33.8965887
+ longitude: 35.47963891
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,transliteration,audience-specific" 
+ general_context: "Services,Housing" 
+ material:
+    
+    
+ comments: 
+ comments2: 

@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: c329d50d-99a4-4c76-8307-0f44509036f6
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=7656d815-2f0c-46ca-bd0b-fc40d50f1517
+ revised_id: 119
+ date_taken: 17-09-15
+ time_taken: 18:44:55
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89742456
+ longitude: 35.52092352
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "meaning same across langs,mixed languages,multiple scripts in total item" 
+ general_context: "Signage,Services" 
+ material:
+    
+    
+ comments: No parking is in English only. 
+ comments2: 

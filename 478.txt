@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: f6efcfa1-9bb9-4678-a763-15210ec3f038
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3b075970-7324-46ba-8bc9-756c52365566
+ revised_id: 478
+ date_taken: 03-11-15
+ time_taken: 19:16:51
+ time_zone: EET
+ created_by: 12
+ latitude: 33.89552756
+ longitude: 35.48202105
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: "unilingual,humor,Western numbers" 
+ general_context: Advertising 
+ material:
+    
+    
+ comments: 
+ comments2: 

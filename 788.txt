@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 5952fe90-ca90-4056-9dbd-7d59d50935d1
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d2d31f2d-7f57-4b43-b5fc-ebfeec0a1a34
+ revised_id: 788
+ date_taken: 04-12-15
+ time_taken: 09:38:57
+ time_zone: EET
+ created_by: 26
+ latitude: 33.89941641
+ longitude: 35.48008483
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,audience-specific,Western numbers" 
+ general_context: "Signage,Merchandise" 
+ material:
+    
+    
+ comments: 
+ comments2: 

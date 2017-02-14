@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 0e700e02-c66e-4eab-a5bd-6f6da3ea8a5e
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=64db7982-a284-409c-b477-59921c3b1bd5
+ revised_id: 1728
+ date_taken: 28-04-16
+ time_taken: 11:46:28
+ time_zone: EEST
+ created_by: 11
+ latitude: 33.894589
+ longitude: 35.4825777
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: bilingual 
+ general_context: "Services,Franchise" 
+ material:
+    
+    
+ comments: 
+ comments2: 

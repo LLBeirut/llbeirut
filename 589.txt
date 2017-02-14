@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: ca04bf88-24b3-49f0-b39c-77cb9ea330e7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=9bcdb994-0521-44ff-ba55-e55c59af8015
+ revised_id: 589
+ date_taken: 14-11-15
+ time_taken: 11:25:06
+ time_zone: EET
+ created_by: 13
+ latitude: 33.89737192
+ longitude: 35.53626001
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "wordplay,Western numbers" 
+ general_context: Advertising 
+ material:
+    
+    
+ comments: 
+ comments2: 

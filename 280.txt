@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 913669c6-d4cb-4602-a4b7-ce2db015be06
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=7a8e687a-89a4-4484-b6f7-292502c09f88
+ revised_id: 280
+ date_taken: 25-09-15
+ time_taken: 19:31:53
+ time_zone: EEST
+ created_by: 22
+ latitude: 33.56239293
+ longitude: 35.37356031
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning not same across langs,transliteration,mixed languages" 
+ general_context: "Signage,Food/Entertainment" 
+ material:
+    
+    
+ comments: It's interesting how the Arabic words are written in Latin script whereas the the English words are written in Arabic script 
+ comments2: 

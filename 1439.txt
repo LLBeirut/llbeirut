@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 707a4c6c-adef-40e6-86c5-f14094ca5123
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=7ff16f83-242a-8fc3-b8a2-c6d4b28d1c86
+ revised_id: 1439
+ date_taken: 14-03-16
+ time_taken: 15:41:25
+ time_zone: EEST
+ created_by: 14
+ latitude: 33.89193
+ longitude: 35.540083
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin ,Armenian " 
+  dominant_script: null
+    
+ Charateristics: "trilingual,meaning not same across langs,audience-specific,multiple scripts in total item,literal translation,religion" 
+ general_context: "Signage,Education,Publication" 
+ material:
+    
+    
+ comments: 
+ comments2: 

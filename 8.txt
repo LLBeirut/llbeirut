@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 8b93cf39-226d-4603-b1ee-aebaf0cf7633
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=381f2e65-c26b-46bb-9a64-7cf5be695a65
+ revised_id: 8
+ date_taken: 05-09-15
+ time_taken: 11:22:23
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89879467
+ longitude: 35.48146307
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: single language 
+ general_context: Signage 
+ material:
+    
+    
+ comments: Notice the mixed script logo B and ب
+ comments2: 

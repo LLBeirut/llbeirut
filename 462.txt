@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: ae8169ee-ff24-41cc-822a-e40081a03d77
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=9810fe79-2fc1-4e77-9ff8-83e86aeda634
+ revised_id: 462
+ date_taken: 28-10-15
+ time_taken: 14:14:18
+ time_zone: EET
+ created_by: 1
+ latitude: 33.8974058
+ longitude: 35.4847368
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning not same across langs,mixed languages,humor,wordplay,cultural reference" 
+ general_context: "Signage,Graffiti" 
+ material:
+    
+    
+ comments: 
+ comments2: 

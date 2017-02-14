@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 74d72d29-c76c-4552-9a68-6c4a6eb0a775
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=2eaa9ac3-1c4a-4e45-a3d0-675e97e618e4
+ revised_id: 409
+ date_taken: 13-10-15
+ time_taken: 21:17:19
+ time_zone: EEST
+ created_by: 8
+ latitude: 33.89623051
+ longitude: 35.52436649
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,cultural reference" 
+ general_context: Graffiti 
+ material:
+    
+    
+ comments: 
+ comments2: 

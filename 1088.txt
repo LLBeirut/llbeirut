@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 53d2481f-06e2-4b4b-852f-368e499a760d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=62f33fdb-2973-42f1-a4e1-55b9fb658ebc
+ revised_id: 1088
+ date_taken: 06-02-16
+ time_taken: 11:03:34
+ time_zone: EET
+ created_by: 28
+ latitude: 33.8319307
+ longitude: 35.567059
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "trilingual,meaning same across langs,meaning not same across langs,transliteration,mixed languages,multiple scripts in total item,calligraphy" 
+ general_context: "Signage,Merchandise" 
+ material:
+    
+    
+ comments: 
+ comments2: 

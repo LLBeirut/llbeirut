@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 757d0d53-d04e-4b2b-82bb-403bca6a4321
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=24719cc1-c44e-4e3e-b6d7-0db27e26f800
+ revised_id: 759
+ date_taken: 03-12-15
+ time_taken: 16:31:26
+ time_zone: EET
+ created_by: 26
+ latitude: 33.90066618
+ longitude: 35.57290938
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,audience-specific" 
+ general_context:  medical 
+ material:
+    
+    
+ comments: 
+ comments2: 

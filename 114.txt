@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: b615dd64-7d6c-40e2-af8f-b8e8da67bbf1
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=940e2f53-38ab-448f-8101-6471892fb05d
+ revised_id: 114
+ date_taken: 17-09-15
+ time_taken: 18:59:16
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89573193
+ longitude: 35.56188868
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: unilingual 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: There is always a Johnny Walker and leaving the Nahr el Mot area or entering Jounieh. 
+ comments2: 

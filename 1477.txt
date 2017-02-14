@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: aa5dfccd-4c31-481f-b6ff-96c759127f21
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=fa18801d-94e0-4d67-8715-a093522c9ad6
+ revised_id: 1477
+ date_taken: 20-04-16
+ time_taken: 11:14:09
+ time_zone: EEST
+ created_by: 16
+ latitude: 33.89967334
+ longitude: 35.48032365
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,transliteration,humor" 
+ general_context: "Signage,Food/Entertainment,Merchandise" 
+ material:
+    
+    
+ comments: 
+ comments2: 

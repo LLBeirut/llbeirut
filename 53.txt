@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 00d525dd-10ef-4864-a83f-c35d22fc3ce7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=fd14ed2a-0724-4ce8-8bdd-c7eb538999fa
+ revised_id: 53
+ date_taken: 12-09-15
+ time_taken: 13:22:10
+ time_zone: EEST
+ created_by: 25
+ latitude: 33.89941547
+ longitude: 35.48056156
+
+ languages:  
+  dominant_language: null
+    
+ script: "Latin ,Arabic " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,mixed languages,multiple scripts in total item,Oriental numbers" 
+ general_context: "Food/Entertainment,Advertising" 
+ material:
+    
+    
+ comments: 
+ comments2: 

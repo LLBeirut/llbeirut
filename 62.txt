@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 5cb84d08-a6d7-469e-aeff-23932e5b82bf
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=5a4d84e2-8c77-42b3-a1a7-7cb40b7e7461
+ revised_id: 62
+ date_taken: 11-09-15
+ time_taken: 10:49:41
+ time_zone: EEST
+ created_by: 1
+ latitude: 33.899215
+ longitude: 35.4789107
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning same across langs,audience-specific,literal translation,humor" 
+ general_context:  instructions 
+ material:
+    
+    
+ comments: 
+ comments2: 

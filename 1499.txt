@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: c2a44304-983a-48d9-a1e4-50defc9e2fe7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=7535d2ba-9fcc-4eee-8600-c368ee7daeee
+ revised_id: 1499
+ date_taken: 23-04-16
+ time_taken: 19:37:37
+ time_zone: EEST
+ created_by: 30
+ latitude: 33.88749326
+ longitude: 35.52072348
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: bilingual 
+ general_context: Signage 
+ material:
+    
+    
+ comments: 
+ comments2: 

@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 4da93d77-d0eb-4900-84be-1c976fc9fe94
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=546662cb-5ee4-4056-b048-a871340c6272
+ revised_id: 1166
+ date_taken: 08-02-16
+ time_taken: 13:59:19
+ time_zone: EET
+ created_by: 16
+ latitude: 33.8818258
+ longitude: 35.51793038
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,transliteration,usage issue" 
+ general_context: "Signage,Food/Entertainment,Telephone" 
+ material:
+    
+    
+ comments: 
+ comments2: 

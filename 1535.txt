@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: fdcfdfc0-b016-4d65-a0d2-9afcdc1b3079
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e31b6025-02cf-43e2-bf30-384a1abbf1d3
+ revised_id: 1535
+ date_taken: 17-04-16
+ time_taken: 16:12:20
+ time_zone: EEST
+ created_by: 3
+ latitude: 33.88132205
+ longitude: 35.50412111
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: unilingual 
+ general_context: Advertising 
+ material:
+    
+    
+ comments: 
+ comments2: 

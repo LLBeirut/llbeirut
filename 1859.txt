@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 861653e7-65e1-4ac2-bb06-50672f6c2b0d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=82498393-74fb-4dda-b074-6c07c4e6569c
+ revised_id: 1859
+ date_taken: 24-04-16
+ time_taken: 22:19:21
+ time_zone: EEST
+ created_by: 31
+ latitude: 33.8953198
+ longitude: 35.5200039
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: bilingual 
+ general_context: Merchandise 
+ material:
+    
+    
+ comments: 
+ comments2: 

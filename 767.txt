@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: d2406f6d-a984-4517-b1f3-1ea5a8bd2e91
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f79466a1-ee2a-47eb-95b7-79259d0c0018
+ revised_id: 767
+ date_taken: 03-12-15
+ time_taken: 16:12:51
+ time_zone: EET
+ created_by: 26
+ latitude: 33.90214579
+ longitude: 35.57346158
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,usage issue,humor" 
+ general_context: "Merchandise,Services" 
+ material:
+    
+    
+ comments: 
+ comments2: 

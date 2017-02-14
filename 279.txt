@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: cff5a4a3-2856-4718-bfe8-169e5b262f93
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f006e179-50ac-4ac6-b15b-bd045a77748f
+ revised_id: 279
+ date_taken: 24-09-15
+ time_taken: 21:25:12
+ time_zone: EEST
+ created_by: 22
+ latitude: 33.85408421
+ longitude: 35.50682846
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning not same across langs,transliteration,audience-specific,mixed languages,multiple scripts in total item,Western numbers" 
+ general_context: "Signage,Services,Health/Beauty" 
+ material:
+    
+    
+ comments: "It's interesting how their name is in English, yet the services they offer are all in Arabic, except for Botox and fillers. "
+ comments2: 

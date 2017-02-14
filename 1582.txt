@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: ef4e1d4d-39d3-4c89-9497-45ed4f223322
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=28f9bd71-bd12-4cff-b6b9-201ed7873d5e
+ revised_id: 1582
+ date_taken: 25-04-16
+ time_taken: 12:09:00
+ time_zone: EEST
+ created_by: 30
+ latitude: 33.87382418
+ longitude: 35.50055922
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: bilingual 
+ general_context: "Vehicle,Services" 
+ material:
+    
+    
+ comments: 
+ comments2: 

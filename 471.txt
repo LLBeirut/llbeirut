@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 783561ff-0245-497b-86ee-244aa1199ab8
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=c236599b-9f50-4412-80a1-adfd998a089e
+ revised_id: 471
+ date_taken: 30-10-15
+ time_taken: 20:31:19
+ time_zone: EET
+ created_by: 12
+ latitude: 33.89491864
+ longitude: 35.51549233
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning not same across langs,mixed languages,multiple scripts in total item,Western numbers" 
+ general_context: Advertising 
+ material:
+    
+    
+ comments: 
+ comments2: 

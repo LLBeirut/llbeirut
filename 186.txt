@@ -1,0 +1,39 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 74435ad1-3ff5-422a-8be3-a8cd2bf726a9
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=1580e4a0-d925-4184-8e31-81c370fb8def
+ revised_id: 186
+ date_taken: 21-09-15
+ time_taken: 16:32:19
+ time_zone: EEST
+ created_by: 7
+ latitude: 33.88509315
+ longitude: 35.6363696
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning same across langs,multiple scripts in total item" 
+ general_context: "Advertising,Services" 
+ material:
+    
+    
+ comments: """Your real estate directory
+دليلك العقاري"""
+ comments2: 

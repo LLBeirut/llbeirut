@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 926bfa51-a23f-4d28-929d-a81ddec9bd7d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=ae28f221-7ea9-40e3-8dea-7088de454dbd
+ revised_id: 575
+ date_taken: 13-11-15
+ time_taken: 12:33:39
+ time_zone: EET
+ created_by: 12
+ latitude: 33.9108348
+ longitude: 35.57928398
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,mixed languages,usage issue,humor,wordplay" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: Meat the fish
+ comments2: 

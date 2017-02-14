@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 67be4a76-a7ec-477b-b8fe-93f659fb0f93
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d157463d-6130-4196-9fed-6157f9723472
+ revised_id: 211
+ date_taken: 22-09-15
+ time_taken: 01:04:41
+ time_zone: EEST
+ created_by: 12
+ latitude: 33.56058001
+ longitude: 35.38604759
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "bilingual,mixed languages,misspelling,humor,wordplay,Western numbers" 
+ general_context: Advertising 
+ material:
+    
+    
+ comments: 
+ comments2: 

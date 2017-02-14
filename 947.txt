@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 67c55be3-5c6e-41cb-b3ea-a647fb99d00c
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=c288a60c-9ee0-4d63-9199-522c483f1649
+ revised_id: 947
+ date_taken: 08-12-15
+ time_taken: 12:58:55
+ time_zone: EET
+ created_by: 1
+ latitude: 33.8850397
+ longitude: 35.5160745
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: unilingual 
+ general_context: "Signage,Advertising,Services,Telephone" 
+ material:
+    
+    
+ comments: 
+ comments2: 
