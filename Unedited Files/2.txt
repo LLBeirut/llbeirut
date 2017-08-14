@@ -43,10 +43,10 @@ body:
         language: null
         script: Eastern
         feature: Number
-    "شوفير"
+    "شوفير":
         script : Arabic
         language : null
-    "علي علي"
+    "علي علي":
         script: Arabic
         language: null
         feature: Proper Noun
