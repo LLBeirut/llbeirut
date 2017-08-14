@@ -1,11 +1,11 @@
 
 Template_Version : 0.4
-    
-   
+
+
 header:
-    
- complete: true 
-    
+
+ complete: true
+
  altered:
  -anonymized: false
  -point_focus: false
@@ -23,34 +23,30 @@ header:
  latitude: 33.89487131
  longitude: 35.56443452
 
- languages:  
+ languages:
   dominant_language: null
-    
- script: Arabic  
+
+ script: Arabic
   dominant_script: Arabic
-    
- Charateristics: "unilingual,Eastern numbers" 
- general_context: Vehicle 
+
+ Charateristics: "unilingual,Eastern numbers"
+ general_context: Vehicle
  material: overwriting
-    
-    
- comments: 
- comments2: 
+
+
+ comments:
+ comments2:
 
 body:
  paragraph1:
-   “٧٦٨٩٣٥٤٩”:
-    language: null
-    script: Eastern 
-    feature: Number
-   ‪“:‬شوفير‪”‬         
-    script : Arabic
-    language : null
-“ علي علي‪”‬   
-    script: Arabic
-    language: null
-    feature: Proper Noun
-
-
-
-
+    "٧٦٨٩٣٥٤٩":
+        language: null
+        script: Eastern
+        feature: Number
+    "شوفير"
+        script : Arabic
+        language : null
+    "علي علي"
+        script: Arabic
+        language: null
+        feature: Proper Noun
