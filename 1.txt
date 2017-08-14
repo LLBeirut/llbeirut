@@ -1,11 +1,11 @@
 
 Template_Version : 0.4
-    
-   
+
+
 header:
-    
+
  complete: false
-    
+
  altered:
  -anonymized: false
  -point_focus: false
@@ -23,16 +23,19 @@ header:
  latitude: 33.89930726
  longitude: 35.47979817
 
- languages:  
+ languages:
   dominant_language: null
-    
- script: "Arabic ,Latin  " 
+
+ script: "Arabic ,Latin  "
   dominant_script: null
-    
- Charateristics: bilingual equivalence 
- general_context:  Office 
+
+ Charateristics: bilingual equivalence
+ general_context:  Office
  material:
-    
-    
- comments: 
- comments2: 
+
+
+ comments:
+ comments2:
+
+Body:
+ This is a test.
