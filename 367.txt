@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: cacd9236-4de1-45aa-8d64-974d32184761
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=183cb7e1-c20e-4580-a48b-85d203df5bad
+ revised_id: 367
+ date_taken: 07-10-15
+ time_taken: 14:01:40
+ time_zone: EEST
+ created_by: 8
+ latitude: 33.89839091
+ longitude: 35.48161977
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: "bilingual,unilingual,audience-specific,Western numbers" 
+ general_context: "Advertising,Housing" 
+ material:
+    
+    
+ comments: 
+ comments2: 

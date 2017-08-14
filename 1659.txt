@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: e6d8f1e5-83c1-4495-8e10-a45d2e0aaa19
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=69f5710e-8ca0-4654-959e-3bcc6251bc4e
+ revised_id: 1659
+ date_taken: 15-04-16
+ time_taken: 17:51:36
+ time_zone: EEST
+ created_by: 2
+ latitude: 33.89219526
+ longitude: 35.47000484
+
+ languages:  
+  dominant_language: null
+    
+ script: "Latin ,Arabic " 
+  dominant_script: null
+    
+ Charateristics: "unilingual,Frenched by definite article (le la l),business name in French" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: 
+ comments2: 

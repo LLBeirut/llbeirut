@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 53057ef8-1f40-4aa3-83e6-ae854e5cf8b5
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=28e06b89-fa7b-4cde-878b-181e9217be5a
+ revised_id: 364
+ date_taken: 10-10-15
+ time_taken: 22:57:16
+ time_zone: EEST
+ created_by: 8
+ latitude: 33.88356959
+ longitude: 35.51913589
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning not same across langs,transliteration,mixed languages,humor,cultural reference,Frenched by definite article (le la l')" 
+ general_context: "Food/Entertainment,Advertising" 
+ material:
+    
+    
+ comments: 
+ comments2: 

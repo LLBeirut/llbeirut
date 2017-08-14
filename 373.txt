@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 1fcbd35f-effe-4d13-a0ed-c9c77fd098e9
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f45acb60-e679-55f1-12f6-8159ef7505db
+ revised_id: 373
+ date_taken: 14-10-15
+ time_taken: 02:10:31
+ time_zone: EEST
+ created_by: 20
+ latitude: 33.896634
+ longitude: 35.510292
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning not same across langs,mixed languages,Oriental numbers,Frenched by definite article (le la l')" 
+ general_context: "Signage,Food/Entertainment" 
+ material:
+    
+    
+ comments: 
+ comments2: 

@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: ccabf115-ed1e-4705-8376-9d8e2c8f8547
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=1d734d3e-c23c-4de5-84d2-919973e14ba2
+ revised_id: 1168
+ date_taken: 08-02-16
+ time_taken: 15:46:28
+ time_zone: EET
+ created_by: 16
+ latitude: 33.89507928
+ longitude: 35.51939879
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,mixed languages,Western numbers" 
+ general_context: "Advertising,Telephone,Housing" 
+ material:
+    
+    
+ comments: 
+ comments2: 

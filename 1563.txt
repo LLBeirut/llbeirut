@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: d776ef74-460d-446a-b602-0a0ef33baafc
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=2c0596ae-878d-4efd-b2cb-b9b0b5f59f7d
+ revised_id: 1563
+ date_taken: 24-04-16
+ time_taken: 22:20:04
+ time_zone: EEST
+ created_by: 30
+ latitude: 33.8889838
+ longitude: 35.5160351
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: unilingual 
+ general_context: Health/Beauty 
+ material:
+    
+    
+ comments: 
+ comments2: 

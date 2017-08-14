@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 12eee611-4139-4d43-b86c-40d8f25e715d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=92b71306-aca6-492e-9e2e-2c2d97c511d7
+ revised_id: 1176
+ date_taken: 09-02-16
+ time_taken: 15:58:31
+ time_zone: EET
+ created_by: 16
+ latitude: 33.89337224
+ longitude: 35.52449944
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning not same across langs,transliteration,Western numbers" 
+ general_context: "Signage,Advertising,Services,Telephone" 
+ material:
+    
+    
+ comments: 
+ comments2: 

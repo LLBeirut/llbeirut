@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 9c7841fb-6ea8-4470-b23e-43ae44d3dacb
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3f42dc35-b72b-425e-8b69-a647e2a77f7d
+ revised_id: 1329
+ date_taken: 21-03-16
+ time_taken: 18:58:14
+ time_zone: EET
+ created_by: 15
+ latitude: 33.89915379
+ longitude: 35.48391997
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "bilingual,mixed languages" 
+ general_context: "Signage,Services,Health/Beauty" 
+ material:
+    
+    
+ comments: 
+ comments2: 

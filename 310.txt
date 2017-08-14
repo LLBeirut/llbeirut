@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 1aa2952f-d7d3-48a7-a931-bc9cc7c30d99
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=2f2fb841-e7b7-48dc-ab51-ac7bdc9df925
+ revised_id: 310
+ date_taken: 04-10-15
+ time_taken: 15:50:03
+ time_zone: EEST
+ created_by: 13
+ latitude: 33.73527744
+ longitude: 35.45394125
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,humor,cultural reference" 
+ general_context: Advertising 
+ material:
+    
+    
+ comments: 
+ comments2: 

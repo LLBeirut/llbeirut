@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 7b4ace27-43db-436c-9fa5-7062fb52e59c
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=eb9744c2-e66d-4552-8299-cf965244e021
+ revised_id: 1796
+ date_taken: 02-04-16
+ time_taken: 15:59:06
+ time_zone: EEST
+ created_by: 14
+ latitude: 33.893914
+ longitude: 35.541967
+
+ languages:  
+  dominant_language: null
+    
+ script: "Latin ,Arabic " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning not same across langs,multiple scripts in total item,mixed languages" 
+ general_context: "Merchandise,Services,Health/Beauty" 
+ material:
+    
+    
+ comments: 
+ comments2: 

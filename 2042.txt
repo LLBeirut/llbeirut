@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 9d78cc7d-5d4c-4942-a4bb-4c961e2b2c2a
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=33f5afa2-1dbc-4929-8846-418b3b154aac
+ revised_id: 2042
+ date_taken: 29-04-16
+ time_taken: 18:02:58
+ time_zone: EEST
+ created_by: 16
+ latitude: 33.88370104
+ longitude: 35.52180005
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,humor" 
+ general_context: "Signage,Vehicle" 
+ material:
+    
+    
+ comments: 
+ comments2: 

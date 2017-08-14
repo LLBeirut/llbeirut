@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 46eb5b91-8445-45ff-a5af-ee30da7b0cc7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=15e1b0c0-21a3-458b-8e90-653aa6839a37
+ revised_id: 2059
+ date_taken: 29-04-16
+ time_taken: 11:17:41
+ time_zone: EEST
+ created_by: 16
+ latitude: 33.27164001
+ longitude: 35.19948176
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: "bilingual,transliteration" 
+ general_context: "Signage,Food/Entertainment" 
+ material:
+    
+    
+ comments: 
+ comments2: 

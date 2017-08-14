@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: e0087fa8-005e-46aa-b671-175e2f8eabb2
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=60953369-15cd-f3a4-de35-1f206ac94ddb
+ revised_id: 219
+ date_taken: 22-09-15
+ time_taken: 13:11:24
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.795471
+ longitude: 35.483151
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: unilingual 
+ general_context: Vehicle 
+ material:
+    
+    
+ comments: 
+ comments2: 

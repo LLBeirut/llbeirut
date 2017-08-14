@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: b7d15da3-3214-41e1-8eb4-e20f5c8edc4d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=09c1d43d-8e4f-4dc9-becc-68c18f7e4f8e
+ revised_id: 789
+ date_taken: 04-12-15
+ time_taken: 09:38:29
+ time_zone: EET
+ created_by: 26
+ latitude: 33.89920101
+ longitude: 35.47995172
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: "unilingual,audience-specific" 
+ general_context: "Signage,Merchandise" 
+ material:
+    
+    
+ comments: 
+ comments2: 

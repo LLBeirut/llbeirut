@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 14eba2cd-f0d3-4343-aef2-f2b222ee9ae7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=ddf54b32-1c8d-4dde-b4f5-dd38c87a3ce6
+ revised_id: 957
+ date_taken: 08-12-15
+ time_taken: 13:22:15
+ time_zone: EET
+ created_by: 1
+ latitude: 33.8840339
+ longitude: 35.5195616
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: unilingual 
+ general_context: "Signage,Food/Entertainment,Advertising" 
+ material:
+    
+    
+ comments: Centre closed down years ago.
+ comments2: 

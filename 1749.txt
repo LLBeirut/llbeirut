@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: f4c6cb24-09d6-4801-b152-f52b0d7b0a27
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=8b6d6988-c5cb-4082-af12-61d3fc65fd9b
+ revised_id: 1749
+ date_taken: 28-04-16
+ time_taken: 12:45:46
+ time_zone: EEST
+ created_by: 18
+ latitude: 33.8729937
+ longitude: 35.4981263
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: "unilingual,humor,cultural reference" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: 
+ comments2: 

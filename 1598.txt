@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 41087f83-62f9-4c7a-a2af-eafbbe7507dc
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=00ca543c-918e-49f1-89f8-25c51c811b9b
+ revised_id: 1598
+ date_taken: 27-04-16
+ time_taken: 06:56:38
+ time_zone: EEST
+ created_by: 30
+ latitude: 33.87348073
+ longitude: 35.50218414
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: bilingual 
+ general_context: Services 
+ material:
+    
+    
+ comments: 
+ comments2: 

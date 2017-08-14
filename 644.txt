@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 47bcdbff-67f4-4249-93d9-9e3ca6e05c75
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=1fa510fd-cd6f-4edf-a8be-8d03d1c7b4e5
+ revised_id: 644
+ date_taken: 19-11-15
+ time_taken: 09:03:22
+ time_zone: EET
+ created_by: 13
+ latitude: 33.89960618
+ longitude: 35.48046286
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning same across langs,literal translation,cultural reference" 
+ general_context: "Advertising,Event" 
+ material:
+    
+    
+ comments: 
+ comments2: 

@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: e7db4fca-fad3-42cd-9b7e-ab2c45406288
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=898a0d79-a209-4bc1-b64d-24721b22daa8
+ revised_id: 638
+ date_taken: 08-11-15
+ time_taken: 13:08:26
+ time_zone: EET
+ created_by: 8
+ latitude: 33.89772597
+ longitude: 35.56713824
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning not same across langs,audience-specific,mixed languages,literal translation,humor" 
+ general_context: "Food/Entertainment,Advertising" 
+ material:
+    
+    
+ comments: 
+ comments2: 

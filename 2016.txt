@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 582340c9-fb66-40cd-92c0-8b9b3c22916b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=710b5704-39d3-4f23-9dbc-b07799d02f40
+ revised_id: 2016
+ date_taken: 29-04-16
+ time_taken: 11:41:18
+ time_zone: EEST
+ created_by: 16
+ latitude: 33.26935309
+ longitude: 35.20378436
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "bilingual,mixed languages,misspelling,Western numbers" 
+ general_context: "Food/Entertainment,Signage" 
+ material:
+    
+    
+ comments: 
+ comments2: 

@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 9af08683-9c38-431d-af8d-779cca34f0f4
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=7a6f1850-6004-495e-8e5d-85f28bae9fdf
+ revised_id: 140
+ date_taken: 20-09-15
+ time_taken: 17:06:01
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.90051346
+ longitude: 35.47030519
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "meaning not same across langs,mixed languages,Western numbers" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: lebanese expression wala3neee inserted jn English poster
+ comments2: 

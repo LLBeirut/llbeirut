@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: fa0bbd32-5ec6-4107-9f55-9d2feb41e9ff
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=383557d7-2c53-4e65-8b11-25aeaca2e1fc
+ revised_id: 1458
+ date_taken: 18-04-16
+ time_taken: 13:27:35
+ time_zone: EEST
+ created_by: 15
+ latitude: 33.8962614
+ longitude: 35.48333576
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,humor" 
+ general_context: Graffiti 
+ material:
+    
+    
+ comments: 
+ comments2: 

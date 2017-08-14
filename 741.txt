@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: fb4829d3-825b-4914-9350-b9abeb36b77e
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=2ff1cc53-24ab-40fa-9721-b47a31d411b5
+ revised_id: 741
+ date_taken: 01-12-15
+ time_taken: 17:28:32
+ time_zone: EET
+ created_by: 4
+ latitude: 33.90028949
+ longitude: 35.48251307
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning not same across langs,transliteration,mixed languages,multiple scripts in total item,mixed scripts in same words" 
+ general_context: Event 
+ material:
+    
+    
+ comments: 
+ comments2: 

@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 25bb4f95-dde7-4992-9529-4f0be7b4a67b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=963e4341-8c55-4b18-9f23-3b7c4a664754
+ revised_id: 1826
+ date_taken: 25-04-16
+ time_taken: 10:51:39
+ time_zone: EEST
+ created_by: 2
+ latitude: 33.89919243
+ longitude: 35.48397952
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,business name in French,meaning not same across langs,audience-specific" 
+ general_context: "Food/Entertainment,Advertising" 
+ material:
+    
+    
+ comments: 
+ comments2: 

@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: d45f79cb-d641-4f71-9be4-853d2e050dd6
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=6fb10e1c-d923-45f4-9643-eabe48e7842b
+ revised_id: 1832
+ date_taken: 23-04-16
+ time_taken: 11:03:11
+ time_zone: EEST
+ created_by: 2
+ latitude: 33.89710387
+ longitude: 35.48015544
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,transliteration" 
+ general_context: Signage Bookstore 
+ material:
+    
+    
+ comments: 
+ comments2: 

@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 6814a08c-ff13-419b-b8ba-efad3c1a60e3
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=83b508ec-3d4a-4c0c-89fe-b8e911aef195
+ revised_id: 771
+ date_taken: 03-12-15
+ time_taken: 16:23:35
+ time_zone: EET
+ created_by: 26
+ latitude: 33.90268425
+ longitude: 35.57484828
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,wordplay" 
+ general_context: Merchandise 
+ material:
+    
+    
+ comments: Ritika means movement in English.  
+ comments2: 

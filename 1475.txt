@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: da7415f2-6877-4505-a882-f974e9123671
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3fc99ae7-950f-490e-8cbe-e4ed0cc95de7
+ revised_id: 1475
+ date_taken: 20-04-16
+ time_taken: 12:26:01
+ time_zone: EET
+ created_by: 16
+ latitude: 33.8591556
+ longitude: 35.50577913
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,transliteration,humor" 
+ general_context: Vehicle 
+ material:
+    
+    
+ comments: 
+ comments2: 

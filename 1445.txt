@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: e725db9d-e379-4e4a-870c-0933a863dd4c
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=96dca39b-829b-47fb-04a7-e5a8f6bb2c28
+ revised_id: 1445
+ date_taken: 02-04-16
+ time_taken: 17:06:50
+ time_zone: EEST
+ created_by: 14
+ latitude: 33.89358
+ longitude: 35.54051
+
+ languages:  
+  dominant_language: null
+    
+ script: ",Arabic ,Latin ,Armenian " 
+  dominant_script: null
+    
+ Charateristics: "trilingual,meaning same across langs" 
+ general_context: Signage 
+ material:
+    
+    
+ comments: 
+ comments2: 

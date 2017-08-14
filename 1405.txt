@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: d6b052cb-7269-4bb0-ae78-d74ffc24b61a
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3bb943ff-874a-4d60-86b3-ab49790df7c5
+ revised_id: 1405
+ date_taken: 09-04-16
+ time_taken: 12:06:46
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89895071
+ longitude: 35.48382034
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,humor" 
+ general_context: "Advertising,Health/Beauty" 
+ material:
+    
+    
+ comments: 
+ comments2: 

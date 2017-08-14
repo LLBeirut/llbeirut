@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 0b8078cb-fe0e-462e-a5be-130e51939350
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=2c743586-2c3c-4e55-9cbd-b59dda4b49e3
+ revised_id: 213
+ date_taken: 22-09-15
+ time_taken: 10:15:55
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.88521389
+ longitude: 35.5095898
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "bilingual,mixed languages,misspelling,Western numbers,business name in French" 
+ general_context: "Signage,Event" 
+ material:
+    
+    
+ comments: 
+ comments2: 

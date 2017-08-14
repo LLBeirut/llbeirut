@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 0bcf3f89-da57-44e0-b0c7-810a9bc90917
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=5b05659d-0566-4b4d-ab4f-afee0ae5f033
+ revised_id: 1354
+ date_taken: 31-03-16
+ time_taken: 18:28:52
+ time_zone: EEST
+ created_by: 3
+ latitude: 33.87979047
+ longitude: 35.50498109
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: unilingual 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: """Haidy coffee"" --> هيدي اهوة"
+ comments2: 

@@ -1,0 +1,39 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 19e0af8a-e5dd-4f39-81c3-c0d505a70635
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=fc64c2c6-58e3-444f-8b20-e36d804e2ee6
+ revised_id: 162
+ date_taken: 15-09-15
+ time_taken: 20:23:29
+ time_zone: EEST
+ created_by: 8
+ latitude: 33.89941808
+ longitude: 35.48176121
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,meaning same across langs,misspelling" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: "At a place that sells crepes. They meant ""Digestive"", the McVitie's biscuits as an option for the crepes filling. 
+The misspelling could be because the word was spelled as it is spoken by Arabic, non-English or French speakers. "
+ comments2: 

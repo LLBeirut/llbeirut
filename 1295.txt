@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 41ba89d3-14e0-47b3-a202-d3547dcb036b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=5e9d1eb4-5611-464a-8b0c-f7d782752efb
+ revised_id: 1295
+ date_taken: 16-03-16
+ time_taken: 15:33:19
+ time_zone: EET
+ created_by: 18
+ latitude: 33.8930284
+ longitude: 35.5047201
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,Western numbers" 
+ general_context: "Signage,Food/Entertainment,Advertising" 
+ material:
+    
+    
+ comments: 
+ comments2: 

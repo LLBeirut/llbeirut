@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 2ef90d4c-4aeb-4fc1-82ac-b76db59e1747
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=33b47770-eac4-4f38-9595-63e43d41b674
+ revised_id: 1506
+ date_taken: 24-04-16
+ time_taken: 13:21:51
+ time_zone: EEST
+ created_by: 30
+ latitude: 33.8976067
+ longitude: 35.49413214
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: bilingual 
+ general_context: Education 
+ material:
+    
+    
+ comments: 
+ comments2: 

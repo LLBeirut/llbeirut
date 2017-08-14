@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: cbb8a6f7-80da-4758-b52d-40607af7b227
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=a5503739-5c14-4e9a-bdf1-7d38729415d7
+ revised_id: 778
+ date_taken: 03-12-15
+ time_taken: 17:02:20
+ time_zone: EET
+ created_by: 26
+ latitude: 33.90213326
+ longitude: 35.57453915
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "bilingual,mixed languages,usage issue,Frenched by definite article (le la l')" 
+ general_context: Merchandise 
+ material:
+    
+    
+ comments: 
+ comments2: 

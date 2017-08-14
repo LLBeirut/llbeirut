@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 79df3c5c-66e9-4410-8508-a6f3015e17cd
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3b60be1c-54ad-456b-bfd3-9afe6d3df6f7
+ revised_id: 1260
+ date_taken: 08-02-16
+ time_taken: 13:18:50
+ time_zone: EET
+ created_by: 29
+ latitude: 33.66834372
+ longitude: 35.82810681
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "trilingual,meaning same across langs,meaning not same across langs,mixed languages,multiple scripts in total item,literal translation,Western numbers" 
+ general_context: "Signage,Advertising" 
+ material:
+    
+    
+ comments: 
+ comments2: 

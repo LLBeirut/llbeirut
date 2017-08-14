@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 04bc2fba-f377-460c-85e2-6fffc8406fcd
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d2ba45b6-5500-4473-9786-410b764ab609
+ revised_id: 2075
+ date_taken: 01-05-16
+ time_taken: 12:03:23
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89669976
+ longitude: 35.47755151
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Charateristics: "unilingual,Oriental numbers" 
+ general_context: Advertising 
+ material:
+    
+    
+ comments: 
+ comments2: 

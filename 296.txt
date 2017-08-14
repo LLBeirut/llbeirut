@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: e1eeb301-548f-4450-9235-100263016b50
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=648db9d0-4c2b-4821-96cc-e59cbe58f1ed
+ revised_id: 296
+ date_taken: 02-10-15
+ time_taken: 12:19:50
+ time_zone: EEST
+ created_by: 4
+ latitude: 33.8989874
+ longitude: 35.48193092
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,misspelling,usage issue,humor" 
+ general_context: "Food/Entertainment,Services" 
+ material:
+    
+    
+ comments: 
+ comments2: 

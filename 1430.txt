@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 3acc186c-4035-4109-b120-99b3cb205f1e
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f62253ca-0c0c-4892-b695-16bdd6bdcbbd
+ revised_id: 1430
+ date_taken: 17-04-16
+ time_taken: 12:25:47
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89040656
+ longitude: 35.51450486
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "bilingual,meaning not same across langs" 
+ general_context: "Signage,Merchandise" 
+ material:
+    
+    
+ comments: 
+ comments2: 

@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: ab9d238e-2705-439c-a094-fe9520f677fa
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=95aceb06-45d0-4890-9841-f91bcb555b20
+ revised_id: 527
+ date_taken: 07-11-15
+ time_taken: 13:11:05
+ time_zone: EET
+ created_by: 4
+ latitude: 33.8956965
+ longitude: 35.48168653
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: unilingual 
+ general_context: "Merchandise,Services" 
+ material:
+    
+    
+ comments: What does 'shuman' even mean??
+ comments2: 

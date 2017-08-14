@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 7f5d08c2-9695-4c69-a317-09ebb0690e6a
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=293fec93-3ea7-4285-8c50-c465532927fc
+ revised_id: 1763
+ date_taken: 26-04-16
+ time_taken: 06:54:23
+ time_zone: EEST
+ created_by: 18
+ latitude: 33.8934287
+ longitude: 35.4896604
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,usage issue,business name in French" 
+ general_context: Services 
+ material:
+    
+    
+ comments: 
+ comments2: 

@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 41f7b880-9ff2-4939-8c8e-37f9a6ceae3a
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=a00cdfa1-7d3f-4d52-8a75-1ff9eff7b957
+ revised_id: 254
+ date_taken: 25-09-15
+ time_taken: 08:17:27
+ time_zone: EEST
+ created_by: 21
+ latitude: 33.8964913
+ longitude: 35.4817649
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "Frenched by definite article (le la l'),bilingual,mixed languages,audience-specific,Western numbers" 
+ general_context: "Food/Entertainment,Advertising" 
+ material:
+    
+    
+ comments: 
+ comments2: 

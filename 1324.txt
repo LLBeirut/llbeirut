@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 91a7e7a8-ec4c-4c37-8c5e-44c0ba9e1c00
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=358a4242-f9c5-4639-aa86-a172f1ee94af
+ revised_id: 1324
+ date_taken: 07-02-16
+ time_taken: 14:55:23
+ time_zone: EET
+ created_by: 10
+ latitude: 33.89195887
+ longitude: 35.48145007
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin ,""Asian  (like Chinese, Hindi)""" 
+  dominant_script: null
+    
+ Charateristics: trilingual 
+ general_context: Advertising 
+ material:
+    
+    
+ comments: 
+ comments2: 

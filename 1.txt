@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 5354308e-43f8-460a-a369-31f5c0d535ba
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=c6c8d01e-291f-4c3b-bd19-78445fd018d2
+ revised_id: 1
+ date_taken: 04-09-15
+ time_taken: 13:51:46
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89930726
+ longitude: 35.47979817
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin  " 
+  dominant_script: null
+    
+ Charateristics: bilingual equivalence 
+ general_context:  Office 
+ material:
+    
+    
+ comments: 
+ comments2: 

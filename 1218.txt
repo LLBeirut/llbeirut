@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: cc9caa34-673c-4336-8113-84e423ad8c42
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=31910d2d-63d9-4201-b053-373a63014c8d
+ revised_id: 1218
+ date_taken: 12-02-16
+ time_taken: 10:15:58
+ time_zone: EET
+ created_by: 15
+ latitude: 33.89857097
+ longitude: 35.48158552
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Charateristics: "bilingual,multiple scripts in total item,mixed scripts in same words,Western numbers,humor" 
+ general_context: "Graffiti,Advertising,Services" 
+ material:
+    
+    
+ comments: 
+ comments2: 

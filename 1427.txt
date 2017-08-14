@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: d3638b96-e9f1-4372-8d3a-1df62abe49a4
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=fe2e1aa4-4594-4580-a678-2ca6739229f3
+ revised_id: 1427
+ date_taken: 17-04-16
+ time_taken: 12:14:16
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.88704244
+ longitude: 35.51176172
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,humor,wordplay,business name in French" 
+ general_context: Health/Beauty 
+ material:
+    
+    
+ comments: 
+ comments2: 

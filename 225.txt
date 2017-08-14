@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 34852855-b60b-4080-8e6e-37dafb8bb7be
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=c77fbe78-9263-4b88-a2cd-4c6e00b63f0f
+ revised_id: 225
+ date_taken: 22-09-15
+ time_taken: 19:27:41
+ time_zone: EEST
+ created_by: 24
+ latitude: 33.92555263
+ longitude: 35.63586527
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "bilingual,Frenched by definite article (le la l')" 
+ general_context: Health/Beauty 
+ material:
+    
+    
+ comments: 
+ comments2: 

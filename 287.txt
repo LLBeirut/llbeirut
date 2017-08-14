@@ -1,0 +1,38 @@
+
+Template_Version : 0.4
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+ -anonymized: false
+ -point_focus: false
+ -rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 342b5a47-3c7c-420c-908f-5757f73c3f0a
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=871c07aa-6874-4e99-85a5-0494d967dee0
+ revised_id: 287
+ date_taken: 30-09-15
+ time_taken: 13:43:23
+ time_zone: EEST
+ created_by: 24
+ latitude: 33.90184254
+ longitude: 35.48066811
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Charateristics: "unilingual,audience-specific,mixed scripts in same words,cultural reference,Oriental numbers" 
+ general_context: Event 
+ material:
+    
+    
+ comments: 
+ comments2: 
