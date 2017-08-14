@@ -4,7 +4,7 @@ Template_Version : 0.4
    
 header:
     
- complete: false
+ complete: true 
     
  altered:
  -anonymized: false
@@ -37,7 +37,20 @@ header:
  comments: 
  comments2: 
 
-Body:
+body:
+ paragraph1:
+   “٧٦٨٩٣٥٤٩”:
+    language: null
+    script: Eastern 
+    feature: Number
+   ‪“:‬شوفير‪”‬         
+    script : Arabic
+    language : null
+“ علي علي‪”‬   
+    script: Arabic
+    language: null
+    feature: Proper Noun
 
-٧٦٨٩٣٥٤٩
-شوفير علي علي
+
+
+
