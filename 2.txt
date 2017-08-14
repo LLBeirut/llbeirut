@@ -11,7 +11,7 @@ header:
  -point_focus: false
  -rotated: false
 
- transcribed_by:
+ transcribed_by: DW
 
  Fulcrum_id: caac5484-86df-4b43-8fcf-a74bfa502d53
  photo_url: https://web.fulcrumapp.com/photos/view?photos=0b1b5659-338b-4f12-a825-c65ba42102b1
@@ -27,12 +27,17 @@ header:
   dominant_language: null
     
  script: Arabic  
-  dominant_script: null
+  dominant_script: Arabic
     
- Charateristics: "unilingual,Western numbers" 
+ Charateristics: "unilingual,Eastern numbers" 
  general_context: Vehicle 
- material:
+ material: overwriting
     
     
  comments: 
  comments2: 
+
+Body:
+
+٧٦٨٩٣٥٤٩
+شوفير علي علي
