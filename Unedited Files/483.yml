@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: a68b1bf4-e17a-4be6-980c-0a1d1f0edad2
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=82eef490-b527-4893-a7b0-cbbe8b1e33b6
+ revised_id: 483
+ date_taken: 01-11-15
+ time_taken: 15:31:21
+ time_zone: EET
+ created_by: 25
+ latitude: 33.89292012
+ longitude: 35.5422316
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Characteristics: "unilingual,Oriental numbers" 
+ general_context: Vehicle 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

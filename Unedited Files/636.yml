@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 2bb7312b-b72d-407f-b440-ffbb033910c1
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=b76651f9-c7d4-4063-bcbf-5ee081427051
+ revised_id: 636
+ date_taken: 18-11-15
+ time_taken: 15:01:49
+ time_zone: EET
+ created_by: 20
+ latitude: 33.89570873
+ longitude: 35.48200663
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning same across langs,Western numbers,Oriental numbers" 
+ general_context: "Signage,Services" 
+ material:
+    
+    
+ comments: Notary Public sign
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

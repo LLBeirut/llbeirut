@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: fcd36b71-e324-47d4-9d32-4f3a7f2378d5
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=784db915-4dbd-4e2e-8a1a-11fa2eb6a22c
+ revised_id: 495
+ date_taken: 04-11-15
+ time_taken: 17:45:05
+ time_zone: EET
+ created_by: 21
+ latitude: 33.91322185
+ longitude: 35.58453307
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning not same across langs,multiple scripts in total item" 
+ general_context: Merchandise 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

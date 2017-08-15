@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 64aad465-900e-4329-938e-b6c7497de119
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f8dd45b1-e333-4f5a-bef0-da0f33ae1dea
+ revised_id: 355
+ date_taken: 04-10-15
+ time_taken: 19:24:44
+ time_zone: EEST
+ created_by: 22
+ latitude: 33.56008355
+ longitude: 35.37210857
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning same across langs,literal translation" 
+ general_context: "Signage,Franchise" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

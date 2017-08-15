@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: dc89d019-9e50-442d-bab9-dfe8ab8d9a71
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=67668f1d-6fc6-45d2-a0b8-f1b090ba277c
+ revised_id: 640
+ date_taken: 18-11-15
+ time_taken: 13:15:04
+ time_zone: EET
+ created_by: 8
+ latitude: 33.89820527
+ longitude: 35.47856664
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "unilingual,usage issue" 
+ general_context: Vehicle 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

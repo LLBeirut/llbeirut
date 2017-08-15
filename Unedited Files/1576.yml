@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 842f9e6a-1edc-439f-8711-637d355077d9
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d6fabd06-0ffb-4b5b-9181-a3dc257b64cf
+ revised_id: 1576
+ date_taken: 25-04-16
+ time_taken: 06:51:38
+ time_zone: EEST
+ created_by: 18
+ latitude: 33.8664737
+ longitude: 35.5110773
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: unilingual product name in English
+ general_context: "Signage,Food/Entertainment,Advertising,Merchandise" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

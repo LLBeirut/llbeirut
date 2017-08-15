@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 6a66febd-cd15-40a0-b729-2e7371bf617c
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=4bd93ec6-7cf6-4982-a441-5b16d86da7a5
+ revised_id: 1368
+ date_taken: 18-03-16
+ time_taken: 23:16:09
+ time_zone: EEST
+ created_by: 19
+ latitude: 33.89932457
+ longitude: 35.48288304
+
+ languages:  
+  dominant_language: null
+    
+ script:  english
+  dominant_script: null
+    
+ Characteristics: "wordplay,cultural reference" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

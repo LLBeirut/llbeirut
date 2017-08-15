@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 2147d79e-3293-4c1e-9032-bd04e6746ab4
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=977c3ba7-4094-41fa-a331-4df4e58b0622
+ revised_id: 1002
+ date_taken: 09-12-15
+ time_taken: 00:20:29
+ time_zone: EET
+ created_by: 6
+ latitude: 33.88664661
+ longitude: 35.51939428
+
+ languages:  
+  dominant_language: null
+    
+ script: "Latin ,""Asian  (like Chinese, Hindi)""" 
+  dominant_script: null
+    
+ Characteristics: "meaning not same across langs,meaning same across langs" 
+ general_context: "Advertising,Food/Entertainment" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

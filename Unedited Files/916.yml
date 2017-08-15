@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 463b23ac-409c-4bc6-8c32-5eb6ced9093d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f5ab2c0f-801b-43a6-b626-a48bc0a16711
+ revised_id: 916
+ date_taken: 07-12-15
+ time_taken: 13:04:16
+ time_zone: EET
+ created_by: 8
+ latitude: 33.88717507
+ longitude: 35.5209658
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "unilingual,Western numbers,audience-specific" 
+ general_context: "Food/Entertainment,Franchise" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

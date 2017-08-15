@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 73ee6d53-4ca2-4ca7-97f5-3142180353b1
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=fed717dd-f946-4c8a-9bd0-84ccfa1d3610
+ revised_id: 1571
+ date_taken: 25-04-16
+ time_taken: 06:45:35
+ time_zone: EEST
+ created_by: 18
+ latitude: 33.8665762
+ longitude: 35.5111722
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Characteristics: "unilingual,audience-specific" 
+ general_context: "Graffiti,Vehicle" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

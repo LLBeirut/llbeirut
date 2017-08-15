@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 4ffc3e28-4d7e-4796-b137-26d84d6cba84
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=01911e1c-ead0-4ab8-affc-283abbca24d5
+ revised_id: 1300
+ date_taken: 17-03-16
+ time_taken: 22:22:34
+ time_zone: EET
+ created_by: 19
+ latitude: 33.89926307
+ longitude: 35.48337389
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  English
+  dominant_script: null
+    
+ Characteristics: "mixed languages,mixed scripts in same words,usage issue" 
+ general_context: Event 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

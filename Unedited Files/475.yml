@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 27866bca-1311-484b-ae3b-96aed4964520
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=fa60336d-48f1-406d-8479-a758f2ba65fe
+ revised_id: 475
+ date_taken: 02-11-15
+ time_taken: 08:19:17
+ time_zone: EET
+ created_by: 24
+ latitude: 33.91732514
+ longitude: 35.58638367
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Characteristics: "unilingual,transliteration" 
+ general_context: "Advertising,Vehicle,Merchandise,Food/Entertainment" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

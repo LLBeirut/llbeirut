@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 6fbd0dee-e947-4fc0-adf5-7711dfad130d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=22d80d8e-3b6a-4145-aacf-8e3ec4179551
+ revised_id: 67
+ date_taken: 12-09-15
+ time_taken: 10:57:22
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.78459434
+ longitude: 35.47705963
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: business name in French 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: Job advertisements are often in English. Brand names in French 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

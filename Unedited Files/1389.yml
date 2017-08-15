@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: f9950090-bf40-4930-a0ff-64824f614f1e
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=a219c618-bc11-4938-b74c-f897fb11bc84
+ revised_id: 1389
+ date_taken: 24-03-16
+ time_taken: 13:25:04
+ time_zone: EET
+ created_by: 18
+ latitude: 33.8651531
+ longitude: 35.5180662
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "bilingual,mixed languages,mixed scripts in same words,cultural reference,age,Western numbers" 
+ general_context: "Food/Entertainment,Services" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

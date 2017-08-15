@@ -1,0 +1,61 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 1dde3bcd-8967-4986-a91c-3f854a6972e3
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=8d4b8a1a-aec5-42b9-bbb5-759bb9d44efb
+ revised_id: 86
+ date_taken: 16-09-15
+ time_taken: 08:44:55
+ time_zone: EEST
+ created_by: 7
+ latitude: 33.89173149
+ longitude: 35.57972956
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning not same across langs,transliteration,mixed languages" 
+ general_context: Advertising 
+ material:
+    
+    
+ comments: "رونبوان (fr)
+should be
+مستديرة
+for this to be actual Arabic"
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 0cd66df8-71d0-433c-8c2d-0d121354d834
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=95153412-9e9b-4af6-b347-c398d130c2de
+ revised_id: 275
+ date_taken: 25-09-15
+ time_taken: 20:28:46
+ time_zone: EEST
+ created_by: 6
+ latitude: 33.895438
+ longitude: 35.504179
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Characteristics: "unilingual,audience-specific" 
+ general_context: Graffiti 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

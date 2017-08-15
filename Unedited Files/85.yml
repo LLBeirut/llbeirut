@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: da3de85d-6add-44c6-8788-04630ee549b5
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f8110b06-99b4-45e0-859c-e8a15ab2ab97
+ revised_id: 85
+ date_taken: 16-09-15
+ time_taken: 08:39:26
+ time_zone: EEST
+ created_by: 4
+ latitude: 33.8831327
+ longitude: 35.63072573
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: bilingual 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: Tea.
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

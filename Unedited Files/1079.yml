@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: fea06c8a-ddbb-4716-9c0b-1778e0debeb8
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e3e6a149-06e8-46f3-8c28-1b78ff069d03
+ revised_id: 1079
+ date_taken: 04-02-16
+ time_taken: 09:25:56
+ time_zone: EET
+ created_by: 5
+ latitude: 33.89914683
+ longitude: 35.47993639
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "machine translation,bilingual,meaning not same across langs" 
+ general_context: "Food/Entertainment,Vehicle" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

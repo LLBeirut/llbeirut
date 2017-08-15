@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 162cbf12-cf4a-4d2c-ae20-1c4d279d544e
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=ee70e478-9510-495b-acee-e172bcec787b
+ revised_id: 1177
+ date_taken: 09-02-16
+ time_taken: 15:56:02
+ time_zone: EET
+ created_by: 16
+ latitude: 33.89202385
+ longitude: 35.51873596
+
+ languages:  
+  dominant_language: null
+    
+ script: "Latin ,Arabic " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,transliteration,business name in French" 
+ general_context: "Signage,Services,Telephone" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

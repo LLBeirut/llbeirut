@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 3bb8d4d9-4474-4680-8ae6-da2f4b1b2b1e
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=19e9dd46-0a66-4ed0-905f-45dd6ed2d35a
+ revised_id: 673
+ date_taken: 20-11-15
+ time_taken: 16:17:40
+ time_zone: EET
+ created_by: 13
+ latitude: 33.99249156
+ longitude: 35.64373244
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,cultural reference,Western numbers" 
+ general_context: "Advertising,Food/Entertainment" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

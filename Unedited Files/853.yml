@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: c6835f5a-f66d-4f9d-82bc-311c75d78def
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=7ca12213-f786-4270-982d-29f8f7e5dae6
+ revised_id: 853
+ date_taken: 06-12-15
+ time_taken: 15:21:57
+ time_zone: EET
+ created_by: 17
+ latitude: 33.92002181
+ longitude: 35.62790522
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "unilingual,business name in French" 
+ general_context: Signage 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

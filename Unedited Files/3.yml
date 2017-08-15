@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: c1998a23-c85e-4d7e-bc14-fd51a25b4c9f
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=853b3226-a788-4b81-966f-802af9f4409d
+ revised_id: 3
+ date_taken: 04-09-15
+ time_taken: 17:53:38
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89919163
+ longitude: 35.47985525
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin  " 
+  dominant_script: null
+    
+ Characteristics: bilingual equivalence 
+ general_context:  Map
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

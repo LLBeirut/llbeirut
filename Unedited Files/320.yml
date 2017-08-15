@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: bad673a4-3fb4-4d47-9384-f14911bfdc61
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=ddd9506b-02a0-451b-9ded-2c708f1e7c15
+ revised_id: 320
+ date_taken: 06-10-15
+ time_taken: 00:16:12
+ time_zone: EEST
+ created_by: 12
+ latitude: 33.90034226
+ longitude: 35.52059088
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Characteristics: "unilingual,audience-specific,humor" 
+ general_context: Graffiti 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

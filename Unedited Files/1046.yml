@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: f49147ff-644b-46f1-82ee-9bcf519401fc
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3ac8b1f1-5d92-4f6c-bf88-77004f1b2740
+ revised_id: 1046
+ date_taken: 07-12-15
+ time_taken: 21:11:45
+ time_zone: EET
+ created_by: 8
+ latitude: 33.85271674
+ longitude: 35.57416155
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "unilingual,audience-specific,gender,business name in French" 
+ general_context: Health/Beauty 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

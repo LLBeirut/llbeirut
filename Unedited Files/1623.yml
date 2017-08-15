@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 56a010f9-84d6-4ee5-a71c-1066dc9354e0
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=6aeebf9f-70c6-4f39-a14b-4e215806598e
+ revised_id: 1623
+ date_taken: 26-04-16
+ time_taken: 12:20:26
+ time_zone: EEST
+ created_by: 19
+ latitude: 33.89916512
+ longitude: 35.48385065
+
+ languages:  
+  dominant_language: null
+    
+ script:  english
+  dominant_script: null
+    
+ Characteristics: "audience-specific,cultural reference" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

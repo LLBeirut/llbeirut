@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 6bbbbad4-2aac-443a-a963-fd3b253f39b4
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=0a34c98c-6e3e-4c5e-a912-28256a84fcd2
+ revised_id: 824
+ date_taken: 04-12-15
+ time_taken: 08:58:49
+ time_zone: EET
+ created_by: 26
+ latitude: 33.8993268
+ longitude: 35.48248406
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Characteristics: "unilingual,audience-specific,humor,wordplay,cultural reference" 
+ general_context: Advertising 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: b9eacd4f-f961-4fe5-910f-315c3ddd5a82
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=c57509a7-84b1-4818-970c-ae68399643e1
+ revised_id: 1720
+ date_taken: 26-04-16
+ time_taken: 13:44:34
+ time_zone: EEST
+ created_by: 19
+ latitude: 33.8985309
+ longitude: 35.48608158
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  english
+  dominant_script: null
+    
+ Characteristics: "meaning same across langs,mixed scripts in same words,cultural reference" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

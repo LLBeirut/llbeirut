@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 1cb71d1d-6d03-4571-8ff4-378a7320407f
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d324c562-0f7a-4ebe-8d1f-eedfdce3b20e
+ revised_id: 775
+ date_taken: 03-12-15
+ time_taken: 16:59:21
+ time_zone: EET
+ created_by: 26
+ latitude: 33.90128619
+ longitude: 35.57360709
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "unilingual,audience-specific,humor" 
+ general_context: Merchandise 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

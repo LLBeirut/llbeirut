@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 5de01d2d-3da0-495c-8faf-8d1a53ad1a05
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=eba7eb5f-bb0c-4363-bd39-d18376888c44
+ revised_id: 402
+ date_taken: 15-10-15
+ time_taken: 06:53:34
+ time_zone: EEST
+ created_by: 13
+ latitude: 33.92086698
+ longitude: 35.58553697
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,humor,cultural reference" 
+ general_context: Advertising 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

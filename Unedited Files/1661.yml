@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: b14ee087-f307-4cf5-b0d3-dd4c2dff2f68
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=7929c359-c328-4b73-b9dd-35c29e887eba
+ revised_id: 1661
+ date_taken: 10-04-16
+ time_taken: 15:33:03
+ time_zone: EEST
+ created_by: 2
+ latitude: 33.8989978
+ longitude: 35.487075
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Characteristics: "unilingual,Western numbers" 
+ general_context: "Advertising,Housing" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

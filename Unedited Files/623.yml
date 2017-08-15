@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 7956c602-5bec-4b68-a380-f4d104563861
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=25a81d08-49c4-46f1-be17-3761b25c54c7
+ revised_id: 623
+ date_taken: 17-11-15
+ time_taken: 13:23:32
+ time_zone: EET
+ created_by: 26
+ latitude: 33.909132
+ longitude: 35.581537
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,transliteration,cultural reference,business name in French" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

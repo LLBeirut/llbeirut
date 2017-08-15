@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 222792e9-b243-4d26-b7bb-e42fd764f292
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=5f91fece-9954-43aa-b854-d1cbf40aeafb
+ revised_id: 343
+ date_taken: 10-10-15
+ time_taken: 07:03:36
+ time_zone: EEST
+ created_by: 23
+ latitude: 33.82621577
+ longitude: 35.49310494
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Characteristics: unilingual 
+ general_context: Education 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

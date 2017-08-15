@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 1b93d084-279b-48ca-91fb-6046ed33f3a8
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=229513ff-be41-467b-9a39-dad3701d2698
+ revised_id: 973
+ date_taken: 09-12-15
+ time_taken: 16:00:48
+ time_zone: EET
+ created_by: 8
+ latitude: 33.86413705
+ longitude: 35.53668371
+
+ languages:  
+  dominant_language: null
+    
+ script: """Asian  (like Chinese, Hindi)""" 
+  dominant_script: null
+    
+ Characteristics: "Western numbers,audience-specific,unilingual" 
+ general_context: Vehicle 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

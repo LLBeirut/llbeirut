@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: ee53227e-7feb-4bee-82c6-69a926842ff3
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=2ba4c2c9-1953-4577-abc9-57b3fa4f3e14
+ revised_id: 1219
+ date_taken: 15-02-16
+ time_taken: 14:28:59
+ time_zone: EET
+ created_by: 15
+ latitude: 33.89872514
+ longitude: 35.48026286
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "unilingual,humor" 
+ general_context: Signage 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

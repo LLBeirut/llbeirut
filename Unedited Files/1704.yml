@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 58541c30-9ca1-41b2-a6ad-492a9625ceed
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=c0d961fc-b922-4103-b120-95ba69e7dc6c
+ revised_id: 1704
+ date_taken: 26-04-16
+ time_taken: 12:59:07
+ time_zone: EEST
+ created_by: 19
+ latitude: 33.89914814
+ longitude: 35.48415139
+
+ languages:  
+  dominant_language: null
+    
+ script:  english
+  dominant_script: null
+    
+ Characteristics: Frenched by definite article (le la l) 
+ general_context: "Signage,Food/Entertainment" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

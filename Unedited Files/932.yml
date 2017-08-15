@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 4d467ce2-4def-4661-9ec6-0215f6d1a649
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=c0e0a919-679f-4cd9-88ea-1f6b1638afc4
+ revised_id: 932
+ date_taken: 08-12-15
+ time_taken: 09:46:31
+ time_zone: EET
+ created_by: 1
+ latitude: 33.8982826
+ longitude: 35.4848105
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "unilingual,audience-specific,misspelling,usage issue" 
+ general_context: "Advertising,Housing" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

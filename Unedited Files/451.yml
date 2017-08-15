@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 47ce42a3-e6e4-4cee-96b8-63f0cbc92170
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=5011fcb0-c753-48df-91bb-ed038538fd64
+ revised_id: 451
+ date_taken: 26-10-15
+ time_taken: 19:27:53
+ time_zone: EET
+ created_by: 26
+ latitude: 33.8903121
+ longitude: 35.52435905
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning not same across langs,multiple scripts in total item,cultural reference" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

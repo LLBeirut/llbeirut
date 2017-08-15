@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 66d22e40-834e-4380-9d71-ec84ed8e0947
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=a5610f16-50e4-42dd-90ce-a7b5010ace68
+ revised_id: 396
+ date_taken: 15-10-15
+ time_taken: 09:40:57
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89835353
+ longitude: 35.47855765
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "meaning not same across langs,bilingual" 
+ general_context: Signage 
+ material:
+    
+    
+ comments: Meaning is almost the same. Arabic gives a reason for no parking
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

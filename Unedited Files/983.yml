@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 0d698bbc-301d-42ef-bf0d-20ca35ca90b0
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=27372c01-92b3-4f25-9acf-7131c19972b7
+ revised_id: 983
+ date_taken: 08-12-15
+ time_taken: 17:33:39
+ time_zone: EET
+ created_by: 25
+ latitude: 33.89847931
+ longitude: 35.48150851
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Characteristics: "unilingual,Oriental numbers" 
+ general_context: Signage 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

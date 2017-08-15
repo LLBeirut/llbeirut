@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 571bb647-3afe-47e3-a55c-4cbe332af6e4
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=8700e14b-e9bd-4e2c-90fc-cdd71a91c5af
+ revised_id: 941
+ date_taken: 08-12-15
+ time_taken: 12:39:16
+ time_zone: EET
+ created_by: 1
+ latitude: 33.8833471
+ longitude: 35.5145444
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "bilingual,humor,wordplay" 
+ general_context: "Signage,Food/Entertainment,Advertising" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

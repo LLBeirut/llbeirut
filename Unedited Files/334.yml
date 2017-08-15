@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 2661b6b6-84e9-4f09-8064-c408568e5ea2
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=bfdce838-c73a-490f-84cd-ed151f54fd3d
+ revised_id: 334
+ date_taken: 08-10-15
+ time_taken: 14:41:50
+ time_zone: EEST
+ created_by: 25
+ latitude: 33.89380014
+ longitude: 35.54003849
+
+ languages:  
+  dominant_language: null
+    
+ script: Armenian  
+  dominant_script: null
+    
+ Characteristics: unilingual 
+ general_context:  Unknown 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: f889160a-6802-49a7-8ddb-4aaf1708e873
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=4b6e5342-bc1e-4ea7-afe0-39229a9ba5fe
+ revised_id: 718
+ date_taken: 26-11-15
+ time_taken: 12:58:04
+ time_zone: EET
+ created_by: 24
+ latitude: 33.89965118
+ longitude: 35.48024308
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,audience-specific,mixed languages,multiple scripts in total item,humor,cultural reference,age" 
+ general_context: "Event,Advertising,Services" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

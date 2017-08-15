@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: c9b9ca67-8e52-453f-b4df-628754d27869
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=5ee151c3-74e3-46a9-824a-32343bb11c84
+ revised_id: 1514
+ date_taken: 24-04-16
+ time_taken: 13:42:02
+ time_zone: EEST
+ created_by: 30
+ latitude: 33.8982907
+ longitude: 35.4986183
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: bilingual 
+ general_context: Advertising 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

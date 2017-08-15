@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: a6452a99-69da-491b-99a8-46fe210426c8
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=84244075-a703-477f-8c42-257ee7bef828
+ revised_id: 1436
+ date_taken: 17-04-16
+ time_taken: 12:48:50
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89536345
+ longitude: 35.51685381
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,""Asian  (like Chinese, Hindi)""" 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning not same across langs,multiple scripts in total item,Western numbers" 
+ general_context: "Advertising,Food/Entertainment" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

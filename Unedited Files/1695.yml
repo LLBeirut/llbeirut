@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: dd676206-f413-4069-a4bc-1a6ddf7fafed
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=fa0c0a75-4373-4bab-ad61-059d865cffe4
+ revised_id: 1695
+ date_taken: 26-04-16
+ time_taken: 12:32:36
+ time_zone: EEST
+ created_by: 19
+ latitude: 33.89851337
+ longitude: 35.48607588
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  english
+  dominant_script: null
+    
+ Characteristics: meaning same across langs 
+ general_context: "Advertising,Health/Beauty" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

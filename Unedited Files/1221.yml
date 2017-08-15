@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 5f6dea67-00e8-4fb2-9994-78cb46661476
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=c58d308b-d71b-47c4-94b8-c8f8704675f0
+ revised_id: 1221
+ date_taken: 15-02-16
+ time_taken: 16:40:33
+ time_zone: EET
+ created_by: 15
+ latitude: 33.89700475
+ longitude: 35.47557201
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: unilingual 
+ general_context: "Signage,Merchandise" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

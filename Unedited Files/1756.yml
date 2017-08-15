@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 3b7b1625-e255-4b63-990d-d3b300f2c614
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=4b872d33-0e6a-45b1-a307-0786a852826c
+ revised_id: 1756
+ date_taken: 28-04-16
+ time_taken: 12:31:38
+ time_zone: EEST
+ created_by: 18
+ latitude: 33.8845679
+ longitude: 35.4841834
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "unilingual,audience-specific,cultural reference,age" 
+ general_context: "Advertising,Merchandise,Health/Beauty" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

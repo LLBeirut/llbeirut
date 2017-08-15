@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 819345a0-b96f-434c-a6dd-7d2f625fd58c
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d94d4b95-befc-6445-d695-b669b2279cec
+ revised_id: 1126
+ date_taken: 08-02-16
+ time_taken: 17:50:06
+ time_zone: EET
+ created_by: 14
+ latitude: 33.900462
+ longitude: 35.479288
+
+ languages:  
+  dominant_language: null
+    
+ script: ",Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,mixed languages,humor" 
+ general_context: ",Signage,Graffiti" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

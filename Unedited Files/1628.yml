@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 7dd9101a-9504-4c6c-bbe0-768612868a19
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=9bd0debe-364e-4035-acc9-6f58e5f42728
+ revised_id: 1628
+ date_taken: 17-04-16
+ time_taken: 18:49:35
+ time_zone: EEST
+ created_by: 10
+ latitude: 33.8897274
+ longitude: 35.4945748
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning same across langs,usage issue" 
+ general_context: Health/Beauty 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

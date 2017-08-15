@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: f636173f-522c-49e7-834c-88b4a51e606e
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=40a9fe6f-bcf9-4d83-a6a9-34ddae9cd14a
+ revised_id: 1569
+ date_taken: 02-04-16
+ time_taken: 08:21:02
+ time_zone: EEST
+ created_by: 14
+ latitude: 33.890429
+ longitude: 35.537455
+
+ languages:  
+  dominant_language: null
+    
+ script: "Armenian ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning same across langs,mixed languages,multiple scripts in total item,usage issue,machine translation" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: ae3f0d44-a433-44b1-8b08-ce32b6e71a42
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=faffe4bc-b7c1-4b07-ac10-27e1572d7fcf
+ revised_id: 1216
+ date_taken: 15-02-16
+ time_taken: 08:17:11
+ time_zone: EET
+ created_by: 18
+ latitude: 33.8983757
+ longitude: 35.4783637
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "unilingual,usage issue" given a French meanining by the -ette
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

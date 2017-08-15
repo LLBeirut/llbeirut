@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 14671d9b-7343-41e9-98ee-377f96321803
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=67110f75-e3ad-96b7-1b62-fce984cbafc1
+ revised_id: 1451
+ date_taken: 02-04-16
+ time_taken: 18:02:49
+ time_zone: EEST
+ created_by: 14
+ latitude: 33.890112
+ longitude: 35.539611
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Armenian " 
+  dominant_script: null
+    
+ Characteristics: "trilingual,transliteration,mixed languages,multiple scripts in total item,literal translation" 
+ general_context: "Signage,Food/Entertainment" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

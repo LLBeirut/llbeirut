@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 714a2805-f2c4-45dd-865f-a0231f9a1bc6
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=9e389b7f-e6ac-4f24-986e-fd5293576df1
+ revised_id: 46
+ date_taken: 11-09-15
+ time_taken: 16:06:38
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89805182
+ longitude: 35.47836729
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: usage issue 
+ general_context: "Merchandise,Vehicle" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

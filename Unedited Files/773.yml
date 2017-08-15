@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 5a50aa95-6101-45b9-82c9-f85c0cd1e681
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d16593a2-438b-4555-9567-4855f2299396
+ revised_id: 773
+ date_taken: 03-12-15
+ time_taken: 16:56:07
+ time_zone: EET
+ created_by: 26
+ latitude: 33.90098175
+ longitude: 35.57322219
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Characteristics: "unilingual,audience-specific,humor,cultural reference" 
+ general_context: Vehicle 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

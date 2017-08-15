@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 8c32b5da-f944-410b-ba37-e4cf6fbfb441
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=764b5e91-ed26-42c5-bf93-af6ae9da1dac
+ revised_id: 486
+ date_taken: 31-10-15
+ time_taken: 09:37:41
+ time_zone: EET
+ created_by: 5
+ latitude: 33.89801007
+ longitude: 35.47846192
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning not same across langs,business name in French" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

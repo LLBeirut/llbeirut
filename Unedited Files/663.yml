@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 115ae704-e037-4dd7-9d04-6e333d8f5876
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=824f1946-f4f0-499d-9d42-4c388281de92
+ revised_id: 663
+ date_taken: 21-11-15
+ time_taken: 15:52:45
+ time_zone: EET
+ created_by: 13
+ latitude: 33.96148015
+ longitude: 35.60429064
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "trilingual,mixed languages,multiple scripts in total item" 
+ general_context: "Vehicle,Advertising" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

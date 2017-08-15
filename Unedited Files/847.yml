@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 77a965ea-92fc-420d-8c58-98177832050b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=817e072f-e9c3-4055-bfcf-d7984ed2088f
+ revised_id: 847
+ date_taken: 05-12-15
+ time_taken: 12:28:46
+ time_zone: EET
+ created_by: 12
+ latitude: 33.8972836
+ longitude: 35.52649543
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "unilingual,misspelling,usage issue,humor,wordplay" 
+ general_context: "Signage,Event" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

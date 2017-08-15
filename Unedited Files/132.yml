@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 7933ba6b-a4ff-4149-b442-051051e1ce03
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=93caa27b-a515-483a-bfbd-12a4fc91e3b9
+ revised_id: 132
+ date_taken: 19-09-15
+ time_taken: 20:23:33
+ time_zone: EEST
+ created_by: 7
+ latitude: 33.897499
+ longitude: 35.507437
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Characteristics: "bilingual,mixed languages,usage issue" 
+ general_context: "Signage,Advertising,Publication" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: a4591225-77d8-4a63-94a5-58238a483223
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e6ece5f8-d1a7-4c15-9dd8-16c18a3c0d95
+ revised_id: 1061
+ date_taken: 06-11-15
+ time_taken: 21:38:08
+ time_zone: EET
+ created_by: 8
+ latitude: 33.8836655
+ longitude: 35.63216357
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning not same across langs,mixed languages,Frenched by definite article (le la l'),business name in French" Business name in French and English 
+ general_context: Signage Clothing store 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

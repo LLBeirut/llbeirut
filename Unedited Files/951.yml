@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 6e38eef9-5819-48c1-b25e-5b8c71e98dc3
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=7c97b3fa-a9c9-4e0a-bcaa-007a1bba8f75
+ revised_id: 951
+ date_taken: 08-12-15
+ time_taken: 13:10:02
+ time_zone: EET
+ created_by: 1
+ latitude: 33.8835013
+ longitude: 35.5201781
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning same across langs" 
+ general_context: "Signage,Vehicle" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

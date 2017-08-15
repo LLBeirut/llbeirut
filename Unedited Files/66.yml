@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 2eeb1850-823e-41b3-b40f-cc77a3d549dd
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=36e4e305-5a8c-45a0-9a7b-4ccfa1b07bc3
+ revised_id: 66
+ date_taken: 13-09-15
+ time_taken: 15:25:11
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.78639707
+ longitude: 35.47897129
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "transliteration,multiple scripts in total item" Other
+ general_context: "Food/Entertainment,Advertising,Merchandise" 
+ material:
+    
+    
+ comments: Is Bona Vita Catalan? Or just a generic Romance language? in small print in Arabic is written منتج اوروبي 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

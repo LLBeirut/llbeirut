@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 8b55d87c-ccd5-46ab-8deb-15e128039556
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f57a9af2-1149-4505-adf9-3c7a27ce1dc7
+ revised_id: 516
+ date_taken: 07-11-15
+ time_taken: 15:55:44
+ time_zone: EET
+ created_by: 1
+ latitude: 33.8850259
+ longitude: 35.520663
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning same across langs" 
+ general_context: "Signage,Advertising,Health/Beauty" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

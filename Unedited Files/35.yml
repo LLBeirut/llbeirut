@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 2479b277-5695-444c-b47d-5dd080bc7a3b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=ce36b821-f8ce-4394-a2cc-abcf78603226
+ revised_id: 35
+ date_taken: 11-09-15
+ time_taken: 13:25:24
+ time_zone: EEST
+ created_by: 4
+ latitude: 33.89916985
+ longitude: 35.48338752
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "humor,wordplay" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: Word play
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

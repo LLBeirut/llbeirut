@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 525d3246-5527-4128-a036-6667ecc2aca3
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=08cc333e-eba3-4e97-a8d3-3126f1600f73
+ revised_id: 29
+ date_taken: 07-09-15
+ time_taken: 19:37:38
+ time_zone: EEST
+ created_by: 12
+ latitude: 33.88788071
+ longitude: 35.48918992
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "trilingual,meaning same across langs,transliteration,multiple scripts in total item,misspelling,Western numbers" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: "Please note that 'Sanmarol' should have been cinnamon rolls, 'Danesh' is Danish, and 'Oclair' is Eclaire."
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 56a8a20a-c0a3-4837-9552-80316f47f42e
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d239a8b5-6828-41be-b46b-7e2252ce2f34
+ revised_id: 697
+ date_taken: 21-11-15
+ time_taken: 15:19:25
+ time_zone: EET
+ created_by: 24
+ latitude: 33.87382985
+ longitude: 35.51906476
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning same across langs,transliteration,multiple scripts in total item" 
+ general_context: "Food/Entertainment,Merchandise" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

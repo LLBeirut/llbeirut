@@ -1,0 +1,59 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: e27f147a-694f-4212-82b9-e1ba0e58a29d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=86d54626-5271-44a1-b795-b7899a3bfe98
+ revised_id: 155
+ date_taken: 19-09-15
+ time_taken: 13:20:44
+ time_zone: EEST
+ created_by: 4
+ latitude: 33.86177762
+ longitude: 35.53034767
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  English script
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning not same across langs,mixed languages,multiple scripts in total item,mixed scripts in same words,misspelling,usage issue" 
+ general_context: "Signage,Travel" 
+ material:
+    
+    
+ comments: """Jisr l bash""
+Jisr is not translated"
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

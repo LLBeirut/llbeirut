@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: c1bccd8d-c506-4eb1-bc36-11815e40d793
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e7bd9b92-a91e-4ce3-9977-fa906fe5dde7
+ revised_id: 1003
+ date_taken: 09-12-15
+ time_taken: 00:21:12
+ time_zone: EET
+ created_by: 6
+ latitude: 33.89379848
+ longitude: 35.52058585
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: unilingual 
+ general_context: "Food/Entertainment,Advertising" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

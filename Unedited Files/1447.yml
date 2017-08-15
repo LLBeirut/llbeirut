@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: ef31f2b1-f5dd-4244-a77c-ea2d654614f7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=1b2d17a1-9203-3984-3dfd-e9d08c10eb4d
+ revised_id: 1447
+ date_taken: 02-04-16
+ time_taken: 17:50:04
+ time_zone: EEST
+ created_by: 14
+ latitude: 33.892151
+ longitude: 35.540147
+
+ languages:  
+  dominant_language: null
+    
+ script: ",Arabic ,Latin ,Armenian " 
+  dominant_script: null
+    
+ Characteristics: trilingual 
+ general_context:  Culture Center/Auditorium
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
