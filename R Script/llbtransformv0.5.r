@@ -1,4 +1,4 @@
-##this is where you load your fulcrum dataset, make sure to clean it according to the functions used below.
+#loading the dataset exported as .csv, transforming it into a YAML template
 
 df <- read.csv("llb.csv", header = TRUE)
 iteration = 1
@@ -6,11 +6,11 @@ iteration = 1
 ##Template_Version : 0.5
 
 for (iteration in 1:3){
-  
-  
+
+
   stra = paste0(
     "\nTemplate_Version : 0.5
-    
+
    \nheader:
     \n complete: false
     \n altered:\n  anonymized: false\n  point_focus: false\n  rotated: false
@@ -31,9 +31,9 @@ for (iteration in 1:3){
     \n Characteristics: ", df [iteration, "features"], " ", df [iteration, "features_other"],
     "\n general_context: ", df [iteration, "general_context"], " ", df [iteration, "general_context_other"],
     "\n material:
-    
+
     \n comments: ", df [iteration, "comments"],
-    "\n comments2: ", df [iteration, "comments_2"], 
+    "\n comments2: ", df [iteration, "comments_2"],
     "\n\n Body:",
     "\n  Paragraph1:",
     "\n     \"Insert text here\"",
@@ -54,7 +54,7 @@ for (iteration in 1:3){
     "\n      Language:",
     "\n      Feature:"
     )
-  
+
   cat(stra, file=paste0(iteration,".yml"))
-  
+
 }
