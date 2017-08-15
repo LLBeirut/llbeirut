@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: c38705e3-6843-4774-aaff-046182096775
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=57c75749-0283-4d8d-92c5-ae5b05dfa199
+ revised_id: 1774
+ date_taken: 02-04-16
+ time_taken: 12:49:46
+ time_zone: EEST
+ created_by: 14
+ latitude: 33.889871
+ longitude: 35.539606
+
+ languages:  
+  dominant_language: null
+    
+ script: "Latin ,Armenian " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning same across langs,literal translation,religion" 
+ general_context:  Church
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

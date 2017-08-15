@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 8af22351-ede1-4252-8411-462690a5188e
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=c0553e4b-1d20-4f62-a9b6-0ba864595f11
+ revised_id: 1958
+ date_taken: 25-04-16
+ time_taken: 10:06:24
+ time_zone: EEST
+ created_by: 29
+ latitude: 33.89594111
+ longitude: 35.48014116
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: bilingual 
+ general_context: "Advertising,Telephone" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

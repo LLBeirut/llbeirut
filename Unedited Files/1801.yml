@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 10d7bfcc-1f3a-4cc1-9860-26eae5a098a9
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d84df5a0-ffc6-4e61-8d8e-6236af98cac4
+ revised_id: 1801
+ date_taken: 02-04-16
+ time_taken: 16:11:37
+ time_zone: EEST
+ created_by: 14
+ latitude: 33.891652
+ longitude: 35.548822
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: unilingual 
+ general_context:  Other
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

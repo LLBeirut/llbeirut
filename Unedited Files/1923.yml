@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: a0def822-4e67-45dd-9dcd-e16ed54bc2b8
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=9ef16724-a870-45dd-96e2-16a8e2cb00d2
+ revised_id: 1923
+ date_taken: 29-04-16
+ time_taken: 14:24:05
+ time_zone: EEST
+ created_by: 11
+ latitude: 33.8753851
+ longitude: 35.5170997
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning not same across langs,audience-specific,mixed languages,mixed scripts in same words,humor,cultural reference" 
+ general_context: Graffiti humor signage 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

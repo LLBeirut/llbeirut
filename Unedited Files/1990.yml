@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 41ec677e-c06a-4e03-ac33-d7d91e70cfca
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=2258643b-bb18-4957-95b3-b803ed103948
+ revised_id: 1990
+ date_taken: 22-04-16
+ time_taken: 21:29:22
+ time_zone: EEST
+ created_by: 29
+ latitude: 33.88804378
+ longitude: 35.50856494
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "unilingual,transliteration,multiple scripts in total item" 
+ general_context: "Signage,Food/Entertainment" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

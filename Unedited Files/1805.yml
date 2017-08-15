@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 3bf1be1d-9305-4025-9b00-deb2b54cf381
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=24d6208f-0bae-4d12-8dfe-eff558b807f8
+ revised_id: 1805
+ date_taken: 02-04-16
+ time_taken: 16:27:27
+ time_zone: EEST
+ created_by: 14
+ latitude: 33.892462
+ longitude: 35.546521
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning not same across langs,mixed languages,multiple scripts in total item,usage issue,Western numbers" 
+ general_context: "Merchandise,Services" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 1af0c37f-fa45-47fb-9bf2-887a9ad9c61d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=db8798c0-5926-4c0c-9138-ff433f9ac233
+ revised_id: 1794
+ date_taken: 02-04-16
+ time_taken: 15:47:23
+ time_zone: EEST
+ created_by: 14
+ latitude: 33.891679
+ longitude: 35.548683
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "unilingual,mixed languages" 
+ general_context:  Business
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

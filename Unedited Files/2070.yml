@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: cfc8bfc9-6cb0-4e71-a77e-b1062fb8711d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=843808ae-53df-452b-be15-4fa59afa8aa9
+ revised_id: 2070
+ date_taken: 25-04-16
+ time_taken: 15:35:32
+ time_zone: EEST
+ created_by: 2
+ latitude: 33.89535584
+ longitude: 35.48247998
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: unilingual 
+ general_context: Signage Jewelry 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

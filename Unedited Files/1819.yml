@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 1f732e13-9684-48fb-a53b-8862abe36df9
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=740e8f49-a5d8-4778-b952-8850a73d65bf
+ revised_id: 1819
+ date_taken: 28-04-16
+ time_taken: 13:21:26
+ time_zone: EEST
+ created_by: 10
+ latitude: 33.8820188
+ longitude: 35.4910801
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: bilingual 
+ general_context: Merchandise 
+ material:
+    
+    
+ comments: Got yelled at by policeman 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 390ac74e-1596-4124-9edd-6f882263b084
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=af2106a8-dcc3-4fb6-b340-c32ac8f55d8f
+ revised_id: 1842
+ date_taken: 28-04-16
+ time_taken: 13:01:05
+ time_zone: EEST
+ created_by: 10
+ latitude: 33.8778274
+ longitude: 35.5034558
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning not same across langs" 
+ general_context: Travel 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

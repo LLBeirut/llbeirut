@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: b5635585-8e8b-4289-a8e6-01aa9b2547cb
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=284fd846-d526-44ff-a8cb-bdbbc54add4b
+ revised_id: 2063
+ date_taken: 23-04-16
+ time_taken: 15:51:13
+ time_zone: EEST
+ created_by: 2
+ latitude: 33.89588162
+ longitude: 35.48300249
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning not same across langs,audience-specific" 
+ general_context: Signage Bookstore
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
