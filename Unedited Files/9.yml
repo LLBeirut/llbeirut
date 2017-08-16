@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: true
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: DW
 
  Fulcrum_id: 378fedcf-2bc2-4990-b9b9-0fec062b9964
  photo_url: https://web.fulcrumapp.com/photos/view?photos=b7593b2b-8f0e-4529-a61e-091684585b1e
@@ -23,36 +23,100 @@ header:
  latitude: 33.89936828
  longitude: 35.48220126
 
- languages:  
-  dominant_language: null
-    
- script: "Arabic ,Latin " 
-  dominant_script: null
-    
- Characteristics: "bilingual,audience-specific,mixed languages in same item,mixed scripts in same words" 
- general_context: "Signage,Services" 
- material:
-    
-    
- comments: Rich document: assumptions about language and audience for the service provided. 
- comments2: 
+ languages:  English, Arabic
+  dominant_language: English
+
+ script: "Arabic ,Latin "
+  dominant_script: Latin
+
+ Characteristics: "bilingual,audience-specific,mixed languages in same item,mixed scripts in same words"
+ general_context: "Signage,Services"
+ material: wall sign
+
+
+ comments: Rich document: assumptions about language and audience for the service provided.
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Malik's"
+      Script: Latin
+      Feature: corporate name
   Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "PRINT OUT"
+      Script: Latin
+      Language: English
+     "1500LL B&W"
+      Script: Latin
+      Language: English
+      Feature: Western numbers
+  Paragraph3:
+     "PHOTOCOPY"
+      Script: Latin
+      Language: English
+     "50LL B&W"
+      Script: Latin
+      Language: English
+      Feature: Western numbers
+  Paragraph4:
+     "BINDING"
+      Script: Latin
+      Language: English
+     "2,500 LL"
+      Script: Latin
+      Language: null
+      Feature: Western numbers
+  Paragraph5:
+     "20% off"
+      Script: Latin
+      Language: English
+      Feature: Western numbers
+     "on"
+      Script: Latin
+      Language: English
+     "Academic"
+      Script: Latin
+      Language: English
+     "Books"
+      Script: Latin
+      Language: English
+  Paragraph6:
+     "ترجمة"
+      Script: Arabic
+      Language: Arabic
+     "وترجمة محلّفة"
+      Script: Arabic
+      Language: Arabic
+  Paragraph7:
+     "Passport Photos"
+      Script: Latin
+      Language: English
+  Paragraph8:
+     "CARFAX"
+      Script: Latin
+      Language: null
+      Feature: corporate name
+     "Vehicle History Reports"
+      Script: Latin
+      Language: English
+  Paragraph9:
+     "International"
+      Script: Latin
+      Language: English
+      Feature: equivalence
+     "Driving License"
+      Script: Latin
+      Language: English
+      Feature: equivalence
+     "دفتر قيادة دولي"
+      Script: Arabic
+      Language: Arabic
+      Feature: equivalence
+  Paragraph10:
+     "USA, UK & CANADA"
+      Script: Latin
+      Language: English
+      Feature: geographic name
+     "VISA APPLICATIONS"
+      Script: Latin
+      Language: English

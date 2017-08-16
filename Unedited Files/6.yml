@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: true
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: DW
 
  Fulcrum_id: a41e4c14-dd97-4cc2-a7fb-0d7c32e7a106
  photo_url: https://web.fulcrumapp.com/photos/view?photos=d9c3adaf-cf50-4255-8985-f866a538bba8
@@ -23,36 +23,38 @@ header:
  latitude: 33.89671713
  longitude: 35.47737918
 
- languages:  
-  dominant_language: null
-    
- script: Arabic  
-  dominant_script: null
-    
- Characteristics: single language 
- general_context: "Advertising,Vehicle" 
- material:
-    
-    
- comments: 
- comments2: 
+ languages:  Arabic
+  dominant_language: Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: single language
+ general_context: "Advertising,Vehicle"
+ material: printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "قرضك الشخصي"
+      Script: ِArabic
+      Language: Arabic
+     "خلال 48 ساعة"
+      Script: Arabic
+      Language: Arabic
+      Feature: Western numbers
+     "25000$ من 1000$ حتى"
+      Script: Arabic
+      Language: Arabic
+      Feature: Western numbers
+     "(عليك فقط الإلتزام بالدفعات الشهرية (دون رهن أو كفيل "
+      Script: Arabic
+      Language: Arabic
+     "للمزيد من المعلومات"
+      Script: Arabic
+      Language: Arabic
+     "70/032783"
+      Feature: Western numbers
