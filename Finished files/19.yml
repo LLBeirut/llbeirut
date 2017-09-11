@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: MH
+
+ Fulcrum_id: c8be521b-bf07-41e2-9c56-b562091cb810
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3c28d40b-4628-4f53-bb7c-e5c7d3914edc
+ revised_id: 19
+ date_taken: 07-09-15
+ time_taken: 13:18:56
+ time_zone: EEST
+ created_by: 7
+ latitude: 33.89345979
+ longitude: 35.67955686
+
+ languages:  English
+  dominant_language: English
+
+ script: Arabic, Latin
+  dominant_script: Codominant
+
+ Characteristics: transliteration
+ general_context: Signage
+ material:
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Al Jamal"
+      Script: Latin
+      Language: Null
+      Feature: Proper Noun
+     "Residence"
+      Script: Latin
+      Language: English
+     "الجمال رزيدانس"
+      Script: Arabic
+      Language: English
+      Feature: Transliteration
+
+  Paragraph2:
+     "Furnished Suites"
+      Script: Latin
+      Language: English

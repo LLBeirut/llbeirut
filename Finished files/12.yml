@@ -1,0 +1,82 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: MH
+
+ Fulcrum_id: 0cfc3afa-548a-4fbe-a636-104822c1fa64
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d5f9eb37-6c07-4aa4-a2a3-46421490ed3b
+ revised_id: 12
+ date_taken: 05-09-15
+ time_taken: 15:31:45
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89881357
+ longitude: 35.47878798
+
+ languages: "English, Arabic"
+  dominant_language: Arabic
+
+ script: "Arabic ,Latin "
+  dominant_script: Arabic
+
+ Characteristics: mixed languages in same item
+ general_context: Advertising
+ material: Poster
+
+
+ comments: "In this poster only specific words are written in Latin script. ""Rapper"" and the proper name ""Antoine"". Avoidance of transliteration. "
+ comments2:
+
+ Body:
+  Paragraph1:
+     "قوم وقاف"
+      Script: Arabic
+      Language: Arabic
+     "Comedy Show"
+      Script: Latin
+      Language: English
+     "أيلول ١٣ ١٢ ١١   على خشبة المسرح الثقافي الروسي فردان بيروت"
+      Script: Arabic
+      Language: Arabic
+      Feature: Arabic Numbers
+
+  Paragraph2:
+     "سعر البطاقة ٢٥ ألف ليرة الساعة ٨:٣٠ مساءً"
+      Script: Arabic
+      Language: Arabic
+      Feature: Arabic Numbers
+
+  Paragraph3:
+    "تباع البطاقات في فروع مكتبة"
+      Script: Arabic
+      Language: Arabic
+    "Antoine"
+      Script: Latin
+      Language: null
+      Feature: Proper Noun
+    "للحجز: ٨٧٠ ٨١٢ - ٠١ "
+      Script: Arabic
+      Language: Arabic
+      Feature: Arabic Numbers
+
+  Paragraph4:
+    "بالإشترك مع ال"
+      Script: Arabic
+      Language: Arabic
+    "Rapper"
+      Script: English
+      Language: English
+    "ناصر الدين طفار"
+      Script: Arabic
+      Language: null
+      Feature: Proper Noun

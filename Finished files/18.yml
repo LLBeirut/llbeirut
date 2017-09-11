@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: MH
+
+ Fulcrum_id: 42c3080e-b298-46e1-a193-168ff86bdb2f
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=cf833323-2ad8-4724-9bd2-a744de0593e9
+ revised_id: 18
+ date_taken: 07-09-15
+ time_taken: 12:54:37
+ time_zone: EEST
+ created_by: 7
+ latitude: 33.89234405
+ longitude: 35.57601437
+
+ languages:  English
+  dominant_language: English
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: "transliteration,single language"
+ general_context: Signage
+ material: sign
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "باور ستيل"
+      Script: Arabic
+      Language: Latin
+      Feature: Transliteration
+     "Power Steel 03/688294 - 01/894690"
+      Script: Latin
+      Language: English
+      Feature: Western Numbers
