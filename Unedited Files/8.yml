@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: true
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: DW
 
  Fulcrum_id: 8b93cf39-226d-4603-b1ee-aebaf0cf7633
  photo_url: https://web.fulcrumapp.com/photos/view?photos=381f2e65-c26b-46bb-9a64-7cf5be695a65
@@ -23,36 +23,36 @@ header:
  latitude: 33.89879467
  longitude: 35.48146307
 
- languages:  
-  dominant_language: null
-    
- script: Arabic  
-  dominant_script: null
-    
- Characteristics: single language 
- general_context: Signage 
- material:
-    
-    
+ languages: English
+  dominant_language: English
+
+ script: English, Arabic
+  dominant_script: English
+
+ Characteristics: single language, calligraphy
+ general_context: Signage
+ material: panel sign
+
+
  comments: Notice the mixed script logo B and ب
- comments2: 
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "BoB"
+      Script: Latin
+      Feature: corporate name
+     "Finance"
+      Script: Latin
+      Language: corporate name
+     "YOUR SERVICE PROVIDER"
+      Script: Latin
+      Language: English
+     "24/7 CUSTOMER SERVICE 1262"
+      Script: Latin
+      Language: English
+      Feature: Western numbers
+     "WESTERN UNION//WU"
+      Script: Latin
+      Language: English
+      Feature: corporate name
