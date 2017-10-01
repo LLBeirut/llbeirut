@@ -1,0 +1,54 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: a4448216-f55d-48b6-997c-023f6c686962
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=b612c1cc-03d4-4f53-89a5-20be869470d7
+ revised_id: 1006
+ date_taken: 09-12-15
+ time_taken: 00:25:12
+ time_zone: EET
+ created_by: 6
+ latitude: 33.88953254
+ longitude: 35.50298352
+
+ languages: English
+  dominant_language: null
+
+ script: Latin
+  dominant_script: null
+
+ Characteristics: unilingual
+ general_context: "Food/Entertainment,Advertising"
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "bento MENU"
+      Script: Latin
+      Language: English
+      Feature: ProperName
+     "FLAVORS TO EXPLORE"
+      Script: Latin
+      Language: English
+      Feature: null
+  Paragraph2:
+     "TO PLACE YOU ORDER 01.429 129"
+      Script: Latin
+      Language: English
+      Feature: WesternNumber

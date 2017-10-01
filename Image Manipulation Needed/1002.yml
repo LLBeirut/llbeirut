@@ -1,11 +1,11 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
+
  complete: false
-    
+
  altered:
   anonymized: false
   point_focus: false
@@ -13,33 +13,33 @@ header:
 
  transcribed_by:
 
- Fulcrum_id: 6436599d-c662-474d-9841-54a9ae468128
- photo_url: https://web.fulcrumapp.com/photos/view?photos=b656bac8-0f2c-49f0-80af-fc76ad4759b6
- revised_id: 1008
+ Fulcrum_id: 2147d79e-3293-4c1e-9032-bd04e6746ab4
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=977c3ba7-4094-41fa-a331-4df4e58b0622
+ revised_id: 1002
  date_taken: 09-12-15
- time_taken: 00:26:33
+ time_taken: 00:20:29
  time_zone: EET
  created_by: 6
- latitude: 33.89221798
- longitude: 35.52528307
+ latitude: 33.88664661
+ longitude: 35.51939428
 
- languages:  
+ languages:
   dominant_language: null
-    
- script: Latin  
+
+ script: "Latin ,""Asian  (like Chinese, Hindi)"""
   dominant_script: null
-    
- Characteristics: unilingual 
- general_context: "Food/Entertainment,Advertising" 
+
+ Characteristics: "meaning not same across langs,meaning same across langs"
+ general_context: "Advertising,Food/Entertainment"
  material:
-    
-    
- comments: 
- comments2: 
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
+      "Insert text here"
       Script:
       Language:
       Feature:

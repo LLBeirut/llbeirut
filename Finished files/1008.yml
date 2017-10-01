@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: false
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 6436599d-c662-474d-9841-54a9ae468128
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=b656bac8-0f2c-49f0-80af-fc76ad4759b6
+ revised_id: 1008
+ date_taken: 09-12-15
+ time_taken: 00:26:33
+ time_zone: EET
+ created_by: 6
+ latitude: 33.89221798
+ longitude: 35.52528307
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: null
+
+ Characteristics: unilingual
+ general_context: "Food/Entertainment,Advertising"
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "YUMI Sushi"
+     Script: Latin
+     Language: English
+     Feature: Proper_Name
+     "Asian Restaurant"
+      Script: Latin
+      Language: English
+      Feature: null
+     "YU ORDER, WE DELIVER 01 33 78 38 - 03 27 27 63"
+      Script: Latin
+      Language: English
+      Feature: Western

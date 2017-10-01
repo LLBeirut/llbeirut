@@ -1,0 +1,62 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+  transcribed_by: RJ
+
+ Fulcrum_id: 1e1a7a8a-1d7d-455a-bcc1-0ec5771aa669
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=6915b710-c555-4130-854c-5672379abe30
+ revised_id: 1001
+ date_taken: 09-12-15
+ time_taken: 00:19:38
+ time_zone: EET
+ created_by: 6
+ latitude: 33.89201871
+ longitude: 35.50645765
+
+ languages: English, Chinese
+  dominant_language: English
+
+ script: Latin, Asian
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: "Food/Entertainment,Advertising"
+ material: printed
+
+
+ comments:
+ comments2:
+
+Body:
+Paragraph1:
+      "豆豆"
+      Script: Asian
+      Language: Chinese
+      Feature: Proper_Name, Equivalence
+      "Dou Dou"
+      Script: Latin
+      Language: Chinese
+      Feature: Proper_Name, Equivalence
+      "CHINESE RESTAURANT TAKE AWAY MENU"
+      Script: Latin
+      Language: English
+      Feature: NULL
+Paragraph2:
+      "Open Daily 12.00am - 11.30pm Delivery 12.00am - 11.30pm Private Parties Catered For 01 20 18 41 03 95 11 27"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "Sioufi Street"
+      Script: Latin
+      Language: English
+      Feature: Place_Name

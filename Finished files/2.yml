@@ -40,10 +40,14 @@ header:
  Body:
   Paragraph1:
      "٧٦٨٩٣٥٤٩"
-      Feature: Eastern numbers
+      Script: null
+      Language: null
+      Feature: Eastern
      "شوفير"
       Script: Arabic
       Language: null
+      Feature: null
      "علي علي"
       Script: Arabic
-      Feature: Proper name
+      Language: null
+      Feature: Proper_Name

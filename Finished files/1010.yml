@@ -24,10 +24,10 @@ header:
  longitude: 35.51604118
 
  languages: English
-  dominant_language: English
+  dominant_language: null
 
  script: Latin
-  dominant_script: Latin
+  dominant_script: null
 
  Characteristics: unilingual
  general_context: "Food/Entertainment,Advertising"
@@ -47,12 +47,3 @@ header:
       Script: Latin
       Language: English
       Feature: null
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:

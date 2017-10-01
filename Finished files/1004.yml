@@ -1,0 +1,54 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 0d2a737c-bfa7-4995-9efc-c58585420c99
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=70249269-07ea-4451-892c-c2abb3991b0a
+ revised_id: 1004
+ date_taken: 09-12-15
+ time_taken: 00:22:05
+ time_zone: EET
+ created_by: 6
+ latitude: 33.88150632
+ longitude: 35.5147269
+
+ languages: Arabic, English
+  dominant_language: Arabic
+
+ script: "Arabic ,Latin"
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,meaning not same across langs,multiple scripts in total item"
+ general_context: "Food/Entertainment,Advertising"
+ material: printed
+
+
+ comments:
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "نهوند"
+      Script: Arabic
+      Language: Arabic
+      Feature: ProperName, Equivalence
+     "NAHAWAND"
+      Script: English
+      Language: English
+      Feature: ProperName, Equivalence
+  Paragraph2:
+     "تقاسيم شرقية وطعمة لبنا"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
