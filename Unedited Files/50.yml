@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
+
  complete: false
-    
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 39b7be85-39be-4015-927d-91315f3bbe76
  photo_url: https://web.fulcrumapp.com/photos/view?photos=cc999d29-b924-43ed-989d-eb156083c3ba
@@ -23,31 +23,30 @@ header:
  latitude: 33.98050406
  longitude: 35.61524738
 
- languages:  
+ languages:  English, Arabic
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: "bilingual,meaning same across langs,mixed languages,Western numbers,Oriental numbers" 
- general_context: Signage 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "bilingual,meaning same across langs,mixed languages,Western numbers,Oriental numbers"
+ general_context: Signage
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
+     "No Smoking"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+     "ممنوع التدخين"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
      "Insert text here"
       Script:
       Language:
