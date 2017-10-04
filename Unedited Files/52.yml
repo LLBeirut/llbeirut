@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True 
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 2c1af1e6-6fb9-4d41-bcb4-0f121f9305a4
  photo_url: https://web.fulcrumapp.com/photos/view?photos=441a1f54-9dba-4f1e-b1b3-0be3a03bd45b
@@ -23,36 +23,31 @@ header:
  latitude: 33.89756774
  longitude: 35.56417657
 
- languages:  
+ languages: Arabic, English
   dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: trilingual 
- general_context: Publication 
- material:
-    
-    
- comments: 
- comments2: 
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics:
+ general_context: Publication
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Yallah Bye"
+      Script: Latin
+      Language: Null
+      Feature: Null
+     "Kyungeun Park - Joseph Safieddine"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "Le Lombard"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
