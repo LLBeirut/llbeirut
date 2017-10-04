@@ -4,7 +4,7 @@ Template_Version : 0.5
 
 header:
 
- complete: false
+ complete: True 
 
  altered:
   anonymized: false
@@ -47,11 +47,15 @@ header:
       Script: Arabic
       Language: Arabic
       Feature: Equivalence
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "التدخين في هذا المكان مخالف للقانون ١٧٤ ويعّرضك للغرامة المالية (اقلهـّا...،١٣٥ ل.ل)"
+      Script: Arabic
+      Language: Arabic
+      Feature: Eastern, Equivalence
+     "Smoking in this premises is prohibited by the law under the article 174, which will be reinforced by a minimum fine of 135 000 LL."
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+      "Zaatar w Zeit"
+      Script: Latin
+      Language: Arabic
+      Feature: Proper_name
