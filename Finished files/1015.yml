@@ -1,0 +1,70 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 4ccadd4f-82a6-4cd1-9245-9cdfe7da3cf3
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=534ec501-d7ab-4e1c-833d-3a7b07ee8d95
+ revised_id: 1015
+ date_taken: 09-12-15
+ time_taken: 00:31:41
+ time_zone: EET
+ created_by: 6
+ latitude: 33.88435707
+ longitude: 35.51931817
+
+ languages: Arabic, English
+  dominant_language: English
+
+ script: Latin, Arabic
+  dominant_script: Latin
+
+ Characteristics: "bilingual,meaning not same across langs,mixed languages,multiple scripts in total item"
+ general_context: "Food/Entertainment,Advertising"
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "قرن وصاج"
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_Name
+     "Free Delivery 01-641 888 76 - 400 309"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "Bechara El Khoury Street Ministry of Finanace Bldg. - Beirut - Lebanon"
+      Script: Latin
+      Language: null
+      Feature: Place_Name
+  Paragraph2:
+     "Snack"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Free Delivery"
+      Script: Latin
+      Language: English
+      Feature: null
+      "01-641999 / 76-992916"
+      Script: null
+      Language: null
+      Feature: Western
+      "paprika"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name

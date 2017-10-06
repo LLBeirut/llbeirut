@@ -35,17 +35,17 @@ header:
 
 
  comments:
- comments2: 
+ comments2:
 
  Body:
   Paragraph1:
      "نهوند"
       Script: Arabic
-      Language: Arabic
-      Feature: ProperName, Equivalence
+      Language: null
+      Feature: Proper_Name, Equivalence
      "NAHAWAND"
       Script: English
-      Language: English
+      Language: null
       Feature: ProperName, Equivalence
   Paragraph2:
      "تقاسيم شرقية وطعمة لبنا"

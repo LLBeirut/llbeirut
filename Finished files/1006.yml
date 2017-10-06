@@ -24,10 +24,10 @@ header:
  longitude: 35.50298352
 
  languages: English
-  dominant_language: null
+  dominant_language: English
 
  script: Latin
-  dominant_script: null
+  dominant_script: Latin
 
  Characteristics: unilingual
  general_context: "Food/Entertainment,Advertising"
@@ -42,7 +42,7 @@ header:
      "bento MENU"
       Script: Latin
       Language: English
-      Feature: ProperName
+      Feature: null
      "FLAVORS TO EXPLORE"
       Script: Latin
       Language: English
@@ -51,4 +51,4 @@ header:
      "TO PLACE YOU ORDER 01.429 129"
       Script: Latin
       Language: English
-      Feature: WesternNumber
+      Feature: Western

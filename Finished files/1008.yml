@@ -4,7 +4,7 @@ Template_Version : 0.5
 
 header:
 
- complete: false
+ complete: true
 
  altered:
   anonymized: false
@@ -27,7 +27,7 @@ header:
   dominant_language: English
 
  script: Latin
-  dominant_script: null
+  dominant_script: Latin
 
  Characteristics: unilingual
  general_context: "Food/Entertainment,Advertising"

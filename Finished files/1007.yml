@@ -24,10 +24,10 @@ header:
  longitude: 35.50502736
 
  languages: English
-  dominant_language: null
+  dominant_language: English
 
  script: Latin
-  dominant_script: null
+  dominant_script: Latin
 
  Characteristics: unilingual
  general_context: "Food/Entertainment,Advertising"
@@ -39,22 +39,64 @@ header:
 
  Body:
   Paragraph1:
-     "A MEGA WRAP ON THE GO RICH WITH DELICIOUS FILLINGS FOR BIG APPETITES. BOXMASTER KFC ... THE CHAMPION OF GREAT TASTE!"
+     "A MEGA WRAP ON THE GO RICH WITH DELICIOUS FILLINGS FOR BIG APPETITES. BOXMASTER"
       Script: Latin
       Language: English
-      Feature: ProperName
-     "CLASSIC BOXMASTER KFC Arabia SPICY BOXMASTER KFC Arabia"
+      Feature: null
+      "KFC ..."
       Script: Latin
       Language: English
-      Feature: ProperName
+      Feature: Proper_Name
+      "THE CHAMPION OF GREAT TASTE!"
+      Script: Latin
+      Language: English
+      Feature: null
+     "CLASSIC BOXMASTER"
+      Script: Latin
+      Language: English
+      Feature: null
+     "KFC Arabia"
+      Script: Latin
+      Language: English
+      Feature: Proper_Name
+      "SPICY BOXMASTER"
+      Script: Latin
+      Language: English
+      Feature: null
+      "KFC Arabia"
+      Script: Latin
+      Language: English
+      Feature: Proper_Name
   Paragraph2:
-     "Delicious chicken fillet with KFC's Original Secret Recipe, Two pieces of KFC's new delicious nacho cheese,
-     sliced tomatoes, shredded lettuce and cheese all topped with a rich layer of pepper mayo and wrapped in a warm toasted torilla."
+     "Delicious chicken fillet with"
       Script: Latin
       Language: English
-      Feature: ProperName
-     "Delicious chicken fillet with KFC's Spicy Zinger Recipe, Two pieces of KFC's new delicious nacho cheese,
-     sliced tomatoes, shredded lettuce and cheese all topped with a rich layer of pepper mayo and wrapped in a warm toasted torilla."
+      Feature: null
+      "KFC's"
       Script: Latin
       Language: English
-      Feature: ProperName
+      Feature: Proper_Name
+      "Original Secret Recipe, Two pieces of"
+      Script: Latin
+      Language: English
+      Feature: null
+      "KFC's"
+      Script: Latin
+      Language: English
+      Feature: Proper_Name
+      "new delicious nacho cheese, sliced tomatoes, shredded lettuce and cheese all topped with a rich layer of pepper mayo and wrapped in a warm toasted torilla."
+      Script: Latin
+      Language: English
+      Feature: null
+     "Delicious chicken fillet with"
+      Script: Latin
+      Language: English
+      Feature: null
+      "KFC's"
+      Script: Latin
+      Language: English
+      Feature: Proper_Name
+      "Spicy Zinger Recipe, Two pieces of KFC's new delicious nacho cheese, sliced tomatoes, shredded lettuce and cheese all topped with a rich layer of pepper mayo and wrapped in a warm toasted torilla."
+      Script: Latin
+      Language: English
+      Feature: null

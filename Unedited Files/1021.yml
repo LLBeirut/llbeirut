@@ -1,11 +1,11 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: true
+
  altered:
   anonymized: false
   point_focus: false
@@ -23,36 +23,108 @@ header:
  latitude: 33.85325505
  longitude: 35.56541193
 
- languages:  
+ languages: English, Arabic
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: Arabic, Latin
   dominant_script: null
-    
- Characteristics: "bilingual,meaning same across langs,meaning not same across langs,transliteration,mixed languages,multiple scripts in total item,Western numbers" 
- general_context: Food/Entertainment 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "bilingual,meaning same across langs,meaning not same across langs,transliteration,mixed languages,multiple scripts in total item,Western numbers"
+ general_context: Food/Entertainment
+ material: printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "BeefManji 6,000 LL"
+      Script: Latin
+      Language: English
+      Feature: Western، Equivalence
+      "TAKE THE COMBO"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Beef Shawarma, tarator, parsley, sumac, onions & grilled tomato"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+    " بيفمنجي:شاورما اللحم، طرطور،بقدونس،سماق،بصل وطماطم مشوية"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "Caramelized Onions BeefManji 7,000 LL"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+     "Beef Shawarma, BBQ sauce, coleslaw & caramelized onions "
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+    " بيفمنجي مع البصل بالكراميل:شاورما اللحم، صلصة الباربكيو، سلطة المللفوف بالمايونيز وبصل بالكراميل"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+      "SIGNATURE"
+      Script: Latin
+      Language: ENGLISH
+      Feature: null
+     "BeefManji Pomegranate 7,000 LL"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+     "Beef Shawarma, pomegranate sauce, parsley, sumac, onions & grilled tomato"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+    " بيفمنجي بدبس الرمان: شاورما اللحم، دبس الرمان، بقدونس، سماق، بصل وطماطم مشوية"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+      "SIGNATURE"
+      Script: Latin
+      Language: ENGLISH
+      Feature: null
+     "Light Style BeefManji 7,000 LL"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+     "Beef Shawarma, parsley, sumac, onions, grilled tomato & yoghurt sauce"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+      "بيفمنجي لايت: شاورما اللحم، بقدونس، سماق، بصل طماطم مشوية وصلصة اللبن"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "SERVED WITH BROWN BREAD EXTRA FIBER"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+      "يقدم بالخبزالاسمر الغني بالاليا"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+      "SIGNATURE"
+      Script: Latin
+      Language: ENGLISH
+      Feature: null
+
+     "ChickenManji 6,000 LL"
+      Script: Latin
+      Language: English
+      Feature: Western، Equivalence
+      "TAKE THE COMBO"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Chicken Shawarma, garlic paste, lettuce, cucumber pickles & french fries"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+    "تشيكنمنجي:شاورما الدجاج، ثوم، خس، مخلل الخيار وبطاطا مقلية"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence

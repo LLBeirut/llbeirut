@@ -1,0 +1,98 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: b24ff132-4bf1-4a1b-9ef9-6de4e11d9246
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=271244fc-3737-48b7-8027-752c2e2d0ccd
+ revised_id: 1017
+ date_taken: 09-12-15
+ time_taken: 18:43:16
+ time_zone: EET
+ created_by: 8
+ latitude: 33.90146568
+ longitude: 35.48129719
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,meaning same across langs,mixed languages,misspelling"
+ general_context: "Services,Franchise"
+ material: printed
+
+
+ comments: They meant to write 'programs'
+ comments2:
+
+ Body:
+  Paragraph1:
+     "CONTTENTS"
+      Script: Latin
+      Language: English
+      Feature: null
+  Paragraph2:
+     "02 WELCOME Welcome to Citi"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "04 Programmes Our placements programmes and internships"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "08 Case study How we helped finance the Panama Canal"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "10 Our business A guide to our business divisions"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "14 progress makers Meet some of those who came before you"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "16 Case study Helping in the search for the Higgs boson"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "18 Development Our commitment to training and growth"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "20 Progress makers Meet some of those who came before you"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "22 Global citizenship"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "24 EMEA location"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "26 How to apply"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "28 Hints and tips On making a great application"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "29 Opportunities chart a handy reference guide"
+      Script: Latin
+      Language: English
+      Feature: Western
