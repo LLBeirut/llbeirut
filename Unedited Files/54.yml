@@ -4,7 +4,7 @@ Template_Version : 0.5
 
 header:
 
- complete: false
+ complete: True
 
  altered:
   anonymized: false
@@ -42,12 +42,8 @@ header:
      "مَشرِما معنا"
       Script: Arabic
       Language: Arabic
-      Feature: Null
-     "Mushroom & Swiss"
+      Feature: Proper_name
+     "Mushroom & Swiss, 7,000 L.L."
       Script: Latin
       Language: English
-      Feature: Null
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+      Feature: Western

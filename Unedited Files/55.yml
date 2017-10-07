@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 7e0cd80d-7aff-404a-b9ff-5e8385546db1
  photo_url: https://web.fulcrumapp.com/photos/view?photos=869d1ac8-4fa2-41e7-992e-5c3063f17253
@@ -23,36 +23,27 @@ header:
  latitude: 33.890359
  longitude: 35.520984
 
- languages:  
+ languages:  Arabic, English
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: "bilingual,meaning not same across langs,audience-specific" 
- general_context: "Food/Entertainment,Advertising" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "bilingual,meaning not same across langs,audience-specific"
+ general_context: "Food/Entertainment,Advertising"
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "دليل الخدمات "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "LIBANPOST"
+      Script: Latin
+      Language: English
+      Feature: Proper_name

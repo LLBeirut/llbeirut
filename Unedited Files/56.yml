@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 3ddc9105-ee99-4065-9cab-8df4bbc6a404
  photo_url: https://web.fulcrumapp.com/photos/view?photos=3487da06-6779-4360-b2ad-eb4034d72bb6
@@ -23,36 +23,39 @@ header:
  latitude: 33.888177
  longitude: 35.507777
 
- languages:  
+ languages:  Arabic, French
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: trilingual 
- general_context: "Food/Entertainment,Advertising" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: trilingual
+ general_context: "Food/Entertainment,Advertising"
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Abdel Wahab"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "مطعم لبناني "
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "Restaurant Libnais"
+      Script: Latin
+      Language: French
+      Feature: Equivalence
+     "صحتين"
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+      "Livraison à domicile (12:00 - 23:00) Tèl 01.200552/3"
+      Script: Latin
+      Language: French
+      Feature: Western

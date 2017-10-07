@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 252e81c9-7289-4cfb-a227-64052cb39dbe
  photo_url: https://web.fulcrumapp.com/photos/view?photos=e112d974-4503-47fe-9581-1bc47752fd32
@@ -23,36 +23,31 @@ header:
  latitude: 33.88834632
  longitude: 35.51968171
 
- languages:  
+ languages: Arabic, French
   dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: unilingual 
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: bilingual
  general_context: Publication Title
- material:
-    
-    
- comments: 
- comments2: 
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Craig Thompson"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "Habibi"
+      Script: Latin
+      Language: Arabic
+      Feature: Null
+     "casterman écritures"
+      Script: Latin
+      Language: French
+      Feature: Proper_name
