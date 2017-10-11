@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 33da8fb6-6ede-472b-b049-36fe39d50c0a
  photo_url: https://web.fulcrumapp.com/photos/view?photos=4c6abd7f-567d-4cc7-ba74-9fca1566bf03
@@ -23,36 +23,27 @@ header:
  latitude: 33.8947175
  longitude: 35.49500797
 
- languages:  
+ languages: Arabic, French
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: "bilingual,meaning same across langs,mixed languages,multiple scripts in total item" 
- general_context: Signage 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "bilingual,meaning same across langs,mixed languages,multiple scripts in total item"
+ general_context: Signage
+ material: Traffic
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "يمنع ادخل السلاح والسيارات المدينة الى حرم المركز "
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "Il est defendu de porter les armes et de stationner les voitures dans l'enceinte du centre"
+      Script: Latin
+      Language: French
+      Feature: Equivalence

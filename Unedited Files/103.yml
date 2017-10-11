@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True 
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: dcba58a8-a84f-4908-988f-861e17eee090
  photo_url: https://web.fulcrumapp.com/photos/view?photos=4c0c4104-2296-4f2a-966d-5b04a0b57991
@@ -23,36 +23,27 @@ header:
  latitude: 33.89885031
  longitude: 35.49487384
 
- languages:  
+ languages: Arabic, English
   dominant_language: null
-    
- script: "Latin ,Arabic " 
+
+ script: "Latin ,Arabic "
   dominant_script: null
-    
- Characteristics: "bilingual,meaning same across langs,mixed languages,multiple scripts in total item,Western numbers" 
- general_context: Signage 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "bilingual,meaning same across langs,mixed languages,multiple scripts in total item,Western numbers"
+ general_context: Signage
+ material: Traffic
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "الوقوف مقابل بدل ٩ ق.ظ. – ٤ ب.ظ"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "PAID PARKING 9 A.M. - 4 P.M."
+      Script: Latin
+      Language: English
+      Feature: Equivalence

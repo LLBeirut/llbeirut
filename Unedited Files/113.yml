@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: f362bc10-9f2a-4501-9e89-868f7cb28a1e
  photo_url: https://web.fulcrumapp.com/photos/view?photos=0c5d44fb-2666-4a0a-a261-7373ad2dbfae
@@ -23,36 +23,27 @@ header:
  latitude: 33.96929283
  longitude: 35.60851993
 
- languages:  
+ languages: English, French
   dominant_language: null
-    
- script: Latin  
+
+ script: Latin
   dominant_script: null
-    
- Characteristics: business name in French 
- general_context: Services 
- material:
-    
-    
+
+ Characteristics: business name in French
+ general_context: Services
+ material: Signage
+
+
  comments: "Common feature is to have the business name in French, but everything else in English"
- comments2: 
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "MAISON DU SKI"
+      Script: Latin
+      Language: French
+      Feature: Proper_name
+     "BIKE & OUTDOOR"
+      Script: Latin
+      Language: English
+      Feature: Null

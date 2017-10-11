@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 2afd5f8a-1e5c-489f-aa77-115b4b0e9947
  photo_url: https://web.fulcrumapp.com/photos/view?photos=aac51830-7d74-4255-810a-08c490261f65
@@ -23,36 +23,28 @@ header:
  latitude: 33.98781609
  longitude: 35.64256475
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: Frenched by definite article (le la l') 
- general_context: "Signage,Merchandise" 
- material:
-    
-    
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin 
+
+ Characteristics: Frenched by definite article (le la l')
+ general_context: "Signage,Merchandise"
+ material: Signage
+
+
  comments: "A common feature that ""Frenchifies"" is adding the definite article le la l'"
- comments2: 
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "exotic"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
   Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Book Shop Plus"
+      Script: Latin
+      Language: English
+      Feature: Proper_name

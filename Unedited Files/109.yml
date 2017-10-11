@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True 
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 93b3a486-4e08-4a7e-a1ad-359da1c3e011
  photo_url: https://web.fulcrumapp.com/photos/view?photos=0f438b1a-bf95-4707-8a32-9f790fd92c51
@@ -23,36 +23,27 @@ header:
  latitude: 33.90003348
  longitude: 35.48953026
 
- languages:  
+ languages: French
   dominant_language: null
-    
- script: Latin  
+
+ script: Latin
   dominant_script: null
-    
- Characteristics: bilingual 
- general_context: "Advertising,Health/Beauty" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: bilingual
+ general_context: "Advertising,Health/Beauty"
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Salon Samir Style"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "pour Femmes"
+      Script: Latin
+      Language: French
+      Feature: Null

@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True 
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: dc9396b9-a727-491c-932a-f66f259d1693
  photo_url: https://web.fulcrumapp.com/photos/view?photos=3b6debc4-2726-4aeb-9357-6874bc935017
@@ -23,36 +23,35 @@ header:
  latitude: 33.97204152
  longitude: 35.61023248
 
- languages:  
+ languages: Arabic, English
   dominant_language: null
-    
- script: "Latin ,Arabic " 
+
+ script: "Latin ,Arabic "
   dominant_script: null
-    
- Characteristics: "bilingual,meaning same across langs,multiple scripts in total item,Western numbers,Oriental numbers" 
- general_context: "Signage,Food/Entertainment" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "bilingual,meaning same across langs,multiple scripts in total item,Western numbers,Oriental numbers"
+ general_context: "Signage,Food/Entertainment"
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+    "فروج لا لا "
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence
+     "منذ ١٩٦٧"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence, Eastern
+      "LALA Chicken"
+      Script: Latin
+      Language: English
+      Feature: Proper_name, Equivalence
+      "Since 1967"
+      Script: Latin
+      Language: English
+      Feature: Equivalence, Western
