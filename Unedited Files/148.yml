@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True 
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 4377e26b-2187-4027-b128-adb4c25855dd
  photo_url: https://web.fulcrumapp.com/photos/view?photos=2c7dbcb7-25b5-4bc5-98f1-3ee5bb66dc69
@@ -23,36 +23,35 @@ header:
  latitude: 33.8967464
  longitude: 35.47700746
 
- languages:  
+ languages: Arabic, English, Filipino/Tagalog
   dominant_language: null
-    
- script: "Arabic ,Latin " 
-  dominant_script: null
-    
- Characteristics: "meaning same across langs,trilingual" 
- general_context: Signage 
- material:
-    
-    
- comments: 
- comments2: 
+
+ script: "Arabic ,Latin "
+  dominant_script: Latin
+
+ Characteristics: "meaning same across langs,trilingual"
+ general_context: Signage
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Dogs are not allowed to pass"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+     "Praying Area"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "ممنوع مرور الكلاب"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "bawal ang mga aso dito"
+      Script: Latin
+      Language: Filipino/Tagalog
+      Feature: Equivalence

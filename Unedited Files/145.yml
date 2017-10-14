@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True 
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 49ed8c6d-a74b-4419-b94b-c4de21824691
  photo_url: https://web.fulcrumapp.com/photos/view?photos=eea1b32e-7006-4416-8818-d6dbdd9305cd
@@ -23,36 +23,39 @@ header:
  latitude: 33.893155
  longitude: 35.520537
 
- languages:  
-  dominant_language: null
-    
- script: "Arabic ,Latin " 
-  dominant_script: null
-    
- Characteristics: "bilingual,meaning same across langs,meaning not same across langs,transliteration,audience-specific" 
- general_context: Merchandise 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: Arabic, English, Chinese
+  dominant_language: English
+
+ script: "Arabic ,Latin "
+  dominant_script: Latin
+
+ Characteristics: "bilingual,meaning same across langs,meaning not same across langs,transliteration,audience-specific"
+ general_context: Merchandise
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "TIGER BALM"
+      Script: Latin
+      Language: English
+      Feature: Proper_name, Equivalence
+     "تايجر بالم "
+      Script: Arabic
+      Language: English
+      Feature: Proper_name, Equivalence
+     "For fast and effective relief of muscular aches and pains, sprains, headache, stuffy nose, flatulence, insect bites and itchiness. Apply gently on affected area."
+      Script: Latin
+      Language: English
+      Feature: Null
+     "NET WY 30 g"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+      "٣٠ جرام الوزن الصافي"
+      Script: Arabic
+      Language: Arabic
+      Feature: Eastern, Equivalence

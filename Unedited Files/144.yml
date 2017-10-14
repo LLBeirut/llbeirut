@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True 
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 87ab4d61-20ae-40a2-be1e-4cf83ebe7af9
  photo_url: https://web.fulcrumapp.com/photos/view?photos=89f66c11-905e-417b-a253-6235b387f8e8
@@ -23,36 +23,39 @@ header:
  latitude: 33.892854
  longitude: 35.557439
 
- languages:  
-  dominant_language: null
-    
- script: "Arabic ,Latin " 
-  dominant_script: null
-    
- Characteristics: bilingual 
+ languages: Arabic, English
+  dominant_language: Arabic
+
+ script: "Arabic ,Latin "
+  dominant_script: Arabic
+
+ Characteristics: bilingual
  general_context:  Sign
- material:
-    
-    
- comments: 
- comments2: 
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+    "مَرخل كاراج"
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name
+     "ممنوع الوقوف "
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "ليلاً نهاراً"
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "باب على الكهرباء "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "NO PARKING"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
