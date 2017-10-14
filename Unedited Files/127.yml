@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 1199cfd4-d0cb-4f46-bd2a-fda93771d551
  photo_url: https://web.fulcrumapp.com/photos/view?photos=a2d2eee9-4db7-425a-81f4-47d4b61623b8
@@ -23,36 +23,33 @@ header:
  latitude: 33.89959505
  longitude: 35.48234082
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: unilingual 
- general_context: "Signage,Services" 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: "Signage,Services"
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "ONLY CANS"
+      Script: Latin
+      Language: English
+      Feature: Null
   Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "ONLY PLASTIC"
+      Script: Latin
+      Language: English
+      Feature: Null
+  Paragraph3:
+     "ONLY GLASS"
+      Script: Latin
+      Language: English
+      Feature: Null

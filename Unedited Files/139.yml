@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True 
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 47cee285-938e-4ad1-a51e-7f766891e8f2
  photo_url: https://web.fulcrumapp.com/photos/view?photos=51d96c1b-196d-4d3e-9ad8-f5c48323b62f
@@ -23,36 +23,31 @@ header:
  latitude: 33.90053735
  longitude: 35.47017163
 
- languages:  
+ languages: Arabic, English, French
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: "meaning not same across langs,mixed languages,multiple scripts in total item,Oriental numbers" 
- general_context: Food/Entertainment 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "meaning not same across langs,mixed languages,multiple scripts in total item,Oriental numbers"
+ general_context: Food/Entertainment
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Manara Palace Café"
+      Script: Latin
+      Language: English, French
+      Feature: Proper_name
+     "المنارة – قرب النادي العسكري المركزي "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+"تلفون : ٠٣٧٥٣٨٨٧"
+      Script: Arabic
+      Language: Arabic
+      Feature: Eastern

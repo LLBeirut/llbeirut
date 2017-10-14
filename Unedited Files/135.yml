@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 9c00fe3e-8e92-4051-aece-931b61bf7b7f
  photo_url: https://web.fulcrumapp.com/photos/view?photos=82034b7f-6273-46d6-9601-e5f0763724df
@@ -23,36 +23,27 @@ header:
  latitude: 33.91399397
  longitude: 35.58644414
 
- languages:  
+ languages: Arabic, English
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: "bilingual,meaning same across langs" 
- general_context: Food/Entertainment 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "bilingual,meaning same across langs"
+ general_context: Food/Entertainment
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "BECHARA BROS"
+      Script: Latin
+      Language: English
+      Feature: Proper_name, Equivalence
+     "بشارة اخوان "
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence
