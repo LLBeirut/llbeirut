@@ -44,11 +44,11 @@ header:
       Language: null
       Feature: Proper_Name, Equivalence
      "NAHAWAND"
-      Script: English
+      Script: Latin
       Language: null
-      Feature: ProperName, Equivalence
+      Feature: Proper_Name, Equivalence
   Paragraph2:
-     "تقاسيم شرقية وطعمة لبنا"
+     "تقاسيم شرقية وطعمة لبنان"
       Script: Arabic
       Language: Arabic
       Feature: null
