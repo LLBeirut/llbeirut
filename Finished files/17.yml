@@ -31,7 +31,7 @@ header:
 
  Characteristics: "mixed languages,cultural reference"
  general_context: Advertising
- material: Road Banner
+ material: advertising
 
 
  comments:
@@ -45,12 +45,19 @@ header:
      "Dabkeh"
       Script: Latin
       Language: Arabic
-      Feature: Transliteration
+      Feature: null
      "must go on"
       Script: Latin
       Language: English
-  Paragraph2:
-     "بدك تدبك؟ لاقينا على معاصر الشوف ب13 أيلول 2015"
+     "بدك تدبك؟ لاقينا على "
       Script: Arabic
       Language: Arabic
       Feature: Western Numbers
+     "معاصر الشوف"
+      Script: Arabic
+      Language: null
+      Feature: Place_Name
+     "ب13 أيلول 2015"
+      Script: Arabic
+      Language: Arabic
+      Feature: Western
