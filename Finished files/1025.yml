@@ -39,7 +39,7 @@ header:
 
  Body:
   Paragraph1:
-     "The graphic designer"
+     "The graphic designer."
       Script: Latin
       Language: English
       Feature: null
@@ -56,7 +56,7 @@ header:
       Script: Latin
       Language: English
       Feature: null
-     "Falls in love with concept"
+     "Falls in love with concept!"
       Script: Latin
       Language: English
       Feature: null
@@ -76,15 +76,15 @@ header:
       Script: Latin
       Language: English
       Feature: null
-     "still finds hope!"
+     "Still finds hope!"
       Script: Latin
       Language: English
       Feature: null
-     "works all night again"
+     "Works all night again"
       Script: Latin
       Language: English
       Feature: null
-     "finally gets project approval from client"
+     "Finally gets project approval from client"
       Script: Latin
       Language: English
       Feature: null
@@ -96,11 +96,11 @@ header:
       Script: Latin
       Language: English
       Feature: null
-     "Gets depressed"
+     "Gets depressed."
       Script: Latin
       Language: English
       Feature: null
-     "Turns into a pile of poo"
+     "Turns into a steaming pile of poo."
       Script: Latin
       Language: English
       Feature: null
