@@ -41,30 +41,29 @@ header:
   Paragraph1:
      "قرن وصاج"
       Script: Arabic
-      Language: Arabic
+      Language: null
       Feature: Proper_Name
-     "Free Delivery 01-641 888 76 - 400 309"
+     "Free Delivery | 01 - 641 888 | 76 - 400 309"
       Script: Latin
       Language: English
       Feature: Western
-      "Bechara El Khoury Street Ministry of Finanace Bldg. - Beirut - Lebanon"
+      "Bechara El Khoury Street Ministry of Finance Bldg. - Beirut - Lebanon"
       Script: Latin
       Language: null
       Feature: Place_Name
-  Paragraph2:
      "Snack"
       Script: Latin
-      Language: English
+      Language: null
       Feature: null
      "Free Delivery"
       Script: Latin
       Language: English
       Feature: null
-      "01-641999 / 76-992916"
+      "01-641999 | 76-992916"
       Script: null
       Language: null
       Feature: Western
-      "paprika"
+      "magical paprika"
       Script: Latin
       Language: null
       Feature: Proper_Name
