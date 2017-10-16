@@ -42,11 +42,11 @@ header:
      "MY LORD"
       Script: Latin
       Language: English
-      Feature: Equivalence
+      Feature: null
      "ماي لورد"
       Script: Arabic
       Language: English
-      Feature: Equivalence
+      Feature: null
   Paragraph2:
      "COSTUME 50% GIFTS"
       Script: Latin
