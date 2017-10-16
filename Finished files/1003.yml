@@ -45,7 +45,7 @@ header:
       Feature: Western
      "Horsh Tabet, Centre Delta"
       Script: Latin
-      Language: English
+      Language: null
       Feature: Place_Name
      "Open Till 11pm"
       Script: Latin
