@@ -42,7 +42,7 @@ header:
      "Storium"
       Script: Latin
       Language: Null
-      Feature: Proper Noun
+      Feature: Proper_Name
 
   Paragraph2:
      "#shou3abélak!!"
@@ -51,7 +51,7 @@ header:
      "myStorium"
       Script: Latin
       Language: null
-      Feature: Proper Noun
+      Feature: Proper_Name
      "OUR NEW LOYALTY PROGRAM POINTS THAT COUNT"
       Script: Latin
       Language: English
