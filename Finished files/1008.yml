@@ -41,7 +41,7 @@ header:
   Paragraph1:
      "YUMI Sushi"
      Script: Latin
-     Language: English
+     Language: null
      Feature: Proper_Name
      "Asian Restaurant"
       Script: Latin
