@@ -31,7 +31,7 @@ header:
 
  Characteristics: transliteration
  general_context: Advertising
- materials: Road sign
+ materials: advertising
 
 
  comments:
@@ -41,17 +41,26 @@ header:
   Paragraph1:
      "برج الحمام"
       Script: Arabic
-      Language: Arabic
+      Language: null
+      Feature: Proper_Name
      "Bourj al Hamam"
       Script: Latin
-      Language: Arabic
-      Feature: Transliteration
-  Paragraph2:
-     "Lebaneese Cuisine"
+      Language: null
+      Feature: Transliteration, Proper_Name
+     "Lebanese Cuisine"
       Script: Latin
       Language: English
-
-     "صيفاً شتاءً برمانا مار شعيا 04862211"
+      Feature: null
+     "صيفاً شتاءً "
       Script: Arabic
       Language: Arabic
-      Feature: Western Numbers
+      Feature: null
+     "برمانا مار شعيا 04862211"
+      Script: Arabic
+      Language: null
+      Feature: Place_Name, Western
+   Paragraph2: 
+     "MEDIA TRADE 01/69538371"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name, Western
