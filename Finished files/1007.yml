@@ -45,7 +45,7 @@ header:
       Feature: null
       "KFC ..."
       Script: Latin
-      Language: English
+      Language: null
       Feature: Proper_Name
       "THE CHAMPION OF GREAT TASTE!"
       Script: Latin
@@ -57,15 +57,15 @@ header:
       Feature: null
      "KFC Arabia"
       Script: Latin
-      Language: English
+      Language: null
       Feature: Proper_Name
-      "SPICY BOXMASTER"
+     "SPICY BOXMASTER"
       Script: Latin
       Language: English
       Feature: null
-      "KFC Arabia"
+     "KFC Arabia"
       Script: Latin
-      Language: English
+      Language: null
       Feature: Proper_Name
   Paragraph2:
      "Delicious chicken fillet with"
@@ -74,7 +74,7 @@ header:
       Feature: null
       "KFC's"
       Script: Latin
-      Language: English
+      Language: null
       Feature: Proper_Name
       "Original Secret Recipe, Two pieces of"
       Script: Latin
@@ -82,9 +82,9 @@ header:
       Feature: null
       "KFC's"
       Script: Latin
-      Language: English
+      Language: null
       Feature: Proper_Name
-      "new delicious nacho cheese, sliced tomatoes, shredded lettuce and cheese all topped with a rich layer of pepper mayo and wrapped in a warm toasted torilla."
+      "new delicious nacho cheese, sliced tomatoes, shredded lettuce and cheese all topped with a rich layer of pepper mayo and wrapped in a warm toasted tortilla."
       Script: Latin
       Language: English
       Feature: null
@@ -92,11 +92,19 @@ header:
       Script: Latin
       Language: English
       Feature: null
-      "KFC's"
+     "KFC's"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Spicy Zinger Recipe, Two pieces of"
       Script: Latin
       Language: English
+      Feature: null
+     "KFC's"
+      Script: Latin
+      Language: null
       Feature: Proper_Name
-      "Spicy Zinger Recipe, Two pieces of KFC's new delicious nacho cheese, sliced tomatoes, shredded lettuce and cheese all topped with a rich layer of pepper mayo and wrapped in a warm toasted torilla."
+     "new delicious nacho cheese, sliced tomatoes, shredded lettuce and cheese all topped with a rich layer of pepper mayo and wrapped in a warm toasted tortilla."
       Script: Latin
       Language: English
       Feature: null
