@@ -1,0 +1,66 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: false
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 078aac9d-c380-476b-9a9e-bab38982feb7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=433c24f8-0f94-40f1-be6b-a6f1e5f41313
+ revised_id: 16
+ date_taken: 07-09-15
+ time_taken: 09:28:18
+ time_zone: EEST
+ created_by: 7
+ latitude: 33.89097393
+ longitude: 35.62571503
+
+ languages:  Arabic
+  dominant_language: Arabic
+
+ script: Arabic, Latin
+  dominant_script: Arabic
+
+ Characteristics: transliteration
+ general_context: Advertising
+ materials: advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "برج الحمام"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "Bourj al Hamam"
+      Script: Latin
+      Language: null
+      Feature: Transliteration, Proper_Name
+     "Lebanese Cuisine"
+      Script: Latin
+      Language: English
+      Feature: null
+     "صيفاً شتاءً "
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "برمانا مار شعيا 04862211"
+      Script: Arabic
+      Language: null
+      Feature: Place_Name, Western
+   Paragraph2: 
+     "MEDIA TRADE 01/69538371"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name, Western

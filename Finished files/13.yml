@@ -1,0 +1,62 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: MH
+
+ Fulcrum_id: 386c5d27-5ec0-4062-943a-591a4bd40936
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=fe5f7fcb-00ad-41b3-a9cb-696dae789807
+ revised_id: 13
+ date_taken: 06-09-15
+ time_taken: 12:16:50
+ time_zone: EEST
+ created_by: 17
+ latitude: 33.92598071
+ longitude: 35.63517082
+
+ languages: English, Arabic
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: mixed languages
+ general_context: Advertising
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Storium"
+      Script: Latin
+      Language: Null
+      Feature: Proper_Name
+
+  Paragraph2:
+     "#shou3abélak!!"
+      Script: Latin
+      Language: Arabic
+     "myStorium"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "OUR NEW LOYALTY PROGRAM POINTS THAT COUNT"
+      Script: Latin
+      Language: English
+
+  Paragraph3:
+    "Storiom.com.lb"
+      Script: Latin
+      Language: Null
