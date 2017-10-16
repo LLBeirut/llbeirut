@@ -85,7 +85,7 @@ header:
       Feature: Equivalence
       "SIGNATURE"
       Script: Latin
-      Language: ENGLISH
+      Language: English
       Feature: null
      "Light Style BeefManji 7,000 LL"
       Script: Latin
@@ -103,7 +103,7 @@ header:
       Script: Latin
       Language: English
       Feature: Equivalence
-      "يقدم بالخبزالاسمر الغني بالاليا"
+      "يقدم بالخبزالاسمر الغني بالالياف"
       Script: Arabic
       Language: Arabic
       Feature: Equivalence
@@ -167,8 +167,7 @@ header:
       Script: Latin
       Language: ENGLISH
       Feature: null
-
-      Paragraph2:
+  Paragraph2:
      "PotatoManji"
       Script: Latin
       Language: English
@@ -177,7 +176,7 @@ header:
       Script: Arabic
       Language: Arabic
       Feature: Equivalence
-     "french fries, garlic, ketchup, coleslaw, & cucumber pickles"
+     "[rench fries, garlic, ketchup, coleslaw, & cucumber pickles"
       Script: Latin
       Language: English
       Feature: Equivalence
