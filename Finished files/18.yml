@@ -31,7 +31,7 @@ header:
 
  Characteristics: "transliteration,single language"
  general_context: Signage
- material: sign
+ material: signage
 
 
  comments:
@@ -43,7 +43,11 @@ header:
       Script: Arabic
       Language: Latin
       Feature: Transliteration
-     "Power Steel 03/688294 - 01/894690"
+     "Power Steel"
       Script: Latin
       Language: English
-      Feature: Western Numbers
+      Feature: Transliteration
+     "03/688294 - 01/894690"
+      Script: null
+      Language: null
+      Feature: Western
