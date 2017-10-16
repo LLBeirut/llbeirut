@@ -34,12 +34,12 @@ header:
  material: printed
 
 
- comments: They meant to write 'programs'
+ comments: 
  comments2:
 
  Body:
   Paragraph1:
-     "CONTTENTS"
+     "CONTENTS"
       Script: Latin
       Language: English
       Feature: null
@@ -48,51 +48,51 @@ header:
       Script: Latin
       Language: English
       Feature: Western
-     "04 Programmes Our placements programmes and internships"
+     "04 Programmes Our placements, programmes and internships"
       Script: Latin
       Language: English
       Feature: Western
-      "08 Case study How we helped finance the Panama Canal"
+     "08 Case study How we helped finance the Panama Canal"
       Script: Latin
       Language: English
       Feature: Western
-      "10 Our business A guide to our business divisions"
+     "10 Our business A guide to our business divisions"
       Script: Latin
       Language: English
       Feature: Western
-      "14 progress makers Meet some of those who came before you"
+     "14 Progress makers Meet some of those who came before you"
       Script: Latin
       Language: English
       Feature: Western
-      "16 Case study Helping in the search for the Higgs boson"
+     "16 Case study Helping in the search for the Higgs boson"
       Script: Latin
       Language: English
       Feature: Western
-      "18 Development Our commitment to training and growth"
+     "18 Development Our commitment to training and growth"
       Script: Latin
       Language: English
       Feature: Western
-      "20 Progress makers Meet some of those who came before you"
+     "20 Progress makers Meet some of those who came before you"
       Script: Latin
       Language: English
       Feature: Western
-      "22 Global citizenship"
+     "22 Global citizenship Our corporate responsibilities"
       Script: Latin
       Language: English
       Feature: Western
-      "24 EMEA location"
+     "24 EMEA location Where we are in the region"
       Script: Latin
       Language: English
       Feature: Western
-      "26 How to apply"
+     "26 How to apply A guide to the process"
       Script: Latin
       Language: English
       Feature: Western
-      "28 Hints and tips On making a great application"
+     "28 Hints and tips On making a great application"
       Script: Latin
       Language: English
       Feature: Western
-      "29 Opportunities chart a handy reference guide"
+     "29 Opportunities chart a handy reference guide"
       Script: Latin
       Language: English
       Feature: Western
