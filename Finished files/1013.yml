@@ -45,10 +45,10 @@ header:
       Feature: null
      "Harley-Davidson"
       Script: Latin
-      Language: English
+      Language: null
       Feature: Proper_Name
   Paragraph2:
-     "upside any meal from"
+     "Upsize any meal from"
       Script: Latin
       Language: English
       Feature: null
@@ -60,11 +60,11 @@ header:
       Script: Latin
       Language: English
       Feature: null
-      "Harley-Davidson"
+      "Harley-Davidson® "
       Script: Latin
-      Language: English
+      Language: null
       Feature: Proper_Name
-      "motorcycle and jacket & other prizes"
+      "motorcycle and jacket & other prizes."
       Script: Latin
       Language: English
       Feature: null
