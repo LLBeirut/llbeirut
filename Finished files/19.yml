@@ -27,11 +27,11 @@ header:
   dominant_language: English
 
  script: Arabic, Latin
-  dominant_script: Codominant
+  dominant_script: Latin
 
  Characteristics: transliteration
  general_context: Signage
- material:
+ material: signage
 
 
  comments:
@@ -42,16 +42,18 @@ header:
      "Al Jamal"
       Script: Latin
       Language: Null
-      Feature: Proper Noun
+      Feature: Proper_Name, Transliteration
      "Residence"
       Script: Latin
-      Language: English
-     "الجمال رزيدانس"
+      Language: English, Transliteration
+     "الجمال"
       Script: Arabic
       Language: English
-      Feature: Transliteration
-
-  Paragraph2:
+      Feature: Proper_Name, Transliteration
+     "رزيدانس"
+      Script: Arabic
+      Language: English
+      Feature: Transliteration 
      "Furnished Suites"
       Script: Latin
       Language: English
