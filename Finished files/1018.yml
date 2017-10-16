@@ -55,7 +55,7 @@ header:
      "TAHADDI"
       Script: Latin
       Language: null
-      Feature: Proper_Name, Equivalence
+      Feature: Proper_Name, Transliteration
      "Facing together the challenge of poverty"
       Script: Latin
       Language: English
@@ -63,8 +63,8 @@ header:
       "تحدي"
       Script: Arabic
       Language: null
-      Feature: Proper_Name, Equivalence
+      Feature: Proper_Name, Transliteration
       "نواجه معا تحدي الفقر"
-      Script: Latin
-      Language: English
+      Script: Arabic
+      Language: Arabic
       Feature: Equivalence
