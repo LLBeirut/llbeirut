@@ -1,0 +1,82 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: c1bccd8d-c506-4eb1-bc36-11815e40d793
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e7bd9b92-a91e-4ce3-9977-fa906fe5dde7
+ revised_id: 1003
+ date_taken: 09-12-15
+ time_taken: 00:21:12
+ time_zone: EET
+ created_by: 6
+ latitude: 33.89379848
+ longitude: 35.52058585
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: "Food/Entertainment,Advertising"
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Free Delivery within the area - 01/488381"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Horsh Tabet, Centre Delta"
+      Script: Latin
+      Language: null
+      Feature: Place_Name
+     "Open Till 11pm"
+      Script: Latin
+      Language: English
+      Feature: Western
+  Paragraph2:
+     "MR international"
+      Script: Latin
+      Language: English
+      Feature: Proper_Name
+     "12,000 2 Classic Burgers with potato wedges & soft drink"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "14,000 sub of your choice with potato wedges, soft"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "dinks"
+      Script: Latin
+      Language: English
+      Feature: Misspelled
+      "& 6 pieces wings"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "10,000 2 mexican shawarma with fries"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Make it a Combo make any sub or burger of your choice a combo 2500 5000"
+      Script: Latin
+      Language: English
+      Feature: Western

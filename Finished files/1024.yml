@@ -1,0 +1,66 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 0d35f6be-bbf2-4c1c-a829-da41311be265
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f67d62da-040d-4911-a732-3a22f85f89f3
+ revised_id: 1024
+ date_taken: 04-12-15
+ time_taken: 09:00:45
+ time_zone: EET
+ created_by: 26
+ latitude: 33.89962095
+ longitude: 35.48165727
+
+ languages: English
+  dominant_language: English
+
+ script: Arabic, Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,transliteration"
+ general_context: Merchandise
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "MY LORD"
+      Script: Latin
+      Language: English
+      Feature: null
+     "ماي لورد"
+      Script: Arabic
+      Language: English
+      Feature: Transliteration
+  Paragraph2:
+     "COSTUME 50% GIFTS"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "UP TO 70%"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "SALE"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "SALE"
+      Script: Latin
+      Language: English
+      Feature: Western

@@ -1,0 +1,206 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 692d1801-d025-4c87-a865-0f1933f84cf4
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=364006f8-7800-4f77-bacd-314d27bd9d9f
+ revised_id: 1021
+ date_taken: 09-12-15
+ time_taken: 18:38:35
+ time_zone: EET
+ created_by: 8
+ latitude: 33.85325505
+ longitude: 35.56541193
+
+ languages: English, Arabic
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: "bilingual,meaning same across langs,meaning not same across langs,transliteration,mixed languages,multiple scripts in total item,Western numbers"
+ general_context: Food/Entertainment
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "BeefManji 6,000 LL"
+      Script: Latin
+      Language: English
+      Feature: Western، Equivalence
+      "TAKE THE COMBO"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Beef Shawarma, tarator, parsley, sumac, onions & grilled tomato"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+    " بيفمنجي:شاورما اللحم، طرطور،بقدونس،سماق،بصل وطماطم مشوية"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "Caramelized Onions BeefManji 7,000 LL"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+     "Beef Shawarma, BBQ sauce, coleslaw & caramelized onions "
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+    " بيفمنجي مع البصل بالكراميل:شاورما اللحم، صلصة الباربكيو، سلطة المللفوف بالمايونيز وبصل بالكراميل"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+      "SIGNATURE"
+      Script: Latin
+      Language: ENGLISH
+      Feature: null
+     "BeefManji Pomegranate 7,000 LL"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+     "Beef Shawarma, pomegranate sauce, parsley, sumac, onions & grilled tomato"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+    " بيفمنجي بدبس الرمان: شاورما اللحم، دبس الرمان، بقدونس، سماق، بصل وطماطم مشوية"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+      "SIGNATURE"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Light Style BeefManji 7,000 LL"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+     "Beef Shawarma, parsley, sumac, onions, grilled tomato & yoghurt sauce"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+      "بيفمنجي لايت: شاورما اللحم، بقدونس، سماق، بصل طماطم مشوية وصلصة اللبن"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "SERVED WITH BROWN BREAD EXTRA FIBER"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+      "يقدم بالخبزالاسمر الغني بالالياف"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+      "SIGNATURE"
+      Script: Latin
+      Language: ENGLISH
+      Feature: null
+     "ChickenManji 6,000 LL"
+      Script: Latin
+      Language: English
+      Feature: Western، Equivalence
+      "TAKE THE COMBO"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Chicken Shawarma, garlic paste, lettuce, cucumber pickles & french fries"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+    "تشيكنمنجي:شاورما الدجاج، ثوم، خس، مخلل الخيار وبطاطا مقلية"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "Caramelized Onions ChickenManji 7,000 LL"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+     "Chicken Shawarma, BBQ sauce, coleslaw & caramelized onions"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+    "تشيكنمنجي مع البصل بالكرميل: شاورما الدجاج، صلصة الباربكيو، سلطة الملفوف بالمايونيز وبصل بالكرميل"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+      "SIGNATURE"
+      Script: Latin
+      Language: ENGLISH
+      Feature: null
+     "ColeSlaw ChickenManji 7,750 LL"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+     "Chicken Shawarma, coleslaw, french fries (served with our speical bread)"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+      "تشيكنمنجي بسلطة الملفوف: شاورما الدجاج، سلطة الملفوف بالمايونيز وبطاطا مقلية، مقدم بخبزنا الخاص"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "CHOOSE TO ADD GARLIC PASTE AND/OR KETCHUP"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+    "اضف الثوم و/او الكتشاب حسب الرغبة"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+      "SIGNATURE"
+      Script: Latin
+      Language: ENGLISH
+      Feature: null
+  Paragraph2:
+     "PotatoManji"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+      "سندويش بطاطا"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "[rench fries, garlic, ketchup, coleslaw, & cucumber pickles"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+      "بطاطا مقلية، ثوم، كتشاب، سلطة الملفوف بالمايونيز ومخلل الخيار"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+      "VEGETARIAN 4,500 LL"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "CauliFlower"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+      "سندويش قرنبيط"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "Fried cauliflower, tarator, tomato, cucumber pickles, lettuce & french fries"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+      "قرنبيط مقلي، طرطور، طماطم، مخلل الخيار، خس وبطاطامقلية"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence

@@ -24,7 +24,7 @@ header:
  longitude: 35.56443452
 
  languages:  Arabic
-  dominant_language: null
+  dominant_language: Arabic
 
  script: Arabic
   dominant_script: Arabic
@@ -40,10 +40,14 @@ header:
  Body:
   Paragraph1:
      "٧٦٨٩٣٥٤٩"
-      Feature: Eastern numbers
+      Script: null
+      Language: null
+      Feature: Eastern
      "شوفير"
       Script: Arabic
       Language: null
+      Feature: null
      "علي علي"
       Script: Arabic
-      Feature: Proper name
+      Language: null
+      Feature: Proper_Name

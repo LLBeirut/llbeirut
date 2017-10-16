@@ -1,0 +1,65 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: e983e6b7-0c5e-428c-be31-ccd156e4afa5
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=34b2ee11-93ea-445d-b2ea-db86a3f70ea2
+ revised_id: 1019
+ date_taken: 09-12-15
+ time_taken: 18:39:42
+ time_zone: EET
+ created_by: 8
+ latitude: 33.84828242
+ longitude: 35.57766225
+
+ languages: German, English, Dutch, French, Italian, Spanish
+  dominant_language: null
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "meaning not same across langs,mixed languages,Western numbers"
+ general_context: Merchandise
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "DEUTSCH"
+      Script: Latin
+      Language: German
+      Feature: null
+     "ENGLISH"
+      Script: Latin
+      Language: English
+      Feature: null
+     "NEDERLANDS"
+      Script: Latin
+      Language: Dutch
+      Feature: null
+     "FRANÇAIS"
+      Script: Latin
+      Language: French
+      Feature: null
+      "ITALIANO"
+      Script: Latin
+      Language: Italian
+      Feature: null
+      "ESPAÑOL"
+      Script: Latin
+      Language: Spanish
+      Feature: null

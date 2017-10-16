@@ -1,0 +1,82 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: a39da42f-0ae9-4ddf-bccc-413a16be1f7f
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d609e414-4965-439d-a5b4-10fd183e0170
+ revised_id: 1013
+ date_taken: 09-12-15
+ time_taken: 00:30:18
+ time_zone: EET
+ created_by: 6
+ latitude: 33.88917518
+ longitude: 35.51999476
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: "Food/Entertainment,Advertising"
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "BITE & RIDE a"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Harley-Davidson"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+  Paragraph2:
+     "Upsize any meal from"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Hardee's"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+      "for a chance to win a "
+      Script: Latin
+      Language: English
+      Feature: null
+      "Harley-Davidson® "
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+      "motorcycle and jacket & other prizes."
+      Script: Latin
+      Language: English
+      Feature: null
+      "Call 1266"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "Hardee's"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+      "CHARBROILED BURGERS"
+      Script: Latin
+      Language: English
+      Feature: null     

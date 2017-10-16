@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: e6c99df4-f776-41fa-83b2-15911dfdf0ae
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=7002dca1-5ef4-4b8a-b0d1-d47faec64f24
+ revised_id: 1010
+ date_taken: 09-12-15
+ time_taken: 00:28:00
+ time_zone: EET
+ created_by: 6
+ latitude: 33.88293003
+ longitude: 35.51604118
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: "Food/Entertainment,Advertising"
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Half Salad & Half Sandwich + Soft Drink 7000"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Delicious Sandwiches"
+      Script: Latin
+      Language: English
+      Feature: null

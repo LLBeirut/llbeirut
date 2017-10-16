@@ -1,0 +1,110 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 939f55fa-8ba0-41ff-a173-69c73c2e051d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=07e3ac1a-25f4-4476-8604-64a01943cf7b
+ revised_id: 1007
+ date_taken: 09-12-15
+ time_taken: 00:25:48
+ time_zone: EET
+ created_by: 6
+ latitude: 33.87966812
+ longitude: 35.50502736
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: "Food/Entertainment,Advertising"
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "A MEGA WRAP ON THE GO RICH WITH DELICIOUS FILLINGS FOR BIG APPETITES. BOXMASTER"
+      Script: Latin
+      Language: English
+      Feature: null
+      "KFC ..."
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+      "THE CHAMPION OF GREAT TASTE!"
+      Script: Latin
+      Language: English
+      Feature: null
+     "CLASSIC BOXMASTER"
+      Script: Latin
+      Language: English
+      Feature: null
+     "KFC Arabia"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "SPICY BOXMASTER"
+      Script: Latin
+      Language: English
+      Feature: null
+     "KFC Arabia"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+  Paragraph2:
+     "Delicious chicken fillet with"
+      Script: Latin
+      Language: English
+      Feature: null
+      "KFC's"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+      "Original Secret Recipe, Two pieces of"
+      Script: Latin
+      Language: English
+      Feature: null
+      "KFC's"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+      "new delicious nacho cheese, sliced tomatoes, shredded lettuce and cheese all topped with a rich layer of pepper mayo and wrapped in a warm toasted tortilla."
+      Script: Latin
+      Language: English
+      Feature: null
+     "Delicious chicken fillet with"
+      Script: Latin
+      Language: English
+      Feature: null
+     "KFC's"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Spicy Zinger Recipe, Two pieces of"
+      Script: Latin
+      Language: English
+      Feature: null
+     "KFC's"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "new delicious nacho cheese, sliced tomatoes, shredded lettuce and cheese all topped with a rich layer of pepper mayo and wrapped in a warm toasted tortilla."
+      Script: Latin
+      Language: English
+      Feature: null

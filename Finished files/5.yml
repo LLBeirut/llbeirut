@@ -42,6 +42,7 @@ header:
      "AUB"
       Script: Latin
       Language: null
+      Feature: Proper_Name
      "Plastic, Metal & Glass"
       Script: Latin
       Language: English

@@ -1,11 +1,11 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
+
  complete: false
-    
+
  altered:
   anonymized: false
   point_focus: false
@@ -13,29 +13,29 @@ header:
 
  transcribed_by:
 
- Fulcrum_id: 6436599d-c662-474d-9841-54a9ae468128
- photo_url: https://web.fulcrumapp.com/photos/view?photos=b656bac8-0f2c-49f0-80af-fc76ad4759b6
- revised_id: 1008
+ Fulcrum_id: f45a231b-601c-4041-a24d-03bc6aa9a353
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=55f59012-9da9-41c9-8f8b-2e873bf36f6d
+ revised_id: 1014
  date_taken: 09-12-15
- time_taken: 00:26:33
+ time_taken: 00:30:55
  time_zone: EET
  created_by: 6
- latitude: 33.89221798
- longitude: 35.52528307
+ latitude: 33.88586674
+ longitude: 35.50709736
 
- languages:  
+ languages:
   dominant_language: null
-    
- script: Latin  
+
+ script: Latin
   dominant_script: null
-    
- Characteristics: unilingual 
- general_context: "Food/Entertainment,Advertising" 
+
+ Characteristics: unilingual
+ general_context: "Food/Entertainment,Advertising"
  material:
-    
-    
- comments: 
- comments2: 
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
