@@ -27,7 +27,7 @@ header:
   dominant_language: English
 
  script: "Arabic ,Latin "
-  dominant_script: Codominant
+  dominant_script: null
 
  Characteristics: meaning same across langs
  general_context: "Signage,Food/Entertainment"
@@ -39,10 +39,19 @@ header:
 
  Body:
   Paragraph1:
+     "Makdessi St."
+      Script: Latin
+      Language: null
+      Feature: Equivalence, Place_Name
+     "شارع المقدسي"
+      Script: Arabic
+      Language: null
+      Feature: Equivalence, Place_Name
      "Main St."
       Script: Latin
-      Language: English
+      Language: null
+      Feature: Place_Name
      "ماين ستريت"
       Script: Arabic
-      Language: English
-      Feature: Transliteration
+      Language: null
+      Feature: Transliteration, Place_Name
