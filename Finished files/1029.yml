@@ -1,0 +1,45 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: b71115b0-c04e-49a4-b322-8c564256db3f
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=fdb14588-1ae2-4f51-80b6-a4dc70c56a3c
+ revised_id: 1029
+ date_taken: 04-12-15
+ time_taken: 09:04:24
+ time_zone: EET
+ created_by: 26
+ latitude: 33.89878915
+ longitude: 35.481668
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,audience-specific"
+ general_context: Services
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "LAUDRY & DRY CLEANING SERVICES"
+      Script: Latin
+      Language: English
+      Feature: null

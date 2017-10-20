@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 9c832ae4-4cf5-47ba-927d-e9b993573c2b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f9706aef-4f43-41e8-8f1c-d812fce5e234
+ revised_id: 1026
+ date_taken: 04-12-15
+ time_taken: 09:02:53
+ time_zone: EET
+ created_by: 26
+ latitude: 33.89895167
+ longitude: 35.48204787
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,audience-specific,multiple scripts in total item,wordplay,Western numbers"
+ general_context: Services
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "THR3 O NIN9"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "urban house"
+      Script: Latin
+      Language: English
+      Feature: null

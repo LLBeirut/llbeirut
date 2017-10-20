@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 5cd5d6f5-46e2-41dc-bb05-aeebf8d220e4
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=0bec6b1b-e892-425a-83c1-3b2a4af2e818
+ revised_id: 1027
+ date_taken: 04-12-15
+ time_taken: 09:03:18
+ time_zone: EET
+ created_by: 26
+ latitude: 33.89864388
+ longitude: 35.48161872
+
+ languages: English
+  dominant_language: English
+
+ script: English
+ dominant_script: English
+
+ Characteristics: "unilingual,usage issue"
+ general_context: Merchandise
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "HOLIDAY"
+      Script: Latin
+      Language: English
+      Feature: null
+     "CUTE"
+      Script: Latin
+      Language: English
+      Feature: null
+     "SPORTS WEAR UNISEX"
+      Script: Latin
+      Language: English
+      Feature: null
