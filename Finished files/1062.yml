@@ -1,0 +1,45 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: aa6344ee-4853-49c9-a985-0c12ea92393a
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=90c2db13-60d7-4a1f-824f-57e3ba2aa21c
+ revised_id: 1062
+ date_taken: 06-11-15
+ time_taken: 21:37:40
+ time_zone: EET
+ created_by: 8
+ latitude: 33.88094855
+ longitude: 35.62649748
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,humor,age"
+ general_context: Signage Clothing store
+ material: Signage
+
+
+ comments: "It's humorous because it is a clothing store for children, and many people think kids are as cute as cotton flakes."
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Cotton Flakes"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name

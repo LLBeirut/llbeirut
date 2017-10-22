@@ -1,0 +1,50 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 46d2a0ee-a63a-4d00-8d42-5ba0cb9d3bfe
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=da29ac18-decd-4608-8a50-e751b4dae591
+ revised_id: 1064
+ date_taken: 06-11-15
+ time_taken: 21:42:33
+ time_zone: EET
+ created_by: 8
+ latitude: 33.88826048
+ longitude: 35.65591446
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: unilingual
+ general_context: Signage
+ material: traffic
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "يمنع دخول سيارات الخرصوت وبقايا الحديد والبلاستيك وخلافه تحت طائلة المسؤولية بلدية بعبدات"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+  Paragraph2:
+     "حزام الأمان لسلامتك"
+      Script: Arabic
+      Language: Arabic
+      Feature: null

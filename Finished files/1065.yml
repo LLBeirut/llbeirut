@@ -1,0 +1,59 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 65e2b50a-a3fc-428e-aa76-fc5d39264d26
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=dba1c379-13cf-4f28-8413-f7ef4da3f6fe
+ revised_id: 1065
+ date_taken: 06-11-15
+ time_taken: 21:44:28
+ time_zone: EET
+ created_by: 8
+ latitude: 33.88868114
+ longitude: 35.65709218
+
+ languages: English, Arabic
+  dominant_language: Arabic
+
+ script: Latin, Arabic
+  dominant_script: Arabic
+
+ Characteristics: "meaning not same across langs,unilingual,transliteration,multiple scripts in total item,Western numbers"
+ general_context: Food/Entertainment
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "ابو شنب"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "Abou Chanab"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+  Paragraph2:
+     "شاورما - فروج مشوي - سندويشات"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+  Paragraph3:
+       "FREE DELIVERY 04 977 877 94 977 511"
+        Script: Latin
+        Language: English
+        Feature: Western  

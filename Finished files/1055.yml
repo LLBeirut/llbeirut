@@ -1,0 +1,68 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 4647d74d-2964-4a2d-97aa-607cb6bc3f84
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=62d32121-42a5-4264-ad07-7e2aaef4714c
+ revised_id: 1055
+ date_taken: 06-11-15
+ time_taken: 21:23:15
+ time_zone: EET
+ created_by: 8
+ latitude: 33.86567445
+ longitude: 35.60186651
+
+ languages: English, Arabic
+  dominant_language: English
+
+ script: Arabic, Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,meaning same across langs,meaning not same across langs,mixed languages,multiple scripts in total item,Western numbers"
+ general_context: "Housing,Signage"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "WE BUY & SELL ALL OVER THE NATION"
+      Script: Latin
+      Language: English
+      Feature: null
+     "03 908 881"
+      Script: null
+      Language: null
+      Feature: Western
+  Paragraph2:
+     "TRUST LEBANON"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "VOTED #1 REAL ESTATE AGENCY"
+      Script: Latin
+      Language: English
+      Feature: Western
+  Paragraph3:
+     "بيع وشراء العقارات على انواعها في جميع المناطق اللبنانية"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "71 774 554"
+      Script: null
+      Language: null
+      Feature: Western
+      

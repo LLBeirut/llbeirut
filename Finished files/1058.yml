@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: f078d764-f144-4850-9b88-bd1b2f496bc8
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e6ca1c7c-be03-4645-b0f9-83b8ff558f5f
+ revised_id: 1058
+ date_taken: 06-11-15
+ time_taken: 21:27:27
+ time_zone: EET
+ created_by: 8
+ latitude: 33.86941861
+ longitude: 35.60585797
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic, Latin
+  dominant_script: Arabic
+
+ Characteristics: "meaning not same across langs,multiple scripts in total item,bilingual,mixed languages"
+ general_context: Food/Entertainment
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "MADY & LOUSSE"
+      Script: Latin
+      Language: English
+      Feature: Proper_Name
+     "خضار - فاكهة"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "منتوجات طبيعية"
+      Script: Arabic
+      Language: Arabic
+      Feature: null

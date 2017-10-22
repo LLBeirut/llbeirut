@@ -1,0 +1,61 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 43ddc767-4ca8-4f89-9986-41ec23f9064b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=864da2cf-190e-451c-9f15-df3d125b64d4
+ revised_id: 1059
+ date_taken: 06-11-15
+ time_taken: 21:31:36
+ time_zone: EET
+ created_by: 8
+ latitude: 33.87016797
+ longitude: 35.60859956
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,audience-specific,humor,Western numbers"
+ general_context: Services
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Happy Tails"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Happy Tails"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "79-166 942"
+      Script: null
+      Language: null
+      Feature: Western
+     "www.happytailslb.com"
+      Script: Latin
+      Language: null
+      Feature: null
+     "/happytailslb"
+      Script: Latin
+      Language: null
+      Feature: null
