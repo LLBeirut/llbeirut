@@ -1,11 +1,11 @@
 
 Template_Version : 0.5
-
-
+    
+   
 header:
-
+    
  complete: false
-
+    
  altered:
   anonymized: false
   point_focus: false
@@ -13,29 +13,29 @@ header:
 
  transcribed_by:
 
- Fulcrum_id: 8e3884a4-d639-4e24-93b6-8f14335b257a
- photo_url: https://web.fulcrumapp.com/photos/view?photos=44a2be3a-e17b-4aeb-bfe6-1eebff48f4ed
- revised_id: 350
- date_taken: 11-10-15
- time_taken: 16:47:55
+ Fulcrum_id: eee1662d-ce3d-44ed-8689-f45aa1230a02
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=cad935b5-1bbc-48d2-beae-44d4c8203037
+ revised_id: 314
+ date_taken: 04-10-15
+ time_taken: 20:24:43
  time_zone: EEST
- created_by: 26
- latitude: 33.97377904
- longitude: 35.61163142
+ created_by: 24
+ latitude: 33.88606376
+ longitude: 35.55986638
 
- languages:
+ languages:  
   dominant_language: null
-
- script: Arabic  Numbers
+    
+ script: Latin  
   dominant_script: null
-
- Characteristics: "unilingual,audience-specific,Western numbers"
- general_context: Signage
+    
+ Characteristics: "unilingual,transliteration" 
+ general_context: Food/Entertainment 
  material:
-
-
- comments:
- comments2:
+    
+    
+ comments: 
+ comments2: 
 
  Body:
   Paragraph1:

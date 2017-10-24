@@ -1,11 +1,11 @@
 
 Template_Version : 0.5
-
-
+    
+   
 header:
-
+    
  complete: false
-
+    
  altered:
   anonymized: false
   point_focus: false
@@ -13,29 +13,29 @@ header:
 
  transcribed_by:
 
- Fulcrum_id: 8e3884a4-d639-4e24-93b6-8f14335b257a
- photo_url: https://web.fulcrumapp.com/photos/view?photos=44a2be3a-e17b-4aeb-bfe6-1eebff48f4ed
- revised_id: 350
- date_taken: 11-10-15
- time_taken: 16:47:55
+ Fulcrum_id: b7265005-9b15-434d-b83a-aff65f45b322
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=ea7289a0-f53f-4445-98e8-4f9ac5079d7c
+ revised_id: 313
+ date_taken: 04-10-15
+ time_taken: 19:57:37
  time_zone: EEST
- created_by: 26
- latitude: 33.97377904
- longitude: 35.61163142
+ created_by: 24
+ latitude: 33.90637527
+ longitude: 35.57567873
 
- languages:
+ languages:  
   dominant_language: null
-
- script: Arabic  Numbers
+    
+ script: Arabic  
   dominant_script: null
-
- Characteristics: "unilingual,audience-specific,Western numbers"
- general_context: Signage
+    
+ Characteristics: "unilingual,transliteration" 
+ general_context: Vehicle 
  material:
-
-
- comments:
- comments2:
+    
+    
+ comments: 
+ comments2: 
 
  Body:
   Paragraph1:

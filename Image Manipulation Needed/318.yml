@@ -1,11 +1,11 @@
 
 Template_Version : 0.5
-
-
+    
+   
 header:
-
+    
  complete: false
-
+    
  altered:
   anonymized: false
   point_focus: false
@@ -13,29 +13,29 @@ header:
 
  transcribed_by:
 
- Fulcrum_id: 8e3884a4-d639-4e24-93b6-8f14335b257a
- photo_url: https://web.fulcrumapp.com/photos/view?photos=44a2be3a-e17b-4aeb-bfe6-1eebff48f4ed
- revised_id: 350
- date_taken: 11-10-15
- time_taken: 16:47:55
+ Fulcrum_id: e8429072-3640-400d-b41a-d1e69ea95877
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=5d4f6291-d74d-439f-8be6-fad4f3e14ecb
+ revised_id: 318
+ date_taken: 06-10-15
+ time_taken: 18:01:55
  time_zone: EEST
- created_by: 26
- latitude: 33.97377904
- longitude: 35.61163142
+ created_by: 12
+ latitude: 33.88728287
+ longitude: 35.51241584
 
- languages:
+ languages:  
   dominant_language: null
-
- script: Arabic  Numbers
+    
+ script: "Arabic ,Latin " 
   dominant_script: null
-
- Characteristics: "unilingual,audience-specific,Western numbers"
- general_context: Signage
+    
+ Characteristics: "bilingual,mixed scripts in same words,humor,wordplay" 
+ general_context: Graffiti 
  material:
-
-
- comments:
- comments2:
+    
+    
+ comments: 
+ comments2: 
 
  Body:
   Paragraph1:

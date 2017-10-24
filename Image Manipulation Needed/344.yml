@@ -1,11 +1,11 @@
 
 Template_Version : 0.5
-
-
+    
+   
 header:
-
+    
  complete: false
-
+    
  altered:
   anonymized: false
   point_focus: false
@@ -13,29 +13,29 @@ header:
 
  transcribed_by:
 
- Fulcrum_id: 8e3884a4-d639-4e24-93b6-8f14335b257a
- photo_url: https://web.fulcrumapp.com/photos/view?photos=44a2be3a-e17b-4aeb-bfe6-1eebff48f4ed
- revised_id: 350
- date_taken: 11-10-15
- time_taken: 16:47:55
+ Fulcrum_id: eaf90b65-ce71-4f18-8f5f-0b2cf6accd85
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=c82fd080-c732-402d-aa38-1cadcbe5a6df
+ revised_id: 344
+ date_taken: 05-10-15
+ time_taken: 17:52:27
  time_zone: EEST
- created_by: 26
- latitude: 33.97377904
- longitude: 35.61163142
+ created_by: 23
+ latitude: 33.87238103
+ longitude: 35.5123347
 
- languages:
+ languages:  
   dominant_language: null
-
- script: Arabic  Numbers
+    
+ script: Arabic  
   dominant_script: null
-
- Characteristics: "unilingual,audience-specific,Western numbers"
- general_context: Signage
+    
+ Characteristics: unilingual 
+ general_context: Services 
  material:
-
-
- comments:
- comments2:
+    
+    
+ comments: 
+ comments2: 
 
  Body:
   Paragraph1:

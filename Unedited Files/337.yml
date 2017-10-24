@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True 
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 6ec8b73d-1bc5-4796-84f7-d357db11e5ea
  photo_url: https://web.fulcrumapp.com/photos/view?photos=74d0b495-f569-447b-ae1a-753b315069e5
@@ -23,36 +23,27 @@ header:
  latitude: 33.80944991
  longitude: 35.48191032
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: "unilingual,misspelling" 
- general_context: Food/Entertainment 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,misspelling"
+ general_context: Food/Entertainment
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "HAWA CHICKEN"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "YAMMI"
+      Script: Latin
+      Language: Null
+      Feature: Null

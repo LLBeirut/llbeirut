@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 7f286c56-2fbb-4707-81f5-9a1a0a779ec5
  photo_url: https://web.fulcrumapp.com/photos/view?photos=dcb7bb16-8b5a-454b-a193-e8c75dc13107
@@ -23,36 +23,50 @@ header:
  latitude: 33.89795111
  longitude: 35.48156449
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
+ languages: English
+  dominant_language: English
+
+ script: Latin
   dominant_script: null
-    
- Characteristics: "unilingual,audience-specific,Western numbers" 
- general_context: "Food/Entertainment,Advertising,Franchise" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "unilingual,audience-specific,Western numbers"
+ general_context: "Food/Entertainment,Advertising,Franchise"
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "The Cheesecake Factory"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "Opening Soon at Verdun"
+      Script: Latin
+      Language: Proper_name
+     "Now Hiring"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Hosts, Bartenders, Servers, Baristas, Bakers Runners/Bussers, Line Cooks (Commis 1)"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Prep.Cooks (Commis 2), Receivers"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "At The Cheesecake Factory there is pride in every detail, from our made-from-scratch menu to our beautiful restaurant. We know that people are our greatest resource and have amazing opportunities for individuals with passion and perfection. Come and enjoy top pay, option for benefits, employee discounts and more!"
+      Script: Latin
+      Language: English
+      Feature: Null
+      "Interested applicants please send your resume/CV to: hr@assaadfandb.com"
+      Script: Latin
+      Language: English
+      Feature: Null
+      "For more information please call: 01 743 655"
+      Script: Latin
+      Language: English
+      Feature: Western

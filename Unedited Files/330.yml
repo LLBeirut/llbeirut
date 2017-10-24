@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: a7244f48-c420-4b57-b768-73ec24744ae3
  photo_url: https://web.fulcrumapp.com/photos/view?photos=262961db-ab1b-43de-89f4-a3c5559bc484
@@ -23,36 +23,27 @@ header:
  latitude: 33.89503915
  longitude: 35.51742822
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: unilingual 
- general_context: Signage 
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: Signage
  material:
-    
-    
- comments: 
- comments2: 
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Keep it quiet"
+      Script: Latin
+      Language: English
+      Feature: Null
+      "The neighbors are complaining!"
+      Script: Latin
+      Language: English
+      Feature: Null

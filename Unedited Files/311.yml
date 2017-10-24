@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 9962272a-310a-4db9-b9ef-1825ad074907
  photo_url: https://web.fulcrumapp.com/photos/view?photos=35c9abc6-6039-40be-988d-f797e3f2faac
@@ -23,36 +23,27 @@ header:
  latitude: 33.77732601
  longitude: 35.47275117
 
- languages:  
-  dominant_language: null
-    
- script: Arabic  
-  dominant_script: null
-    
- Characteristics: "unilingual,humor,cultural reference" 
- general_context: Advertising 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: "unilingual,humor,cultural reference"
+ general_context: Advertising
+ material: Advertising
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "عرس لبناني بدون "عقبالك ""
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     " صعبة_تتصدّق# "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
