@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 3eefd34e-b27d-45f4-9ea3-5c8eb6c9e051
  photo_url: https://web.fulcrumapp.com/photos/view?photos=7714bbef-bec7-4d07-bf24-8b055d367155
@@ -23,36 +23,27 @@ header:
  latitude: 33.89986231
  longitude: 35.4802093
 
- languages:  
+ languages: Arabic
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: "transliteration,multiple scripts in total item" 
- general_context: Signage 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "transliteration,multiple scripts in total item"
+ general_context: Signage
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "أوعى#"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "#Ou3a"
+      Script: Latin
+      Language: Null
+      Feature: Western, Equivalence
