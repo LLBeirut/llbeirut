@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True 
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 3d386921-f567-4990-b1f6-e3fe23c7d623
  photo_url: https://web.fulcrumapp.com/photos/view?photos=2eb8e44c-f8a9-48f9-91e9-179d62608dca
@@ -23,36 +23,31 @@ header:
  latitude: 33.89788196
  longitude: 35.47776765
 
- languages:  
-  dominant_language: null
-    
- script: "Arabic ,Latin " 
-  dominant_script: null
-    
- Characteristics: "bilingual,meaning not same across langs,transliteration,audience-specific,mixed languages,multiple scripts in total item" 
- general_context: "Signage,Merchandise,Services" 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: English
+  dominant_language: English
+
+ script: "Arabic ,Latin "
+  dominant_script: Latin
+
+ Characteristics: "bilingual,meaning not same across langs,transliteration,audience-specific,mixed languages,multiple scripts in total item"
+ general_context: "Signage,Merchandise,Services"
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "فيركو"
+      Script: Arabic
+      Language: Null
+      Feature: Proper_name, Equivalence
+     "FAIRCO"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Equivalence
+     "Stationery, Art Materials, Engineering Supplies, Computer Accessories, Office Supplies, Gifts"
+      Script: Latin
+      Language: English
+      Feature: Null

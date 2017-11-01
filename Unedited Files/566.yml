@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
+
  complete: false
-    
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: e2603aca-6932-4ad6-8ad7-9525d56cf7f6
  photo_url: https://web.fulcrumapp.com/photos/view?photos=3957c3bf-a9fa-4602-aeea-732f4f0f6279
@@ -23,36 +23,27 @@ header:
  latitude: 33.886744
  longitude: 35.54927523
 
- languages:  
+ languages:
   dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: "bilingual,transliteration,mixed languages" 
- general_context: Services 
- material:
-    
-    
- comments: 
- comments2: 
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,transliteration,mixed languages"
+ general_context: Services
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "INAYA"
+      Script: Latin
+      Language: Arabic
+      Feature: Proper_name
+     "LIBAN"
+      Script: Latin
+      Language: Null
+      Feature: Place_name

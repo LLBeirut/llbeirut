@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
+
  complete: false
-    
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 233b7136-1d56-4293-9378-8524082245c2
  photo_url: https://web.fulcrumapp.com/photos/view?photos=98874da9-51ef-4a47-b64a-aea57c537c53
@@ -23,36 +23,31 @@ header:
  latitude: 33.89914938
  longitude: 35.48580516
 
- languages:  
-  dominant_language: null
-    
- script: "Arabic ,Latin " 
-  dominant_script: null
-    
- Characteristics: "bilingual,meaning not same across langs,audience-specific,multiple scripts in total item" 
- general_context: "Signage,Health/Beauty" 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: Arabic, English
+  dominant_language: Arabic
+
+ script: "Arabic ,Latin "
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,meaning not same across langs,audience-specific,multiple scripts in total item"
+ general_context: "Signage,Health/Beauty"
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Regular Waste"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+     "نفايات عادية "
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "غير معدية أو خطرة "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null 

@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True 
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 926bfa51-a23f-4d28-929d-a81ddec9bd7d
  photo_url: https://web.fulcrumapp.com/photos/view?photos=ae28f221-7ea9-40e3-8dea-7088de454dbd
@@ -23,36 +23,23 @@ header:
  latitude: 33.9108348
  longitude: 35.57928398
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: "unilingual,mixed languages,usage issue,humor,wordplay" 
- general_context: Food/Entertainment 
- material:
-    
-    
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,mixed languages,usage issue,humor,wordplay"
+ general_context: Food/Entertainment
+ material: Overwriting
+
+
  comments: Meat the fish
- comments2: 
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "the"
+      Script: Latin
+      Language: English
+      Feature: Null
