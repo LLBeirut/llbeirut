@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: c2145e53-ca40-4cbf-8a70-608fea937f4b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=59592b04-5664-4661-8809-72108fa8703a
+ revised_id: 1075
+ date_taken: 04-12-15
+ time_taken: 19:35:12
+ time_zone: EET
+ created_by: 5
+ latitude: 33.89616867
+ longitude: 35.48387392
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: Services
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "HSBC"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Ras Beirut Branch"
+      Script: Latin
+      Language: null
+      Feature: Place_Name
+  Paragraph2:
+     "Established 1952"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Remodeled 2013"
+      Script: Latin
+      Language: English
+      Feature: Western

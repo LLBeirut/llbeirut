@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: b8c3b36b-136a-4f4f-aaf6-b0aa6c880954
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=be61477c-08cd-47e1-8e16-a8c807bd132b
+ revised_id: 1040
+ date_taken: 09-12-15
+ time_taken: 20:31:37
+ time_zone: EET
+ created_by: 24
+ latitude: 33.95432264
+ longitude: 35.61619604
+
+ languages: null
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: "trilingual,meaning same across langs,audience-specific,mixed languages,multiple scripts in total item"
+ general_context: "Signage,Food/Entertainment"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "ابي عون ماركت وملحمة"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "Abi Aoun Market & Boucherie"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name, Equivalence

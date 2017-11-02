@@ -1,0 +1,74 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 54c14bf6-0b6b-463d-a7d0-424db1d1c870
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=7c2e82d4-40e1-4cfa-9611-222f122d2f38
+ revised_id: 1052
+ date_taken: 17-11-15
+ time_taken: 21:53:26
+ time_zone: EET
+ created_by: 8
+ latitude: 33.88316409
+ longitude: 35.63031728
+
+ languages: English, French
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,meaning not same across langs,audience-specific,mixed languages,age,Western numbers"
+ general_context: "Advertising,Services,Education"
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "BROUMANA KIDS CLUB BIRTHDAY ANIMATION SUMMER CAMP"
+      Script: Latin
+      Language: English
+      Feature: Proper_Name
+  Paragraph2:
+     "BROUMANA NURSERY"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Français - English"
+      Script: Latin
+      Language: French, English
+      Feature: null
+     "25 YRS OF EXPERIENCE"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "1500 m2 playground! SUMMER CAMP"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "70-88 44 22"
+      Script: Latin
+      Language: null
+      Feature: Western
+     "04-86 26 38"
+      Script: Latin
+      Language: null
+      Feature: Western
+     "Ground Floor"
+      Script: Latin
+      Language: English
+      Feature: null

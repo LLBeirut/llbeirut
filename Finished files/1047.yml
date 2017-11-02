@@ -1,0 +1,71 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 54fb74d8-76ed-44f2-ab17-bb9886e899f5
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=82c3f7c7-d7f8-4bcb-b8cc-9ccbc7748e88
+ revised_id: 1047
+ date_taken: 08-12-15
+ time_taken: 21:12:50
+ time_zone: EET
+ created_by: 8
+ latitude: 33.8547034
+ longitude: 35.57449198
+
+ languages: English, Arabic
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: "bilingual,meaning not same across langs,mixed languages,multiple scripts in total item,Western numbers"
+ general_context: "Services,Signage"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "FREE DELIVERY"
+      Script: Latin
+      Language: English
+      Feature: null
+     "04/533608"
+      Script: null
+      Language: null
+      Feature: Western
+     "PROFESSIONAL DRY CLEANERS"
+      Script: Latin
+      Language: English
+      Feature: null
+  Paragraph2:
+     "G&C"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "الفرع الرئيسي"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+  Paragraph3:
+     "مصبغة"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+      "تنظيف على الناشف و كوي على البخار تصليح البسة تنظيف سجاد اخصائيون في الجلد والشاموا"
+      Script: Arabic
+      Language: Arabic
+      Feature: null

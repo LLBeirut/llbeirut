@@ -1,0 +1,45 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 6df6d237-d3e1-48e6-8f00-38252bd468d4
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=94bac949-8d6a-4cc0-8e8d-a1e97ce70586
+ revised_id: 1068
+ date_taken: 06-11-15
+ time_taken: 21:48:18
+ time_zone: EET
+ created_by: 8
+ latitude: 33.88923355
+ longitude: 35.66439123
+
+ languages: null
+  dominant_language: null
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "trilingual,meaning same across langs,meaning not same across langs,mixed languages,cultural reference,business name in French" Other
+ general_context: "Services,Signage"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Euro Wagen"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name

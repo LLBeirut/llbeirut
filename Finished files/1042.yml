@@ -1,0 +1,54 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 8f861208-c0d3-445b-aec3-0a168266d33e
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3134c009-57b9-4e75-9d65-871630e5efdf
+ revised_id: 1042
+ date_taken: 09-12-15
+ time_taken: 20:33:12
+ time_zone: EET
+ created_by: 24
+ latitude: 33.95443726
+ longitude: 35.61608314
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: "unilingual,transliteration,audience-specific"
+ general_context: "Signage,Food/Entertainment"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "بيبسى"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+  Paragraph2:
+     "ثلج معقم"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "09/218604"
+      Script: null
+      Language: null
+      Feature: Western

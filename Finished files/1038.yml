@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 1d65419b-a988-4abc-9fbc-df57c6efa1ec
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=17542102-4d0f-49de-b0df-56344093b767
+ revised_id: 1038
+ date_taken: 04-12-15
+ time_taken: 09:11:13
+ time_zone: EET
+ created_by: 26
+ latitude: 33.89846105
+ longitude: 35.4808801
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,transliteration,audience-specific"
+ general_context: Advertising
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "FATSO'S"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "24/7 Diner"
+      Script: Latin
+      Language: English
+      Feature: Western

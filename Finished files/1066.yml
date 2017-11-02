@@ -1,0 +1,55 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 689412a8-d3a0-4f57-a01b-52a0777d6f08
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=b94ed48d-37b9-487d-b6da-278ee5948f66
+ revised_id: 1066
+ date_taken: 06-11-15
+ time_taken: 21:44:41
+ time_zone: EET
+ created_by: 8
+ latitude: 33.88925153
+ longitude: 35.66626919
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,Western numbers"
+ general_context: "Advertising,Signage" Clothing store
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "SPORTS EDITION by Ghanem"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Sports Wear and Shoes Customized Printed T-Shirts"
+      Script: Latin
+      Language: English
+      Feature: null
+  Paragraph2:
+     "71 48 48 18 03 09 88 68"
+      Script: null
+      Language: null
+      Feature: Western

@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: ff768b47-cac8-4cf3-b587-d75bfaeb0d31
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e6c0f251-fe03-4f9c-85c0-c66fc72af132
+ revised_id: 1048
+ date_taken: 08-12-15
+ time_taken: 21:13:13
+ time_zone: EET
+ created_by: 8
+ latitude: 33.85467325
+ longitude: 35.57441175
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: "unilingual,Western numbers"
+ general_context: Housing
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "شقة للبيع او للايجار"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "المساحة 160 م2 + تراس 45م2 +  مطبخ  3 نوم + صالون + غرفة سفرة + غرفة جلوس ٣ حمامات + موقف خاص "
+      Script: Arabic
+      Language: Arabic
+      Feature: Western
+     "للمراجعة"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "70-111870 / 03/393539"
+      Script: null
+      Language: null
+      Feature: Western
