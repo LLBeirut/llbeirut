@@ -1,11 +1,11 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
+
  complete: false
-    
+
  altered:
   anonymized: false
   point_focus: false
@@ -23,19 +23,19 @@ header:
  latitude: 33.89877913
  longitude: 35.48163079
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: "unilingual,audience-specific" 
- general_context: Food/Entertainment 
+ languages: French
+  dominant_language: French
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,audience-specific"
+ general_context: Food/Entertainment
  material:
-    
-    
- comments: 
- comments2: 
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
