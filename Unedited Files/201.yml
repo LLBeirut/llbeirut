@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
+
  complete: false
-    
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: a00e73e5-a6ad-4d5b-a473-9dc4bdedb750
  photo_url: https://web.fulcrumapp.com/photos/view?photos=381a8496-33d1-441b-82e5-c539ff6acf07
@@ -23,36 +23,35 @@ header:
  latitude: 33.8890103
  longitude: 35.6628736
 
- languages:  
+ languages: Arabic, English, French
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: "bilingual,meaning not same across langs,audience-specific,multiple scripts in total item" 
- general_context: "Food/Entertainment,Signage" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "bilingual,meaning not same across langs,audience-specific,multiple scripts in total item"
+ general_context: "Food/Entertainment,Signage"
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Restaurant"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "LE TOURNANT"
+      Script: Latin
+      Language: French
+      Feature: Proper_name
+     "مطعم"
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "أبو طوني"
+      Script: Arabic
+      Language: Null
+      Feature: Proper_name

@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: a678349a-bd15-46f7-a12d-64427434159c
  photo_url: https://web.fulcrumapp.com/photos/view?photos=e954dddf-1df4-4990-b7ee-ae5bafaf3428
@@ -23,36 +23,35 @@ header:
  latitude: 33.89029873
  longitude: 35.50753439
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: unilingual 
- general_context: "Advertising,Housing" 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: French
+  dominant_language: French
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: "Advertising,Housing"
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "FOYER POUR JEUNES FILLES"
+      Script: Latin
+      Language: French
+      Feature: Null
+     "RUE HUVELIN"
+      Script: Latin
+      Language: French
+      Feature: Place_Name
+     "Face A L'USJ"
+      Script: Latin
+      Language: French
+      Feature: Proper_name
+     "TEL : 03/833686"
+      Script: Latin
+      Language: Null
+      Feature: Western

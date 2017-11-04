@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
+
  complete: false
-    
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 216c4273-5550-4d54-9bc1-bc6dcd0265a1
  photo_url: https://web.fulcrumapp.com/photos/view?photos=149588b5-0421-4382-b90a-1e8087ee680e
@@ -23,35 +23,26 @@ header:
  latitude: 33.90128585
  longitude: 35.49264385
 
- languages:  
+ languages: Null
   dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: "bilingual,transliteration" 
- general_context: Services 
- material:
-    
-    
- comments: 
- comments2: 
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,transliteration"
+ general_context: Services
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "AL MOKHTAR"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
      "Insert text here"
       Script:
       Language:

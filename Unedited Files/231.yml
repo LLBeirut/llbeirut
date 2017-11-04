@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: b1e9a2e8-d493-4593-b355-27933369a8c8
  photo_url: https://web.fulcrumapp.com/photos/view?photos=0a3d25a2-f6e7-47ac-b090-824f186fcfa3
@@ -23,36 +23,31 @@ header:
  latitude: 33.8970975
  longitude: 35.4854546
 
- languages:  
+ languages: Arabic, English
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: "bilingual,meaning not same across langs,usage issue,literal translation" 
- general_context: Signage 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "bilingual,meaning not same across langs,usage issue,literal translation"
+ general_context: Signage
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "عذرا للازعاج لا يوجد امكان شاغرة في الموقف"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "VPS - VALET & PARKING SERVICES"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "Sorry for disturbing the parking is full"
+      Script: Latin
+      Language: English
+      Feature: Equivalence

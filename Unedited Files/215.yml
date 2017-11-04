@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
+
  complete: false
-    
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: d8e884c4-275b-4f6a-ab2e-fafb2d04f50c
  photo_url: https://web.fulcrumapp.com/photos/view?photos=5334556b-5634-40b9-9005-83bf444fb5c2
@@ -23,36 +23,27 @@ header:
  latitude: 33.88573512
  longitude: 35.50929034
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: bilingual 
- general_context: Health/Beauty 
- material:
-    
-    
+ languages: English, French
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: bilingual
+ general_context: Health/Beauty
+ material: Signage
+
+
  comments: """Slimming maison"" ""O de gamme"""
- comments2: 
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "slimming maison"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "O de gamme"
+      Script: Latin
+      Language: French
+      Feature:  
