@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 8155a781-1315-4289-a38c-64facef6853b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e5425651-1c0a-4a1f-b427-25a1b1e55426
+ revised_id: 1084
+ date_taken: 05-02-16
+ time_taken: 13:54:06
+ time_zone: EET
+ created_by: 28
+ latitude: 33.84885621
+ longitude: 35.54967642
+
+ languages: French
+  dominant_language: French
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,meaning not same across langs,mixed languages,Western numbers"
+ general_context: "Signage,Services,Education"
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Pedagogia"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Leçons Particuliéres à Domicile"
+      Script: Latin
+      Language: French
+      Feature: null
+     "Préparation 3ème & Terminale"
+      Script: Latin
+      Language: French
+      Feature: null
+     "03 15 18 15"
+      Script: null
+      Language: null
+      Feature: Western

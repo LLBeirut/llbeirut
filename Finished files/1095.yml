@@ -1,0 +1,66 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: b9c66a8b-2d9f-408c-b7ae-eda6b9fe63fd
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e39d25a2-b501-4eac-a3b6-c4b3d7b7095f
+ revised_id: 1095
+ date_taken: 07-02-16
+ time_taken: 20:22:50
+ time_zone: EET
+ created_by: 27
+ latitude: 33.88866001
+ longitude: 35.48314054
+
+ languages: English
+  dominant_language: English
+
+ script:  Latin
+  dominant_script: Latin
+
+ Characteristics: cultural reference
+ general_context: Food/Entertainment
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Tuile"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Signature Pastries"
+      Script: Latin
+      Language: English
+      Feature: null
+  Paragraph2:
+     "Rocher Chocolate A Rocher chocolate pastry filled with crushed cookies, vanilla ice cream, and mixed berries. 15 500 LBP"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Rocher Pistachio A Rocher chocolate and pistachio pastry filled with strawberry ice cream and mixed berries. 16 500 LBP"
+      Script: Latin
+      Language: English
+      Feature: Western
+      "Traditional Pain Perdu Topped with three scoops of ice cream and mixed berries. Served with a warm Anglaise sauce. 14 500 LBP"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Caramel Moelleux Chocolate cookie, filled with chocolate caramel sauce. Served with a scoop of vanilla ice cream. 10 750 LBP"
+      Script: Latin
+      Language: English
+      Feature: Western

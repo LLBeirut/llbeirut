@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 0ea97db6-6d58-42ed-850c-6a754b04d3c1
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=a3155562-c327-492c-b8be-8d53a292ef94
+ revised_id: 1091
+ date_taken: 07-02-16
+ time_taken: 20:17:32
+ time_zone: EET
+ created_by: 27
+ latitude: 33.89540038
+ longitude: 35.50975677
+
+ languages: French
+  dominant_language: French
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: mixed scripts in same words
+ general_context: Food/Entertainment
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "la tabkha"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "cantine libanaise"
+      Script: Latin
+      Language: French
+      Feature: null

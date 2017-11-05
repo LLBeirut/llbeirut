@@ -1,0 +1,61 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: e88dd6d7-74f2-4a87-8766-32bf0f3ef3e7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=134f8423-954f-4291-8f25-e7697c9b9d79
+ revised_id: 1099
+ date_taken: 07-02-16
+ time_taken: 20:27:05
+ time_zone: EET
+ created_by: 27
+ latitude: 33.89567923
+ longitude: 35.48167337
+
+ languages: null
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: literal translation
+ general_context: Merchandise
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "max"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "ماكس"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, art
+     "max"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "ماكس"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, art
+     "max"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name

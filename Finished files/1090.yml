@@ -1,0 +1,90 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 75c666b8-064f-4ce7-be04-d0edab59e61d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=cc07a454-cde7-4528-8ad9-cb16f7ee3c2a
+ revised_id: 1090
+ date_taken: 07-02-16
+ time_taken: 20:16:33
+ time_zone: EET
+ created_by: 27
+ latitude: 33.8953578
+ longitude: 35.50951436
+
+ languages: English, Arabic
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: mixed scripts in same words
+ general_context: Advertising
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Classy Taxi"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "24/7"
+      Script: null
+      Language: null
+      Feature: Western
+  Paragraph2:
+     "Motor Taxi"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "WhatsApp Taxi"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Mo3ayani Taxi"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Driver Taxi"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Rent a car ( with or without driver)"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Learn to drive"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Tokhlis mou3amalat"
+      Script: Latin
+      Language: Arabic
+      Feature: null
+     "FOR MORE INFO 01/333140 70/740999"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Classy Taxi"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "For all your needs"
+      Script: Latin
+      Language: English
+      Feature: null

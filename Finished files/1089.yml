@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: fc5f3cb0-5304-4067-a0fe-b95ff15b38a5
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=5024c73b-d190-44e7-a3e6-b383907534f2
+ revised_id: 1089
+ date_taken: 06-02-16
+ time_taken: 11:03:13
+ time_zone: EET
+ created_by: 28
+ latitude: 33.8320663
+ longitude: 35.5661325
+
+ languages: null
+  dominant_language: null
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,business name in French"
+ general_context: "Signage,Merchandise"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "La Noísette"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "pepsi"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "pepsi"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
