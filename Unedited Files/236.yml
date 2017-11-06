@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: d1c265b4-1981-45e3-9134-b517a93ae22f
  photo_url: https://web.fulcrumapp.com/photos/view?photos=da97a31a-157e-4b2a-b991-9945363a3be4
@@ -23,36 +23,35 @@ header:
  latitude: 33.89878
  longitude: 35.4840624
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: unilingual 
- general_context: Franchise 
- material:
-    
-    
- comments: This is a closed down shop. Sign was made around 15 to 30 years ago (phone number ) 
- comments2: 
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script:  Latin
+
+ Characteristics: unilingual
+ general_context: Franchise
+ material: Signage
+
+
+ comments: This is a closed down shop. Sign was made around 15 to 30 years ago (phone number )
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "YAFI RECORD SHOP"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "WHOLE SALE & RETAIL"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "TEL 346917"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "BEIRUT, PARIS, NEW YORK"
+      Script: Latin
+      Language: Null
+      Feature: Place_Name

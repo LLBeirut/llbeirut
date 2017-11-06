@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 6ebcb4a4-0117-4f64-8d63-c63f415fbd17
  photo_url: https://web.fulcrumapp.com/photos/view?photos=59578254-e0c6-49fb-80de-8749e193026d
@@ -23,36 +23,23 @@ header:
  latitude: 33.8986045
  longitude: 35.4857668
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: "unilingual,usage issue" 
- general_context: Health/Beauty 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,usage issue"
+ general_context: Health/Beauty
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "MRI IS HERE SOON"
+      Script: Latin
+      Language: English
+      Feature: Null
