@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 7423e287-c1c6-4601-b356-062e164da44d
  photo_url: https://web.fulcrumapp.com/photos/view?photos=c3cb6e36-b36e-4140-af9a-7e08a851b0a5
@@ -23,36 +23,47 @@ header:
  latitude: 33.89477354
  longitude: 35.48338638
 
- languages:  
-  dominant_language: null
-    
- script: Arabic  
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic, Latin
   dominant_script: null
-    
- Characteristics: "unilingual,Western numbers,Oriental numbers" 
- general_context: "Food/Entertainment,Advertising,Services" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "unilingual,Western numbers,Oriental numbers"
+ general_context: "Food/Entertainment,Advertising,Services"
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Leila"
+      Script: Latin
+      Language: Null
+      Feature: Equivalence
+     "ليلى "
+      Script: Arabic
+      Language: Null
+      Feature: Equivalence
+     "طلوب وتهنا"
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "لقمة ليلى الطيبة "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+      "صارت توصل على كل بيت"
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+      "01443743"
+      Script: Latin
+      Language: Null
+      Feature: Western
+      "٠١٤٤٣٧٤٣"
+      Script: Arabic
+      Language: Null
+      Feature: Eastern
