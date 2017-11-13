@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
+
  complete: false
-    
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 353df4f1-1837-4c03-acfb-a9ddf951b23c
  photo_url: https://web.fulcrumapp.com/photos/view?photos=bde2b119-c114-4ba0-b53d-c846e566f7d9
@@ -23,31 +23,30 @@ header:
  latitude: 33.99677864
  longitude: 35.69947779
 
- languages:  
+ languages: Arabic, French
   dominant_language: null
-    
- script: "Arabic ,Latin " 
-  dominant_script: null
-    
- Characteristics: "bilingual,meaning same across langs,multiple scripts in total item,business name in French" 
- general_context: Food/Entertainment 
- material:
-    
-    
- comments: 
- comments2: 
+
+ script: "Arabic ,Latin "
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,meaning same across langs,multiple scripts in total item,business name in French"
+ general_context: Food/Entertainment
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
+     "PALAIS DE L'ORIENT"
+      Script: Latin
+      Language: French
+      Feature: Proper_name, Equivalence
+     "قصر الشرق "
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence
      "Insert text here"
       Script:
       Language:

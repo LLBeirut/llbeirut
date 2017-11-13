@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 16dccfaf-68fd-470b-84af-a3cd06cd6696
  photo_url: https://web.fulcrumapp.com/photos/view?photos=09438aed-c928-4978-a17c-2640fa478065
@@ -23,36 +23,35 @@ header:
  latitude: 33.89890648
  longitude: 35.50953825
 
- languages:  
+ languages: Arabic, English
   dominant_language: null
-    
- script: "Latin ,Arabic " 
+
+ script: "Latin ,Arabic "
   dominant_script: null
-    
- Characteristics: "bilingual,transliteration,wordplay,mixed languages" 
- general_context: Vehicle 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "bilingual,transliteration,wordplay,mixed languages"
+ general_context: Vehicle
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "حلَال"
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "Nader"
+      Script: Latin
+      Language: Arabic
+      Feature: Proper_name, Equivalence
+     "نادر "
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence
+     "chicken"
+      Script: Latin
+      Language: English
+      Feature: Null
