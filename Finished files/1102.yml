@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: a2a513f0-b5fb-47f2-aa1c-daa2b4f5cc46
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=a84e1d5d-905b-47b7-a5fe-23b84fb50049
+ revised_id: 1102
+ date_taken: 07-02-16
+ time_taken: 20:37:13
+ time_zone: EET
+ created_by: 27
+ latitude: 33.91811262
+ longitude: 35.59027534
+
+ languages: French, Arabic
+  dominant_language: null
+
+ script: Latin, Arabic
+  dominant_script: null
+
+ Characteristics: Frenched by definite article (le la l')
+ general_context: Food/Entertainment
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "L'abeille d'or"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "كنافة  حلويات عربية"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+  Paragraph2:
+     "Patisserie"
+      Script: Latin
+      Language: French
+      Feature: null
+     "L'abeille d'or"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name

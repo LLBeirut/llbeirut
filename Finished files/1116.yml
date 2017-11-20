@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 27b837b2-d36e-4cce-bbf6-2aada3905f2f
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=b8773a7e-f3e3-4a7d-a198-3ddd0ef30099
+ revised_id: 1116
+ date_taken: 08-02-16
+ time_taken: 12:31:07
+ time_zone: EET
+ created_by: 15
+ latitude: 33.89471354
+ longitude: 35.48147153
+
+ languages: English, Taglog
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,meaning not same across langs,Western numbers"
+ general_context: Signage Money transfer shop
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "IREMIT"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "GLOBAL REMITTANCE"
+      Script: Latin
+      Language: English
+      Feature: null
+     "may ngiti sa bawat padala"
+      Script: Latin
+      Language: Taglog
+      Feature: null
+     "Money Transfer Service to the Philippines"
+      Script: Latin
+      Language: English
+      Feature: null

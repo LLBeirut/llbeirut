@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 6e9ae721-e783-4440-ba4d-10639356403e
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=affec5da-0a47-462b-ba45-661dab3699ad
+ revised_id: 1118
+ date_taken: 08-02-16
+ time_taken: 12:08:54
+ time_zone: EET
+ created_by: 15
+ latitude: 33.8984566
+ longitude: 35.4842617
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,mixed languages,multiple scripts in total item,Western numbers"
+ general_context: "Merchandise,Advertising"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "$قميص نص كم عدد4+1 هدية 100.000 ليرة 67"
+      Script: Arabic
+      Language: Arabic
+      Feature: Western
+      "قميص كم طويل عدد 3+1 هدية100.000 ليرة 67$"
+      Script: Arabic
+      Language: Arabic
+      Feature: Western

@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 69c0a090-c8fe-434b-ae04-c4ffc86f0721
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=723036c1-1314-4726-ae3d-081575d51fa1
+ revised_id: 1114
+ date_taken: 08-02-16
+ time_taken: 12:28:20
+ time_zone: EET
+ created_by: 15
+ latitude: 33.89505084
+ longitude: 35.48096694
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,misspelling"
+ general_context: "Signage,Advertising,Merchandise"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Candels"
+      Script: Latin
+      Language: English
+      Feature: Misspelling
+     "Vases Pottery Gadgets"
+      Script: Latin
+      Language: English
+      Feature: null
+     "03-609 756"
+      Script: null
+      Language: null
+      Feature: Western
