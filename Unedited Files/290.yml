@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 6451093f-3895-4817-8402-c4ae6586975a
  photo_url: https://web.fulcrumapp.com/photos/view?photos=f9e64014-2348-465a-8d5a-1abf8eaf446b
@@ -23,36 +23,27 @@ header:
  latitude: NA
  longitude: NA
 
- languages:  
-  dominant_language: null
-    
- script: "Arabic ,Latin " 
+ languages: English
+  dominant_language: English
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: "bilingual,meaning same across langs,transliteration,multiple scripts in total item" 
- general_context: "Food/Entertainment,Signage" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "bilingual,meaning same across langs,transliteration,multiple scripts in total item"
+ general_context: "Food/Entertainment,Signage"
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "بمبكن سبايس لاتيه"
+      Script: Arabic
+      Language: English
+      Feature: Equivalence
+     "PUMPKIN SPICE LATTE"
+      Script: Latin
+      Language: English
+      Feature: Equivalence

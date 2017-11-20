@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: e1eeb301-548f-4450-9235-100263016b50
  photo_url: https://web.fulcrumapp.com/photos/view?photos=648db9d0-4c2b-4821-96cc-e59cbe58f1ed
@@ -23,36 +23,39 @@ header:
  latitude: 33.8989874
  longitude: 35.48193092
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: "unilingual,misspelling,usage issue,humor" 
- general_context: "Food/Entertainment,Services" 
- material:
-    
-    
- comments: 
- comments2: 
+ languages:  English, French
+  dominant_language: Latin
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,misspelling,usage issue,humor"
+ general_context: "Food/Entertainment,Services"
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "net"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "café"
+      Script: Latin
+      Language: French
+      Feature: Null
+     "HARDWARE SOFTWARE"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Bits 'n Bytes'"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "INTERNET GAMES"
+      Script: Latin
+      Language: English
+      Feature: Null

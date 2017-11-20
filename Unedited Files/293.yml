@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
+
  complete: false
-    
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 2c0ebbf3-1795-45f0-804c-d73e6dce1963
  photo_url: https://web.fulcrumapp.com/photos/view?photos=7868163f-a9da-4858-bcb2-abcb5bc6e00b
@@ -23,36 +23,35 @@ header:
  latitude: 33.92073367
  longitude: 35.58544435
 
- languages:  
+ languages: English, Arabic
   dominant_language: null
-    
- script: "Arabic ,Latin " 
-  dominant_script: null
-    
- Characteristics: "bilingual,meaning not same across langs,multiple scripts in total item,literal translation,wordplay" 
- general_context: Food/Entertainment 
- material:
-    
-    
- comments: 
- comments2: 
+
+ script: "Arabic ,Latin "
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,meaning not same across langs,multiple scripts in total item,literal translation,wordplay"
+ general_context: Food/Entertainment
+ material: Advertising
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Cadbury"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "DAIRY MILK"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "طير من السعادة مع "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "بابلي"
+      Script: Arabic
+      Language: English
+      Feature: 

@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
+
  complete: false
-    
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 5abdc853-ff8f-4975-9f1e-793046da32ff
  photo_url: https://web.fulcrumapp.com/photos/view?photos=9de2a7f1-13ea-4e5f-8078-394fb4ad75c6
@@ -23,36 +23,63 @@ header:
  latitude: 33.90155752
  longitude: 35.47985485
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: "bilingual,mixed languages,Western numbers,audience-specific" 
- general_context: Event 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: Arabic, English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,mixed languages,Western numbers,audience-specific"
+ general_context: Event
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
+     "American University of Beirut"
+      Script: Latin
+      Language: English
+      Feature: Proper_name, Equivalence
+     "الجامعَةُ الأميركيَّة في بيروُت "
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence
+     "Lebanese Heritage Club"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "THE LEBANESE HERITAGE CLUB"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "PROUDLY PRESENTS"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Laباَّaik"
+      Script: Arabic, Latin
+      Language: Arabic
       Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "HAJJ:"
+      Script: Latin
+      Language: Arabic
+      Feature: Proper_name
+     "A JOURNEY OF A LIFETIME"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Dr. Ahmad Aijour"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "Thursday Oct - 1 - 15 Time: 4:15 p.m"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "West Hall - Auditorium B"
+      Script: Latin
+      Language: English
+      Feature: Place_Name

@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: f2f7459a-9258-48bc-b05d-41b5b862e62b
  photo_url: https://web.fulcrumapp.com/photos/view?photos=f27226a3-0990-4940-96cb-8ebcc38c6eaf
@@ -23,36 +23,35 @@ header:
  latitude: 33.89758031
  longitude: 35.47848392
 
- languages:  
+ languages: Arabic, English
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: "meaning not same across langs,bilingual,multiple scripts in total item,Western numbers" 
- general_context: "Health/Beauty,Event,Advertising" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "meaning not same across langs,bilingual,multiple scripts in total item,Western numbers"
+ general_context: "Health/Beauty,Event,Advertising"
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "الصيدلي :شريكك في الصحة "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "WORLD PHARMACISTS DAY, 25 September"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "fip"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "ADVANCING PHARMACY WORLDWIDE"
+      Script: Latin
+      Language: English
+      Feature: Null
