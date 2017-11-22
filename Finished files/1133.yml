@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 2a7fde9a-fed3-4f00-831c-bd74f692ee19
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=2bcd29b8-0b75-4b65-a72d-f3b6b74aa44b
+ revised_id: 1133
+ date_taken: 09-02-16
+ time_taken: 15:56:41
+ time_zone: EET
+ created_by: 9
+ latitude: 33.8859977
+ longitude: 35.5098282
+
+ languages:  French
+  dominant_language: French
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "meaning not same across langs,transliteration"
+ general_context: Food/Entertainment
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "SAMAKNA"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "fruits de mer"
+      Script: Latin
+      Language: French
+      Feature: null

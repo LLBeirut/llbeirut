@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: b11ff1d7-74d1-43f0-8b5c-555e8daecfc1
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d9419c32-3d7d-4520-babb-9ed4d1f88427
+ revised_id: 1130
+ date_taken: 09-02-16
+ time_taken: 15:30:14
+ time_zone: EET
+ created_by: 9
+ latitude: 33.8901683
+ longitude: 35.5143022
+
+ languages: French
+  dominant_language: French
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: Merchandise
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "trompe l"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "TROMPE L'OEIL"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "LUNDI JEUDI 13h30 à 18h30 MARDI MERDRECDI VENDREDI SAMEDI 11h à 14h"
+      Script: Latin
+      Language: French
+      Feature: Western
+     "Pour tout renseignement 70 - 94 23 12 01 -32 76 15 Facebook.com/trompeloeilbeirut"
+      Script: Latin
+      Language: French
+      Feature: Western

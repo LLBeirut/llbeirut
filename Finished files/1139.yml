@@ -1,0 +1,45 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 4a7bdf2c-2698-47f0-9aec-39b29e756e04
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=163ee367-c61f-4abc-8746-f3d199e80e68
+ revised_id: 1139
+ date_taken: 09-02-16
+ time_taken: 15:45:36
+ time_zone: EET
+ created_by: 9
+ latitude: 33.88836387
+ longitude: 35.51415492
+
+ languages:  null
+  dominant_language: null
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,mixed languages"
+ general_context: Services
+ material: overwritng
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Blue Belle. B"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name

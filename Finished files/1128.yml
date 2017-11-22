@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: b1ce19ea-31b2-423a-ada3-ab71678a8bc7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=8b814ce7-b86c-3b90-6765-07cd9ef176ea
+ revised_id: 1128
+ date_taken: 08-02-16
+ time_taken: 17:56:18
+ time_zone: EET
+ created_by: 14
+ latitude: 33.896145
+ longitude: 35.479418
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic, Latin
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,audience-specific"
+ general_context: ",Advertising,Services"
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "ابتكار جديد لمحاربة التجاعيد"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "Cell Capital"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "فعالية x3"
+      Script: Arabic
+      Language: Arabic
+      Feature: Western
+     "شد الوجه ترميم البشرة تصحيح التجاعية"
+      Script: Arabic
+      Language: Arabic
+      Feature: null

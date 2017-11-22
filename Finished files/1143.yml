@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 2781ecf0-82a0-4a9a-aa68-17784910681a
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=b755b269-e710-426c-bdbe-e3a33b51e2b0
+ revised_id: 1143
+ date_taken: 09-02-16
+ time_taken: 15:12:12
+ time_zone: EET
+ created_by: 9
+ latitude: 33.88788293
+ longitude: 35.51334757
+
+ languages: French
+  dominant_language: French
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: Health/Beauty
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "BOUTIQUE DAM"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Chaussures Medicales"
+      Script: Latin
+      Language: French
+      Feature: null
+     "01 - 329 334"
+      Script: null
+      Language: null
+      Feature: Western

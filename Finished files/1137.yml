@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 3acb0d53-bf43-4e99-ab59-8453932223b1
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=db2e52c7-3556-49ce-8eff-e6d7bb6ab186
+ revised_id: 1137
+ date_taken: 09-02-16
+ time_taken: 15:18:34
+ time_zone: EET
+ created_by: 9
+ latitude: 33.8883904
+ longitude: 35.5130688
+
+ languages: English
+  dominant_language: English
+
+ script: Arabic, Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,multiple scripts in total item,mixed scripts in same words"
+ general_context: Food/Entertainment
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "المرج"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "Al Marej"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name, Transliteration
+     "Organic Food Store"
+      Script: Latin
+      Language: English
+      Feature: null
+     "01-210 211"
+      Script: null
+      Language: null
+      Feature: Western
