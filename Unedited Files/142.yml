@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 59ce189e-3b3f-41f2-b517-47b5250b09e3
  photo_url: https://web.fulcrumapp.com/photos/view?photos=a9036ac6-4e9c-4de8-95d5-d49ac0407015
@@ -23,36 +23,31 @@ header:
  latitude: 33.89916091
  longitude: 35.48511875
 
- languages:  
-  dominant_language: null
-    
- script: Arabic  
-  dominant_script: null
-    
- Characteristics: "unilingual,cultural reference,Oriental numbers,religion" 
- general_context: Signage 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: Arabic, English
+  dominant_language: Arabic
+
+ script: Arabic, Latin
+  dominant_script: Arabic
+
+ Characteristics: "unilingual,cultural reference,Oriental numbers,religion"
+ general_context: Signage
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "مرحى مرحى بالحج وعيد الأضحى "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "دار الأيتام الإسلامية ٠١٦٥٤٦٥٤"
+      Script: Arabic
+      Language: Null
+      Feature: Proper_name, Eastern
+     "www.daralaytam.org"
+      Script: Latin
+      Language: Null
+      Feature: Null

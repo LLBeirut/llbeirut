@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 73748af6-ec27-48a9-a350-bdb7da7612a0
  photo_url: https://web.fulcrumapp.com/photos/view?photos=45327ac5-872d-4f52-b263-35e8aac5ad4a
@@ -23,36 +23,35 @@ header:
  latitude: 33.89875439
  longitude: 35.48400074
 
- languages:  
+ languages: Arabic, English
   dominant_language: null
-    
- script: Arabic  
-  dominant_script: null
-    
- Characteristics: "transliteration,unilingual" 
- general_context: Food/Entertainment 
- material:
-    
-    
- comments: 
- comments2: 
+
+ script: Arabic, Latin
+  dominant_script: Arabic
+
+ Characteristics: "transliteration,unilingual"
+ general_context: Food/Entertainment
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "بيبسي"
+      Script: Arabic
+      Language: Null
+      Feature: Proper_name, Equivalence
+     "PEPSI"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Equivalence
+     "بريك فاست "
+      Script: Arabic
+      Language: English
+      Feature: Null
+     "تميم"
+      Script: Arabic
+      Language: Arabic
+      Feature: Null

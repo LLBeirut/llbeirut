@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 7933ba6b-a4ff-4149-b442-051051e1ce03
  photo_url: https://web.fulcrumapp.com/photos/view?photos=93caa27b-a515-483a-bfbd-12a4fc91e3b9
@@ -23,36 +23,31 @@ header:
  latitude: 33.897499
  longitude: 35.507437
 
- languages:  
-  dominant_language: null
-    
- script: Arabic  
-  dominant_script: null
-    
- Characteristics: "bilingual,mixed languages,usage issue" 
- general_context: "Signage,Advertising,Publication" 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: Arabic, English
+  dominant_language: Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,mixed languages,usage issue"
+ general_context: "Signage,Advertising,Publication"
+ material: Printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "أم رخوصة للضافير ما نيكور ب٣٠٠٠ ل.ل. حفاظاً على"
+      Script: Arabic
+      Language: Arabic
+      Feature: Eastern
+     "#إتيكيت"
+      Script: Arabic
+      Language: English
+      Feature: Null
+     "ـ التّظاهر"
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
