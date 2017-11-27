@@ -4,7 +4,7 @@ Template_Version : 0.5
 
 header:
 
- complete: false
+ complete: True
 
  altered:
   anonymized: false
@@ -39,7 +39,11 @@ header:
 
  Body:
   Paragraph1:
-     "Lebanese Arabic lessons, For all levels, For more informtion, call or WhatsApp, >>>76/722348<<<"
+     "Lebanese Arabic lessons For all levels For more information call or"
       Script: Latin
       Language: English
-      Feature: Western 
+      Feature: Null
+     "WhatsApp >>>76/722348<<<"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Western
