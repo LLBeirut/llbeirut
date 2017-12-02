@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 343f28a2-a731-4384-b4bd-233716d6f6de
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=a5e259f9-83d3-6f6a-da39-2ac048eeed39
+ revised_id: 1154
+ date_taken: 08-02-16
+ time_taken: 19:27:00
+ time_zone: EET
+ created_by: 14
+ latitude: 33.898156
+ longitude: 35.478438
+
+ languages: English, FRENCH
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,mixed languages"
+ general_context: "Signage,Advertising"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "COIFFURE DE PARIS"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "for men"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Hair cuts deep conditioning treatments hair straightening facial and skin care proffesional hair and beaty products"
+      Script: Latin
+      Language: English
+      Feature: misspelling

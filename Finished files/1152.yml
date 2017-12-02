@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 0dad2bdd-d56f-4e48-8278-2553ee79f82c
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=ca862af9-04b5-b2cf-0510-9ada73152a04
+ revised_id: 1152
+ date_taken: 08-02-16
+ time_taken: 19:20:57
+ time_zone: EET
+ created_by: 14
+ latitude: 33.896303
+ longitude: 35.47754
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: "bilingual,meaning not same across langs"
+ general_context: "Signage,Food/Entertainment"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "يا مسهرني"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "PUB-REST"
+      Script: Latin
+      Language: English
+      Feature: null
+     "ابراج"
+      Script: Arabic
+      Language: Arabic
+      Feature: null

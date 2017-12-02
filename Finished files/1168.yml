@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: ccabf115-ed1e-4705-8376-9d8e2c8f8547
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=1d734d3e-c23c-4de5-84d2-919973e14ba2
+ revised_id: 1168
+ date_taken: 08-02-16
+ time_taken: 15:46:28
+ time_zone: EET
+ created_by: 16
+ latitude: 33.89507928
+ longitude: 35.51939879
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic, Latin
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,mixed languages,Western numbers"
+ general_context: "Advertising,Telephone,Housing"
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "960 m²"
+      Script: Latin
+      Language: null
+      Feature: Western
+     "للايجار"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "كامل الطابق الارضي وكامل الطابق السفلي الاول"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "للمراجعة: 03/621666 - 01/321145"
+      Script: Arabic
+      Language: Arabic
+      Feature: Western
