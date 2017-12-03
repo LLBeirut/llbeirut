@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 0cd1f5cf-2db6-40e2-a6f0-d6c0356aa630
  photo_url: https://web.fulcrumapp.com/photos/view?photos=425482d5-4fba-4797-8639-19e5e6b8c5f9
@@ -23,36 +23,31 @@ header:
  latitude: 33.75543214
  longitude: 35.45590119
 
- languages:  
-  dominant_language: null
-    
- script: "Arabic ,Latin " 
-  dominant_script: null
-    
- Characteristics: "bilingual,audience-specific,humor" 
- general_context: Advertising 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: "Arabic ,Latin "
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,audience-specific,humor"
+ general_context: Advertising
+ material: Advertising
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "هالخريف...الدفع خفيف$10,000  ب $192"
+      Script: Arabic
+      Language: Arabic
+      Feature: Western
+     "القرض الشخصي "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "BLC bank, FRANSABANK GROUP, PRESTIGE BEKAA, 03/807396"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Western

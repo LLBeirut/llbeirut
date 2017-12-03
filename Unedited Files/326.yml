@@ -27,7 +27,7 @@ header:
   dominant_language: English
 
  script: Latin
-  dominant_script: null
+  dominant_script: Latin
 
  Characteristics: "unilingual,audience-specific,Western numbers"
  general_context: "Food/Entertainment,Advertising,Franchise"
@@ -41,20 +41,17 @@ header:
   Paragraph1:
      "The Cheesecake Factory"
       Script: Latin
-      Language: English
+      Language: Null
       Feature: Proper_name
      "Opening Soon at Verdun"
       Script: Latin
-      Language: Proper_name
+      Language: English
+      Feature: Place_Name
      "Now Hiring"
       Script: Latin
       Language: English
       Feature: Null
-     "Hosts, Bartenders, Servers, Baristas, Bakers Runners/Bussers, Line Cooks (Commis 1)"
-      Script: Latin
-      Language: English
-      Feature: Western
-     "Prep.Cooks (Commis 2), Receivers"
+     "Hosts, Bartenders, Servers, Baristas, Bakers Runners/Bussers, Line Cooks (Commis 1), Prep.Cooks (Commis 2), Receivers"
       Script: Latin
       Language: English
       Feature: Western

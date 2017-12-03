@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 1aa2952f-d7d3-48a7-a931-bc9cc7c30d99
  photo_url: https://web.fulcrumapp.com/photos/view?photos=2f2fb841-e7b7-48dc-ab51-ac7bdc9df925
@@ -23,36 +23,39 @@ header:
  latitude: 33.73527744
  longitude: 35.45394125
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: "unilingual,humor,cultural reference" 
- general_context: Advertising 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: Arabic, English
+  dominant_language: English
+
+ script: Arabic, Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,humor,cultural reference"
+ general_context: Advertising
+ material: Advertising
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "A Lebanese party and no selfies"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "#HardToBelieve"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Mcvitie's"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "Digestive Bars"
+      Script: Latin
+      Language: English
+      Feature: Null
+      "٥٠٠ ل.ل"
+      Script: Arabic
+      Language: Arabic
+      Feature: Eastern

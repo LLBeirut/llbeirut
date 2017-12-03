@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: ef7ca6ae-9478-46c0-98a9-957db8892079
  photo_url: https://web.fulcrumapp.com/photos/view?photos=45cbb947-d575-01c1-ba55-ecb2dc987f89
@@ -23,36 +23,27 @@ header:
  latitude: 33.851385
  longitude: 35.517372
 
- languages:  
+ languages: Null
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: "bilingual,meaning same across langs" 
- general_context: Food/Entertainment 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "bilingual,meaning same across langs"
+ general_context: Food/Entertainment
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Harkous Chicken"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Equivalence
+     "حرقوص تشيكن"
+      Script: Arabic
+      Language: Null
+      Feature: Proper_name, Equivalence, transliteration

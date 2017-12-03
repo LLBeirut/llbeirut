@@ -4,7 +4,7 @@ Template_Version : 0.5
 
 header:
 
- complete: True 
+ complete: True
 
  altered:
   anonymized: false
@@ -31,7 +31,7 @@ header:
 
  Characteristics: "unilingual,misspelling,Western numbers"
  general_context:  Memorial bench
- material:
+ material: Signage
 
 
  comments:
@@ -45,7 +45,7 @@ header:
       Feature: Null
      "Dr. George Jeha (MD, Dentistry 1917)"
       Script: Latin
-      Language: English
+      Language: Null
       Feature: Proper_name, Western
      "Who helped me being who I am"
       Script: Latin

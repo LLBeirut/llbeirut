@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: bad673a4-3fb4-4d47-9384-f14911bfdc61
  photo_url: https://web.fulcrumapp.com/photos/view?photos=ddd9506b-02a0-451b-9ded-2c708f1e7c15
@@ -23,36 +23,27 @@ header:
  latitude: 33.90034226
  longitude: 35.52059088
 
- languages:  
-  dominant_language: null
-    
- script: Arabic  
-  dominant_script: null
-    
- Characteristics: "unilingual,audience-specific,humor" 
- general_context: Graffiti 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic, Latin
+  dominant_script: Arabic
+
+ Characteristics: "unilingual,audience-specific,humor"
+ general_context: Graffiti
+ material: Overwriting
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "وجه لبنانا الجديد "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "BROS"
+      Script: Latin
+      Language: Null
+      Feature: Null
