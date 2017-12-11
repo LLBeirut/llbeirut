@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: b1400ce4-89a6-49e4-b320-4b5d76adb875
  photo_url: https://web.fulcrumapp.com/photos/view?photos=a2cad2ed-ac75-4f4e-a9ee-6ea3f087d71d
@@ -23,36 +23,31 @@ header:
  latitude: 33.90387602
  longitude: 35.57320893
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: "wordplay,mixed languages" 
- general_context: Signage 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "wordplay,mixed languages"
+ general_context: Signage
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "BEYTECH"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "House of Ideas"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "ww.beytech.com.lb"
+      Script: Latin
+      Language: Null
+      Feature: Null

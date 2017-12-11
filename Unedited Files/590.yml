@@ -4,7 +4,7 @@ Template_Version : 0.5
 
 header:
 
- complete: false
+ complete: True
 
  altered:
   anonymized: false
@@ -49,7 +49,7 @@ header:
       Feature: Null
      "13 & 14 NOVEMBER, 2015"
       Script: Latin
-      Language:
+      Language: English
       Feature: Western
      "BETWEEN 8AM & 7PM"
       Script: Latin
@@ -58,4 +58,4 @@ header:
      "FORUM DE BEYROUTH"
       Script: Latin
       Language: French
-      Feature: Proper_name 
+      Feature: Proper_name

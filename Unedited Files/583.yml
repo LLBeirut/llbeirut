@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: e9efb146-fcff-41dc-80bc-815d51edc901
  photo_url: https://web.fulcrumapp.com/photos/view?photos=41efc954-8c3b-9abd-51ca-8b5eace4c84f
@@ -23,36 +23,31 @@ header:
  latitude: 33.902505
  longitude: 35.492463
 
- languages:  
+ languages: Arabic, English
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: "trilingual,meaning not same across langs,multiple scripts in total item" 
- general_context: ",Signage,Food/Entertainment" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "trilingual,meaning not same across langs,multiple scripts in total item"
+ general_context: ",Signage,Food/Entertainment"
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "الصياد "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "Le PÊCHEUR"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "Sea Food Place"
+      Script: Latin
+      Language: English
+      Feature: Null

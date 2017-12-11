@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: True
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: KM
 
  Fulcrum_id: 66fe549d-ebdb-4fbe-9ece-c8387587fb56
  photo_url: https://web.fulcrumapp.com/photos/view?photos=db226c12-2ba3-46aa-b76c-aca768ec98e2
@@ -23,36 +23,31 @@ header:
  latitude: 33.8850259
  longitude: 35.520663
 
- languages:  
-  dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: "bilingual,meaning not same across langs,Western numbers,business name in French" 
- general_context: "Signage,Advertising,Health/Beauty,Telephone" 
- material:
-    
-    
- comments: One letter is missing from the sign 
- comments2: 
+ languages: English, French
+  dominant_language: Null
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,meaning not same across langs,Western numbers,business name in French"
+ general_context: "Signage,Advertising,Health/Beauty,Telephone"
+ material: Signage
+
+
+ comments: One letter is missing from the sign
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Esthétique Diamond Masr, 03/68 64 2"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Western
+     "Maquillage, Manucure, Pédicure, Paise Vernis, Nettoyage, Paraffine, Epilation Complète, Epilation Sourcils, Epilation Electique"
+      Script: Latin
+      Language: French
+      Feature: transliteration
+     "Peeling/Mask/Massage, Tattoo, Laser/Tattoo Removal"
+      Script: Latin
+      Language: English
+      Feature: Null

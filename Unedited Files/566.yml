@@ -4,7 +4,7 @@ Template_Version : 0.5
 
 header:
 
- complete: false
+ complete: True
 
  altered:
   anonymized: false
@@ -23,7 +23,7 @@ header:
  latitude: 33.886744
  longitude: 35.54927523
 
- languages:
+ languages: null
   dominant_language: null
 
  script: Latin
@@ -41,7 +41,7 @@ header:
   Paragraph1:
      "INAYA"
       Script: Latin
-      Language: Arabic
+      Language: Null
       Feature: Proper_name
      "LIBAN"
       Script: Latin
