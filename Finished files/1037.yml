@@ -46,5 +46,5 @@ header:
   Paragraph2:
      "Salon Arabelle"
       Script: Latin
-      Language: English
+      Language: null
       Feature: Proper_Name
