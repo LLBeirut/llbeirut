@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
+
  complete: false
-    
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: NJ
 
  Fulcrum_id: 931df78b-0821-448f-8ab1-d0fc40223abb
  photo_url: https://web.fulcrumapp.com/photos/view?photos=968a1670-dc2c-4654-b235-f3ec241b6c38
@@ -23,36 +23,27 @@ header:
  latitude: 33.88802432
  longitude: 35.50306197
 
- languages:  
+ languages: null
   dominant_language: null
-    
- script: Latin  
-  dominant_script: null
-    
- Characteristics: unilingual 
- general_context: Merchandise 
- material:
-    
-    
- comments: 
- comments2: 
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: Merchandise
+ material: signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "AMIGO MOTO"
+      Script: Latin
+      Language: null
+      Feature: null
+     "03/457 585"
+      Script: null
+      Language: null
+      Feature: Western
