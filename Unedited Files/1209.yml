@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: true
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: NJ
 
  Fulcrum_id: a28ea03c-e429-4756-9bd2-03b6f9c99e51
  photo_url: https://web.fulcrumapp.com/photos/view?photos=a6373a81-9c2f-4148-9995-61ad0c558cee
@@ -23,36 +23,27 @@ header:
  latitude: 33.89703397
  longitude: 35.55811431
 
- languages:  
+ languages:
   dominant_language: null
-    
- script: Latin  
+
+ script: Latin
   dominant_script: null
-    
- Characteristics: "unilingual,Western numbers,Frenched by definite article (le la l')" 
- general_context: "Signage,Advertising" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "unilingual,Western numbers,Frenched by definite article (le la l')"
+ general_context: "Signage, Advertising"
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
+     "Le Taxi"
+      Script: Latin
+      Language: French
       Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "70 40 70 40"
+      Script: null
+      Language: null
+      Feature: western

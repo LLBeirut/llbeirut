@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: true
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: NJ
 
  Fulcrum_id: 6bfd59dd-2115-4edf-bffb-750e8132bea4
  photo_url: https://web.fulcrumapp.com/photos/view?photos=b984d222-2afe-4eaf-9a29-80c698455814
@@ -23,36 +23,50 @@ header:
  latitude: 33.8840111
  longitude: 35.52509565
 
- languages:  
-  dominant_language: null
-    
- script: "Arabic ,Latin " 
-  dominant_script: null
-    
- Characteristics: "unilingual,audience-specific,Western numbers,calligraphy" 
- general_context: "Signage,Food/Entertainment" 
- material:
-    
-    
- comments: 
- comments2: 
+ languages: Arabic,   
+  dominant_language: Arabic
+
+ script: Arabic, Latin
+  dominant_script: Arabic
+
+ Characteristics: "unilingual,audience-specific,Western numbers,calligraphy"
+ general_context: "Signage,Food/Entertainment"
+ material: printed
+
+
+ comments:  ِArabic calligraphy used to represent ideas and themes
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "منامات"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "نص وجدي معوض"
+      Script: Arabic
+      Language: Arabic
+      Feature: proper name
   Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "اخراج جان-كلود بولوس"
+      Script: Arabic
+      Language: Arabic
+      Feature: proper name
+     "على مسرح بابل 10, 11, 12, 17, 18, 19 ادار الساعة 8:30 مساء"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+ Paragraph3:
+         "تباع البطاقات في جميع فروع مكتبة انطوان وعلى الباب"
+          Script: Arabic
+          Language: Arabic
+          Feature: null
+         "اسعار البطاقات 30,000ل. ل. و 15,000 ل. ل. للطلاب"
+          Script: Arabic
+          Language: Arabic
+          Feature: null
+ Paragraph4:
+             "للمزيد من المعلومات الاتصال على الرقم التالي: 70 996315"
+              Script: Arabic
+              Language: Arabic
+              Feature: null

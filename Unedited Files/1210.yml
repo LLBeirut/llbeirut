@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: true
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: NJ
 
  Fulcrum_id: 9726cd4f-a805-4c47-971e-cb783cf3e3b1
  photo_url: https://web.fulcrumapp.com/photos/view?photos=504f5f2e-5585-44e9-9064-81fd84e98bfe
@@ -23,36 +23,54 @@ header:
  latitude: 33.79884447
  longitude: 35.68156432
 
- languages:  
+ languages:
   dominant_language: null
-    
- script: Arabic  
+
+ script: Arabic, Latin
   dominant_script: null
-    
- Characteristics: "unilingual,transliteration,humor,wordplay" 
- general_context: "Signage,Food/Entertainment,Advertising" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "unilingual,transliteration,humor,wordplay"
+ general_context: "Signage,Food/Entertainment,Advertising"
+ material: Signage and printed
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Castania"
+      Script: Latin
+      Language: null
+      Feature: proper name
+     "تعوا نعمل شي"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
   Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Castania, Castania, Castania"
+      Script: Latin
+      Language: null
+      Feature: proper Name
+     "Pro Mart"
+      Script:Latin
+      Language: null
+      Feature: null
+  Paragraph3:
+     "برو مارت"
+      Script: Arabic
+      Language: null
+      Feature: proper Name
+     "بن دانيال"
+      Script: Arabic
+      Language: Arabic
+      Feature: proper Name
+  Paragraph3:
+     "برو مارت"
+    Script: Arabic
+      Language: null
+      Feature: proper Name
+     "Pro Mart"
+      Script: Latin
+      Language: null
+      Feature: proper Name
