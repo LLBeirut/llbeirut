@@ -43,15 +43,11 @@ header:
       Script: Latin
       Language: English
       Feature: null
-     "ادجلي"
+     " ادجلي واربحي"
       Script: Arabic
       Language: Arabic
       Feature: null
-     "واربحي"
-      Script: Arabic
-      Language: Arabic
-      Feature: null
-     "Galaxy"
+     "$10000 Galaxy"
       Script: Latin
       Language: null
-      Feature: Proper_Name
+      Feature: Proper_Name, Western
