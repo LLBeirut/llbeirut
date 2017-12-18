@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: d2875875-0200-4aac-96dc-269ed62a6866
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=5399d51c-fabb-459d-8d7c-292b78603e2a
+ revised_id: 1179
+ date_taken: 09-02-16
+ time_taken: 13:14:34
+ time_zone: EET
+ created_by: 16
+ latitude: 33.86091852
+ longitude: 35.5271617
+
+ languages: null
+  dominant_language: null
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: "unilingual,meaning not same across langs,transliteration"
+ general_context: "Signage,Food/Entertainment"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "توباكو كارلوس"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "١٥٨٢٩٢ـ١٠ "
+      Script: null
+      Language: null
+      Feature: Eastern
+     "٣٥٨٣٠٣ـ٣٠"
+      Script: null
+      Language: null
+      Feature: Eastern

@@ -1,0 +1,77 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: b5b9cf27-3809-49fa-ac6d-abdef84c4b40
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d936eb9f-a8c6-4e0f-951b-aa61172993ba
+ revised_id: 1190
+ date_taken: 10-02-16
+ time_taken: 12:51:13
+ time_zone: EET
+ created_by: 3
+ latitude: 33.89318732
+ longitude: 35.48337758
+
+ languages: English, Arabic
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: bilingual
+ general_context: Food/Entertainment
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "PaPa Chef Restaurant"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "OPEN"
+      Script: Latin
+      Language: English
+      Feature: null
+     "OPEN"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Sunday closes"
+      Script: Latin
+      Language: English
+      Feature: null
+     "OPEN"
+      Script: Latin
+      Language: English
+      Feature: null
+     "PUSH"
+      Script: Latin
+      Language: English
+      Feature: null
+     "FOUL 6000"
+      Script: Latin
+      Language: Arabic
+      Feature: Western
+     "6000 omellete"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "8000 LL"
+      Script: Latin
+      Language: English
+      Feature: Western

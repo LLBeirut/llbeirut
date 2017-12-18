@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: ea135b37-8a0b-4e7d-92a0-c61d85d5c7fc
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=6316df60-dea6-44d5-ac9c-fd76aa8547dd
+ revised_id: 1174
+ date_taken: 09-02-16
+ time_taken: 16:16:01
+ time_zone: EET
+ created_by: 16
+ latitude: 33.90140173
+ longitude: 35.48756023
+
+ languages: English
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: unilingual
+ general_context: "Signage,Food/Entertainment,Merchandise"
+ material: painted
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "أنكل ديك"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "Cafe Latte"
+      Script: Latin
+      Language: null
+      Feature: null

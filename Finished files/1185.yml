@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 51e882ff-4888-4910-8dbb-8f753e9c1a05
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=900f6962-574f-42b9-944e-92f5a6869a87
+ revised_id: 1185
+ date_taken: 09-02-16
+ time_taken: 12:43:58
+ time_zone: EET
+ created_by: 3
+ latitude: 33.89670754
+ longitude: 35.47895864
+
+ languages:  English, Arabic
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: bilingual
+ general_context: Services
+ material: advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "ماي هوم"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, Transliteration
+     "MY HOM"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name, Misspelling
+     "شقف مفر شت"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "FURNISHE PT."
+      Script: Latin
+      Language: English
+      Feature: Equivalence, Misspelling

@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 199c1b50-369b-4ebb-ba59-c4666ff52fa5
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=89f2e12a-ab41-4cf7-b241-1939c0b25c83
+ revised_id: 1140
+ date_taken: 09-02-16
+ time_taken: 15:46:32
+ time_zone: EET
+ created_by: 9
+ latitude: 33.8884305
+ longitude: 35.5139453
+
+ languages: English, French
+  dominant_language: null
+
+ script: Latin
+  dominant_script: null
+
+ Characteristics: bilingual
+ general_context: Services
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Disco Mitri"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "FOR MUSIC"
+      Script: Latin
+      Language: English
+      Feature: null
+     "AGENCE NOUVEAUTE"
+      Script: Latin
+      Language: French
+      Feature: null
+     "JOLIE DAME"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name

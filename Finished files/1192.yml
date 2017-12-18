@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 11aa7c20-2dfe-4f74-b11e-2ca1ee4e4777
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=cc3d6219-eb35-443b-b5dc-775fffc4e789
+ revised_id: 1192
+ date_taken: 03-02-16
+ time_taken: 12:19:11
+ time_zone: EET
+ created_by: 18
+ latitude: 33.8993506
+ longitude: 35.4798054
+
+ languages: null
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: "bilingual,meaning same across langs,literal translation,Oriental numbers"
+ general_context: Food/Entertainment
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "ADNAN"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "ADNAN COFFEE"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "بن عدنان"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, Equivalence
