@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: true
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: NJ
 
  Fulcrum_id: aa326495-a2cc-4ba3-add0-cf4e765c6d5e
  photo_url: https://web.fulcrumapp.com/photos/view?photos=576b6208-044a-4ebd-b53d-9b96f605c8d1
@@ -23,36 +23,27 @@ header:
  latitude: 33.8621377
  longitude: 35.5293961
 
- languages:  
+ languages:
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: "bilingual,meaning same across langs,transliteration,multiple scripts in total item" 
- general_context: "Signage,Advertising,Health/Beauty" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "bilingual,meaning same across langs,transliteration,multiple scripts in total item"
+ general_context: "Signage,Advertising,Health/Beauty"
+ material:Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
+     "Wojooh"
+      Script: Latin
       Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+      Feature: transliteration
+     "وجوه"
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper Name

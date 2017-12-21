@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: true
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: NJ
 
  Fulcrum_id: 506a35ef-eff3-4517-bd40-b6163cf95391
  photo_url: https://web.fulcrumapp.com/photos/view?photos=280853eb-7bb7-4af5-b8fd-9b8ce1a4e544
@@ -23,36 +23,23 @@ header:
  latitude: 33.81130565
  longitude: 35.69612201
 
- languages:  
+ languages:
   dominant_language: null
-    
- script: Latin  
+
+ script: Latin
   dominant_script: null
-    
- Characteristics: "unilingual,bilingual,usage issue,gender,Frenched by definite article (le la l')" 
- general_context: "Signage,Health/Beauty" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "unilingual,bilingual,usage issue,gender,Frenched by definite article (le la l')"
+ general_context: "Signage,Health/Beauty"
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-  Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "La Bella Nails"
+      Script: Latin
+      Language: null
+      Feature: Proper Name

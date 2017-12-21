@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: true
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: NJ
 
  Fulcrum_id: ae3f0d44-a433-44b1-8b08-ce32b6e71a42
  photo_url: https://web.fulcrumapp.com/photos/view?photos=faffe4bc-b7c1-4b07-ac10-27e1572d7fcf
@@ -23,36 +23,32 @@ header:
  latitude: 33.8983757
  longitude: 35.4783637
 
- languages:  
+ languages:
   dominant_language: null
-    
- script: Latin  
+
+ script: Latin
   dominant_script: null
-    
+
  Characteristics: "unilingual,usage issue" given a French meanining by the -ette
- general_context: Food/Entertainment 
- material:
-    
-    
- comments: 
- comments2: 
+ general_context: Food/Entertainment
+ material: Signage
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Socrate"
+      Script: Latin
+      Language: null
+      Feature: Proper name
+     "سقراط"
+      Script: Arabic
+      Language: Arabic
+      Feature: proper name
   Paragraph2:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Sandwichette"
+      Script: Latin
+      Language: null
+      Feature: null

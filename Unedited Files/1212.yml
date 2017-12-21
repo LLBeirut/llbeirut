@@ -1,17 +1,17 @@
 
 Template_Version : 0.5
-    
-   
+
+
 header:
-    
- complete: false
-    
+
+ complete: true
+
  altered:
   anonymized: false
   point_focus: false
   rotated: false
 
- transcribed_by:
+ transcribed_by: NJ
 
  Fulcrum_id: b6e65248-e1b9-4c33-96f9-ceb6e934432a
  photo_url: https://web.fulcrumapp.com/photos/view?photos=a8bbe8a3-23a3-4048-ae96-bb628380b7d9
@@ -23,36 +23,46 @@ header:
  latitude: 33.83144908
  longitude: 35.58268368
 
- languages:  
+ languages:
   dominant_language: null
-    
- script: "Arabic ,Latin " 
+
+ script: "Arabic ,Latin "
   dominant_script: null
-    
- Characteristics: "trilingual,meaning not same across langs,mixed languages,multiple scripts in total item,age,Oriental numbers" 
- general_context: "Signage,Advertising,Services" 
- material:
-    
-    
- comments: 
- comments2: 
+
+ Characteristics: "trilingual,meaning not same across langs,mixed languages,multiple scripts in total item,age,Oriental numbers"
+ general_context: "Signage,Advertising,Services"
+ material: Advertising
+
+
+ comments:
+ comments2:
 
  Body:
   Paragraph1:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+     "Baby Palace"
+      Script: Latin
+      Language: English
+      Feature:  Proper Name
+     "Galerie Pour Bébé"
+      Script: Latin
+      Language: French
+      Feature: null
+
   Paragraph2:
+     "م25 م على اليمين "
+      Script: Arabic
+      Language: Arabic
+      Feature: null
      "Insert text here"
       Script:
       Language:
       Feature:
-     "Insert text here"
-      Script:
-      Language:
-      Feature:
+  Paragraph3:
+     "Liste de Naissance "
+      Script: Latin
+      Language: French
+      Feature: null
+      "مفروشات للاطفال"
+      Script: Arabic
+      Language: Arabic
+      Feature: translation
