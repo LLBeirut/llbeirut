@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 2dc1633c-c020-4701-88db-9ce1613c38ad
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3e353fd6-5a21-42cd-93c5-ae6b51df2c07
+ revised_id: 1195
+ date_taken: 11-02-16
+ time_taken: 06:36:09
+ time_zone: EET
+ created_by: 18
+ latitude: 33.87118972
+ longitude: 35.51604118
+
+ languages: null
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: "bilingual,meaning same across langs"
+ general_context: Merchandise
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "patricia"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "باتربسيا"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, Transliteration
