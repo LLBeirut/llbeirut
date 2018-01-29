@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 0958594d-fccb-4444-9bb3-30ad377900be
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=fddccc48-1e4c-c0c0-2635-49d47f5a7e74
+ revised_id: 341
+ date_taken: 20-08-13
+ time_taken: 22:19:18
+ time_zone: EEST
+ created_by: 23
+ latitude: 33.856211
+ longitude: 35.489033
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: null
+
+ Characteristics: "trilingual,meaning same across langs"
+ general_context: Services
+ material: Signage
+
+
+ comments: I chose to upload this picture because of the Latin script.I find it strange to find an English translation of the Persian name of the embassy because English is the language of Iranian's enemy!
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Embassy of the Islamic Republic of Iran"
+      Script: Latin
+      Language: English
+      Feature: Proper_name, Equivalence
+     "سفارة الجمهورية الإسلامية الايران "
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence

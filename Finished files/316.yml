@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 2414296f-8448-4b62-8ba9-cf9894669254
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=94baeb3e-0b7e-4802-be00-ce3c3dd98cfc
+ revised_id: 316
+ date_taken: 05-10-15
+ time_taken: 23:13:37
+ time_zone: EEST
+ created_by: 13
+ latitude: 34.24945037
+ longitude: 35.66000632
+
+ languages: Arabic, English
+  dominant_language: Arabic
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,literal translation,transliteration"
+ general_context: Food/Entertainment
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Breakfast"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+     "Terwika"
+      Script: Latin
+      Language: Arabic
+      Feature: Equivalence
+     "Labneh, Foul, Balila, Fekharet Bayd, Fekharet Bayd w Jebneh, Fekharet Bayd w Kawarma"
+      Script: Latin
+      Language: Arabic
+      Feature: Null
+     "Vegetable Plate, Croissant"
+      Script: Latin
+      Language: English
+      Feature: Null

@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 5dad1a56-aeb3-44ee-9e31-683e8f56712d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=1ed01f11-4f68-4d02-8614-d41e946ae224
+ revised_id: 315
+ date_taken: 05-10-15
+ time_taken: 17:35:55
+ time_zone: EEST
+ created_by: 8
+ latitude: 33.90044632
+ longitude: 35.48323869
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,misspelling,Western numbers"
+ general_context:  Memorial bench
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "In Memory of my Beloved Father"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Dr. George Jeha (MD, Dentistry 1917)"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Western
+     "Who helped me being who I am"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Mona Jeha Kanaan (BA 1960)"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Western

@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: cab65ffb-79d7-4705-a69b-325158a0c935
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f1f77699-bb35-4727-b463-543aab3be701
+ revised_id: 303
+ date_taken: 03-10-15
+ time_taken: 08:28:53
+ time_zone: EEST
+ created_by: 21
+ latitude: 33.89533612
+ longitude: 35.53989456
+
+ languages:  Arabic
+  dominant_language:  Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: "unilingual,cultural reference"
+ general_context: Advertising
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "الكل اتّفقوا على رئيس "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "#صعبةـ تتصدّق"
+      Script: Arabic
+      Language: Arabic
+      Feature: Null

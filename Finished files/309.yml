@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 62889544-c0fd-466c-8365-301615806343
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=b3635eaf-87ec-46b0-9e84-8ef4feaa80d7
+ revised_id: 309
+ date_taken: 04-10-15
+ time_taken: 15:20:23
+ time_zone: EEST
+ created_by: 12
+ latitude: 33.977844
+ longitude: 35.62746321
+
+ languages: Arabic, English
+ dominant_language: Arabic
+
+ script: "Arabic, Latin "
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,literal translation,Oriental numbers"
+ general_context: Advertising
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "جوسانز، فرع الرابيع "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "منذ ٢٠١٣ "
+      Script: Arabic
+      Language: Arabic
+      Feature: Eastern
+     "Josons"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name

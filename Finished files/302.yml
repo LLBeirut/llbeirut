@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: d69afb7c-ff20-4b34-b5c6-1e9fcbc034d0
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=6cf874f8-22a0-483e-a70e-721771befe49
+ revised_id: 302
+ date_taken: 03-10-15
+ time_taken: 11:34:09
+ time_zone: EEST
+ created_by: 1
+ latitude: 33.8851547
+ longitude: 35.5191716
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,audience-specific"
+ general_context: "Advertising,Education"
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Lebanese Arabic lessons For all levels For more information call or"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "WhatsApp >>>76/722348<<<"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Western

@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 73e11577-8615-4a48-9207-f8c4f9ff90a0
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=ccfb18d4-41fd-4528-bbde-355b6b65c191
+ revised_id: 319
+ date_taken: 06-10-15
+ time_taken: 00:08:38
+ time_zone: EEST
+ created_by: 12
+ latitude: 33.89660457
+ longitude: 35.52140895
+
+ languages:  
+  dominant_language: null
+    
+ script: Arabic  
+  dominant_script: null
+    
+ Characteristics: "unilingual,humor,audience-specific" 
+ general_context: "Event,Signage" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

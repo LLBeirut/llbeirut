@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 95b4ad3c-dd8a-49c1-9dea-689b0b431fa7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=779c3f29-b685-4980-bd89-4443b9ccbad1
+ revised_id: 321
+ date_taken: 06-10-15
+ time_taken: 00:35:24
+ time_zone: EEST
+ created_by: 12
+ latitude: 33.89543544
+ longitude: 35.50289299
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Armenian " 
+  dominant_script: null
+    
+ Characteristics: "bilingual,meaning not same across langs,audience-specific,multiple scripts in total item,Oriental numbers" 
+ general_context: Graffiti 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

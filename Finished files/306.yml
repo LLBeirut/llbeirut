@@ -1,0 +1,81 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 8653b472-901c-4119-848c-08edb069ee17
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d92de2e2-b0cc-4d11-8c90-6f814fe643bd
+ revised_id: 306
+ date_taken: 03-10-15
+ time_taken: 08:44:23
+ time_zone: EEST
+ created_by: 17
+ latitude: 33.88584597
+ longitude: 35.56007001
+
+ languages: Arabic, English
+  dominant_language: Arabic
+
+ script: "Arabic ,Latin "
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,meaning not same across langs,transliteration,mixed languages,multiple scripts in total item"
+ general_context: Advertising
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "BEIT AL FANNAN ACADEMY"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "اكاديمية الفنون الجميلة "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "My Road to Fame, Apply Now"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "اول معهد فني تقني للمسرح في "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "لبنان"
+      Script: Arabic
+      Language: Null
+      Feature: Place_Name
+     "اختصاص، دورات سريعة"
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "Workshops"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "تمثيل – موسيقي – تقديم برامج – إخراج – رقص تعبيري – رسم – مكياج سينماني "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "كتابة سيناريو"
+      Script: Arabic
+      Language: Arabic
+      Feature: transliteration
+     "Fanar - St. Charbel Church Street, 01/697758 - 03/847758"
+      Script: Latin
+      Language: Null
+      Feature: Place_Name, Western

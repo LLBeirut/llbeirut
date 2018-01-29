@@ -1,0 +1,45 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True 
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: fdfaede9-a870-4713-8059-6e47a58292ee
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=c5d8962f-7db9-4b60-8d95-151e417db1f5
+ revised_id: 335
+ date_taken: 04-10-15
+ time_taken: 14:32:25
+ time_zone: EEST
+ created_by: 25
+ latitude: 33.89189766
+ longitude: 35.54332872
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: "unilingual,Oriental numbers"
+ general_context: Food/Entertainment
+ material: Overwriting
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "تأسس عام ١٩٤٨ "
+      Script: Arabic
+      Language: Arabic
+      Feature: Eastern

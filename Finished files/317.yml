@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: eb62fccb-63c8-488d-abaf-5034d30b1b93
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=403a039b-a17e-4ce1-9ec7-4a27987e9e60
+ revised_id: 317
+ date_taken: 05-10-15
+ time_taken: 23:18:55
+ time_zone: EEST
+ created_by: 13
+ latitude: 34.2494124
+ longitude: 35.66005871
+
+ languages: English, Italian
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,humor,wordplay"
+ general_context: Food/Entertainment
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Milk, Decaffeinated Coffee by, Caramel CCINO, Hot Chocolate Marshmallow, Baby CCINO Choco Caramel, Add Flavor Add Whipped Cream, Coffee With Croissant"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Café NAJJAR"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "Macchiato"
+      Script: Latin
+      Language: Italian
+      Feature: Null

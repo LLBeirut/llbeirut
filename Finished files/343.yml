@@ -1,0 +1,65 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 222792e9-b243-4d26-b7bb-e42fd764f292
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=5f91fece-9954-43aa-b854-d1cbf40aeafb
+ revised_id: 343
+ date_taken: 10-10-15
+ time_taken: 07:03:36
+ time_zone: EEST
+ created_by: 23
+ latitude: 33.82621577
+ longitude: 35.49310494
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic, Latin
+  dominant_script: Arabic
+
+ Characteristics: unilingual
+ general_context: Education
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "الافاق"
+      Script: Arabic
+      Language: Null
+      Feature: Proper_name
+     "معاهد فنية جامعية, 01/271451"
+      Script: Arabic
+      Language: Arabic
+      Feature: Western
+     "www.alafak.net"
+      Script: Latin
+      Language: Null
+      Feature: Null
+     "الأول في لبنان"
+      Script: Arabic
+      Language: Arabic
+      Feature: Place_Name
+     "(86 مرتبة أولى)"
+      Script: Arabic
+      Language: Arabic
+      Feature: Western
+     "بيروت، النبطية، صور، بنت جبيل، سحمر، الهرمل، بيت شاما "
+      Script: Arabic
+      Language: Null
+      Feature: Place_Name

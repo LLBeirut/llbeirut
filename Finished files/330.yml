@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: a7244f48-c420-4b57-b768-73ec24744ae3
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=262961db-ab1b-43de-89f4-a3c5559bc484
+ revised_id: 330
+ date_taken: 07-10-15
+ time_taken: 20:22:03
+ time_zone: EEST
+ created_by: 12
+ latitude: 33.89503915
+ longitude: 35.51742822
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: Signage
+ material:
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Keep it quiet"
+      Script: Latin
+      Language: English
+      Feature: Null
+      "The neighbors are complaining!"
+      Script: Latin
+      Language: English
+      Feature: Null

@@ -1,0 +1,61 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: dc88b842-3546-4db1-8ccb-060fb5281c40
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=87b63a22-1c63-475a-ac0d-462a1e35d250
+ revised_id: 322
+ date_taken: 06-10-15
+ time_taken: 00:39:05
+ time_zone: EEST
+ created_by: 12
+ latitude: 33.97606757
+ longitude: 35.61473105
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: Latin
+
+ Characteristics: "bilingual,meaning not same across langs,mixed languages,multiple scripts in total item,humor,Western numbers"
+ general_context: Food/Entertainment
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Top"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "وطيبين"
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "WORLD NEXT TOP MODEL 2015"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Patisserie L'abeille d'or"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "Tree Ad 01 611115"
+      Script: Latin
+      Language: Null
+      Feature: Western
