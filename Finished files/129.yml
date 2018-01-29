@@ -1,0 +1,62 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 0450cf62-96cd-4e18-888a-e7288486f299
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e722cc53-979c-4a17-b253-21c66846c51a
+ revised_id: 129
+ date_taken: 19-09-15
+ time_taken: 14:41:34
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89949849
+ longitude: 35.47981485
+
+ languages: Arabic, English
+  dominant_language: English
+
+ script: "Arabic ,Latin "
+  dominant_script: Latin
+
+ Characteristics: "meaning same across langs,meaning not same across langs,bilingual,unilingual,mixed languages,multiple scripts in total item"
+ general_context: "Signage,Education"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "دائرة التربيَة "
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence
+     "الطابق الأول "
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+      "DEPARTMENT OF EDUCATION"
+      Script: Latin
+      Language: English
+      Feature: Proper_name, Equivalence
+      "1ST FLOOR"
+      Script: Latin
+      Language: English
+      Feature: Equivalence, Western
+  Paragraph2:
+     "ENTER FOR ENGLISH LANGUAGE, RESEARCH AND TEACHING, SECOND FLOOR"
+      Script: Latin
+      Language: English
+      Feature: Null

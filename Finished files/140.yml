@@ -1,0 +1,65 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True 
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 9af08683-9c38-431d-af8d-779cca34f0f4
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=7a6f1850-6004-495e-8e5d-85f28bae9fdf
+ revised_id: 140
+ date_taken: 20-09-15
+ time_taken: 17:06:01
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.90051346
+ longitude: 35.47030519
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "meaning not same across langs,mixed languages,Western numbers"
+ general_context: Food/Entertainment
+ material: Printed
+
+
+ comments: lebanese expression wala3neee inserted jn English poster
+ comments2:
+
+ Body:
+  Paragraph1:
+     "PALACE CAFE"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "KARAOKE Night"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Wala3neee"
+      Script: Latin
+      Language: Arabic
+      Feature: Western
+     "Every Wednesday @ 10:00 PM"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "BELT IT OUT, DON'T BE SHY, WE WON'T JUDGE."
+      Script: Latin
+      Language: English
+      Feature: Null
+     "For Reservation 01-364949 03-753887"
+      Script: Latin
+      Language: English
+      Feature: Western

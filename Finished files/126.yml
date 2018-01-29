@@ -1,0 +1,45 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True 
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 3d73081f-b8bb-462f-9d63-aba60dd00077
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=4be59741-d744-4074-a5d4-08613c6c18c6
+ revised_id: 126
+ date_taken: 19-09-15
+ time_taken: 13:49:56
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.8992817
+ longitude: 35.48187789
+
+ languages: French
+  dominant_language: French
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: Frenched by definite article (le la l')
+ general_context: "Signage,Food/Entertainment"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "LE SAM'S MART"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name

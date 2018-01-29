@@ -1,0 +1,73 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 999fef52-3aa3-4187-b686-1381de6bcdcd
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=fa6eabac-f72e-42c3-a51f-630ae49b6e2c
+ revised_id: 137
+ date_taken: 20-09-15
+ time_taken: 15:53:32
+ time_zone: EEST
+ created_by: 20
+ latitude: 33.89939649
+ longitude: 35.48226505
+
+ languages: Arabic, English, Italian, French, Greek
+  dominant_language: null
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "Western numbers,transliteration,bilingual"
+ general_context: "Food/Entertainment,Signage"
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "TASTY DINNER"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Breakfast, Cheddar - 3500, Turkey - 4000, Turkey cheese - 4500, Peanut butter - 4000, Jum - 3000, Salad, Green salad - 4500, Greek salad - 5000, Orange - 5000, Caesar - 5000, Chicken caesar - 7000, Tuna pasta salad - 6500, Turkey with pineapple - 6500, Lunch, Francisco, Mexican, Chicken strips, Crispy, Chicken, Steak, Steak spicy, Shrimps, Crab, Fish fillet, Hot fish, Tuna, Hot potato, Club sandwich, Adds, Extra cheese, Cereal, White snack, Cereal snack"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Puck - 3500, Kiri - 3500, Picon - 3500, Nutella - 4000"
+      Script: Latin
+      Language: Null
+      Feature: Western
+     "Labneh - 3500, Labneh Light - 3500, Labneh Ma3ez - 4000, Halloum - 3500, Halloum Light - 4000, Kashkawen - 3500, Shelal - 3500, Belghari - 3500, Tawook, Sejek, Makanek, 2arnabit, Batenjen "
+      Script: Latin
+      Language: Arabic
+      Feature: Western
+     "Fetta - 3500"
+      Script: Latin
+      Language: Greek
+      Feature: Western
+     "Mozzarella - 3500, Martadella - 4000, Martadella cheese - 4500, Pesto - 5500, Rosto"
+      Script: Latin
+      Language: Italian
+      Feature: Western
+     "salad panache - 5500, Nicoise - 6500"
+      Script: Latin
+      Language: French
+      Feature: Western
+     "All sandwich available"
+      Script: Latin
+      Language: English
+      Feature: Null
