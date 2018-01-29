@@ -1,0 +1,45 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 6ebcb4a4-0117-4f64-8d63-c63f415fbd17
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=59578254-e0c6-49fb-80de-8749e193026d
+ revised_id: 235
+ date_taken: 23-09-15
+ time_taken: 10:03:46
+ time_zone: EEST
+ created_by: 1
+ latitude: 33.8986045
+ longitude: 35.4857668
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,usage issue"
+ general_context: Health/Beauty
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "MRI IS HERE SOON"
+      Script: Latin
+      Language: English
+      Feature: Null

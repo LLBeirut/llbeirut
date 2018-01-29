@@ -1,0 +1,45 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 979e4923-71bd-4281-80c6-793506cf5f11
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=13960dc3-2e8c-4c7d-8668-0b7efcf41797
+ revised_id: 251
+ date_taken: 24-09-15
+ time_taken: 20:37:43
+ time_zone: EEST
+ created_by: 4
+ latitude: 33.9297998
+ longitude: 35.58857475
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,transliteration"
+ general_context: "Food/Entertainment,Franchise"
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "zaatar w zeit"
+      Script: Latin
+      Language: Arabic
+      Feature: Proper_name

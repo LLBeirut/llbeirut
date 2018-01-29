@@ -1,0 +1,69 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: c1150066-4d53-4727-a4ee-a9389bc373d8
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3c3da209-0fba-47ca-a840-930b359f136e
+ revised_id: 206
+ date_taken: 21-09-15
+ time_taken: 13:10:05
+ time_zone: EEST
+ created_by: 21
+ latitude: 33.89895207
+ longitude: 35.48006779
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: Latin
+
+ Characteristics: "bilingual,audience-specific"
+ general_context: Event
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "ahla fawda"
+      Script: Latin
+      Language: Arabic
+      Feature: Proper_name, Equivalence
+     "أحلى فوضى"
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence
+     "Presents"
+      Script: Latin
+      Language: English
+      Feature: Null
+     ""Toot Toot 3a Beirut""
+      Script: Latin
+      Language: Arabic
+      Feature: Proper_name, Western
+     "Festival"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Hamra Street"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "Sunday May 31st, 2015, 10AM - 11PM"
+      Script: Latin
+      Language: English
+      Feature: Western

@@ -1,0 +1,45 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 3f918d5d-c23a-4737-be1f-e7752017ef8c
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f019e758-690b-40ee-8640-f79e21e9e1b4
+ revised_id: 209
+ date_taken: 21-09-15
+ time_taken: 00:31:56
+ time_zone: EEST
+ created_by: 12
+ latitude: 33.55582277
+ longitude: 35.37573114
+
+ languages: English
+  dominant_language:  English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,misspelling"
+ general_context: Vehicle
+ material: Overwriting
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "AMBALANCE"
+      Script: Latin
+      Language: English
+      Feature: Null

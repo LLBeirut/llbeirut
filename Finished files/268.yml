@@ -1,0 +1,73 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 27ff983b-20ff-46b9-bf64-24e87aa9c23b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=06a22ea3-4c8b-4ce8-b3eb-8883efa71103
+ revised_id: 268
+ date_taken: 22-09-15
+ time_taken: 22:15:30
+ time_zone: EEST
+ created_by: 25
+ latitude: 33.90322031
+ longitude: 35.4950099
+
+ languages:  Arabic, English
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: null
+
+ Characteristics: "bilingual,meaning same across langs"
+ general_context: Signage
+ material: Traffic
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "ممنوع السباحة "
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "No Swimming"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+     "ممنوع العطس "
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "No Diving"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+     "ممنوع الصيد "
+     Script: Arabic
+     Language: Arabic
+     Feature: Equivalence
+     "No Fishing"
+     Script: Latin
+     Language: English
+     Feature: Equivalence
+     "السرعة القصوى ٢ عقدة داخل المرفأ"
+     Script: Arabic
+     Language: Arabic
+     Feature: Equivalence
+     "Maximum speed is 2 knots inside the marina"
+     Script: Latin
+     Language: English
+     Feature: Equivalence

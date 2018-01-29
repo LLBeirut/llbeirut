@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: d6d5d84c-af9e-4bc2-a149-7e9d85bf5fa7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=887843ed-6230-441d-9374-5b22a429cc03
+ revised_id: 243
+ date_taken: 24-09-15
+ time_taken: 13:36:50
+ time_zone: EEST
+ created_by: 20
+ latitude: 33.888667
+ longitude: 35.495468
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: "unilingual,bilingual,Frenched by definite article (le la l')" 
+ general_context: Food/Entertainment 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

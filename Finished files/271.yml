@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: b2faf0f3-faac-48f8-a0f2-7d08c499a64a
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=6fa66e9f-793a-44b3-ad85-84177d45289c
+ revised_id: 271
+ date_taken: 28-09-15
+ time_taken: 01:23:36
+ time_zone: EEST
+ created_by: 20
+ latitude: 33.898111
+ longitude: 35.481596
+
+ languages:  English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,usage issue"
+ general_context: "Signage,Health/Beauty"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Arabelle"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "HAIR SHOP"
+      Script: Latin
+      Language: English
+      Feature: Null

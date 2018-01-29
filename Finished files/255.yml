@@ -1,0 +1,73 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: eee3080e-1fe5-436d-ab8d-a6f439a7a71c
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=a6c072c6-3646-453a-b581-c478afa93aab
+ revised_id: 255
+ date_taken: 25-09-15
+ time_taken: 08:55:14
+ time_zone: EEST
+ created_by: 21
+ latitude: 33.91178334
+ longitude: 35.58086213
+
+ languages: Arabic, English, German, Norwegian, French, Swedish, Danish
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: Latin
+
+ Characteristics: "trilingual,mixed languages"
+ general_context: "Food/Entertainment,Merchandise"
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Jabal El Sheikh"
+      Script: Latin
+      Language: Arabic
+      Feature: Proper_name, Equivalence
+     "عسل"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "جبل الشيخ "
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence
+     "Honey"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+      "Miel"
+      Script: Latin
+      Language: French
+      Feature: Equivalence
+      "Honig"
+      Script: Latin
+      Language: German
+      Feature: Equivalence
+      "Honung"
+      Script: Latin
+      Language: Swedish
+      Feature: Equivalence
+      "Honning"
+      Script: Latin
+      Language: Danish/Norwegian
+      Feature: Equivalence

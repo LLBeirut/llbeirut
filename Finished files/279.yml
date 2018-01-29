@@ -1,0 +1,78 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: false
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: cff5a4a3-2856-4718-bfe8-169e5b262f93
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f006e179-50ac-4ac6-b15b-bd045a77748f
+ revised_id: 279
+ date_taken: 24-09-15
+ time_taken: 21:25:12
+ time_zone: EEST
+ created_by: 22
+ latitude: 33.85408421
+ longitude: 35.50682846
+
+ languages:  Arabic, English
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,meaning not same across langs,transliteration,audience-specific,mixed languages,multiple scripts in total item,Western numbers"
+ general_context: "Signage,Services,Health/Beauty"
+ material: Signage
+
+
+ comments: "It's interesting how their name is in English, yet the services they offer are all in Arabic, except for Botox and fillers. "
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Active Clinic"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "علاج تجميلي – إزالة الشعر بالليزر – عناية بالوجه "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "تنحيف وتذويب الدهون "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "Botox - Fillers - "
+      Script: Latin
+      Language: English
+      Feature: Null
+     "الطابق الخامس  76/764637 "
+      Script: Arabic
+      Language: Arabic
+      Feature: Western
+    Paragraph2:
+     "BIOMEDICA LAB"
+      Script: Latin
+      Langauge: English
+      Feature: Proper_name
+     "مختبرات للتحاليل الطبية "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "01/549718 - 03/701799"
+      Script:
+      Language: Null
+      Feature: Western
+     "الطابق الثالث "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null 

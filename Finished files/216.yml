@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: a678349a-bd15-46f7-a12d-64427434159c
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e954dddf-1df4-4990-b7ee-ae5bafaf3428
+ revised_id: 216
+ date_taken: 22-09-15
+ time_taken: 10:32:37
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89029873
+ longitude: 35.50753439
+
+ languages: French
+  dominant_language: French
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: "Advertising,Housing"
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "FOYER POUR JEUNES FILLES"
+      Script: Latin
+      Language: French
+      Feature: Null
+     "RUE HUVELIN"
+      Script: Latin
+      Language: French
+      Feature: Place_Name
+     "Face A L'USJ"
+      Script: Latin
+      Language: French
+      Feature: Proper_name
+     "TEL : 03/833686"
+      Script: Latin
+      Language: Null
+      Feature: Western

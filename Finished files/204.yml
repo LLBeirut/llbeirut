@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True 
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 51b390f7-88c6-4be2-9a64-06596b1b2358
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e35d5769-077f-47b9-947b-880f4c7a85e7
+ revised_id: 204
+ date_taken: 21-09-15
+ time_taken: 16:48:45
+ time_zone: EEST
+ created_by: 7
+ latitude: 33.89131765
+ longitude: 35.67072361
+
+ languages: English
+  dominant_language: English
+
+ script: "Arabic ,Latin "
+  dominant_script: null
+
+ Characteristics: "unilingual,meaning same across langs,transliteration,multiple scripts in total item"
+ general_context: "Signage,Merchandise"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "SUPERMARKET ABOU JAOUDE"
+      Script: Latin
+      Language: English
+      Feature: Proper_name, Equivalence
+     "سوبرماركت أبو جوده"
+      Script: Arabic
+      Language: English
+      Feature: Proper_name, Equivalence

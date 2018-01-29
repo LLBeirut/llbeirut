@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 54942bda-b4df-40b5-96db-22791de22e79
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e25575c2-9fda-4205-b99e-f56d4b994727
+ revised_id: 282
+ date_taken: 28-09-15
+ time_taken: 16:00:29
+ time_zone: EEST
+ created_by: 12
+ latitude: 33.89772024
+ longitude: 35.53420208
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "trilingual,meaning not same across langs,mixed languages,multiple scripts in total item,Western numbers,Oriental numbers" 
+ general_context: Event 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

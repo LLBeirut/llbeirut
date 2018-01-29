@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 5b42db3f-a866-4ab8-9d90-2c1be55fdde9
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=46d67241-952c-44b8-b28f-7bdaf72b8519
+ revised_id: 222
+ date_taken: 22-09-15
+ time_taken: 18:28:43
+ time_zone: EEST
+ created_by: 7
+ latitude: 33.89787968
+ longitude: 35.48143873
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: "Latin ,Arabic "
+  dominant_script: null
+
+ Characteristics: "unilingual,meaning same across langs,transliteration,multiple scripts in total item"
+ general_context: "Signage,Advertising"
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "الإرشاد والإصلاح"
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence
+     "IRSHAD & ISLAH"
+      Script: Latin
+      Language: English
+      Feature: Proper_name, Equivalence

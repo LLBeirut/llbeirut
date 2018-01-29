@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 3c22cba1-2ff9-4e2b-bfeb-c341650efacd
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=8d735075-f2ee-4033-b6ed-a5d200aacf47
+ revised_id: 261
+ date_taken: 25-09-15
+ time_taken: 09:00:34
+ time_zone: EEST
+ created_by: 21
+ latitude: 33.91285757
+ longitude: 35.59399355
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,audience-specific,Western numbers"
+ general_context: Food/Entertainment
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Prince"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "SoujoK & MaKaneK"
+      Script: Latin
+      Language: Arabic
+      Feature: Null
+     "03/160036"
+      Script: Latin
+      Language: Null
+      Feature: Western

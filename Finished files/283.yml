@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: f2f7459a-9258-48bc-b05d-41b5b862e62b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f27226a3-0990-4940-96cb-8ebcc38c6eaf
+ revised_id: 283
+ date_taken: 28-09-15
+ time_taken: 16:50:00
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89758031
+ longitude: 35.47848392
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: null
+
+ Characteristics: "meaning not same across langs,bilingual,multiple scripts in total item,Western numbers"
+ general_context: "Health/Beauty,Event,Advertising"
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "الصيدلي :شريكك في الصحة "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "WORLD PHARMACISTS DAY, 25 September"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "fip"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "ADVANCING PHARMACY WORLDWIDE"
+      Script: Latin
+      Language: English
+      Feature: Null

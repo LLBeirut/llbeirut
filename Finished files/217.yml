@@ -1,0 +1,61 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: false
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 855e93fe-ea49-42ce-975a-e9fd3495c41c
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=70966aa3-26bc-418a-b821-ed0443847e43
+ revised_id: 217
+ date_taken: 22-09-15
+ time_taken: 11:13:19
+ time_zone: EEST
+ created_by: 13
+ latitude: 33.90014457
+ longitude: 35.48225051
+
+ languages: Arabic, English, French
+  dominant_language: null
+
+ script: "Latin ,Arabic "
+  dominant_script: Latin
+
+ Characteristics: "bilingual,literal translation"
+ general_context: "Event,Advertising"
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "The 1990s -"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "JAYCE SALLOUM:"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "THERE WAS AND THERE WAS NOT"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+     "كان يا ما كان"
+      Script: Latin
+      Language: Arabic
+      Feature: Equivalence
+     "Insert text here"
+      Script:
+      Language:
+      Feature:

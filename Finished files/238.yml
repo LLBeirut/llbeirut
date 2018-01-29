@@ -1,0 +1,83 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 025c394f-60bf-40af-ab86-641d01cfcc71
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=484993e0-2bac-4d18-881f-db8e70a34cfb
+ revised_id: 238
+ date_taken: 22-09-15
+ time_taken: 20:24:22
+ time_zone: EEST
+ created_by: 7
+ latitude: 33.89494695
+ longitude: 35.49504225
+
+ languages: Arabic, English, French
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: null
+
+ Characteristics: trilingual
+ general_context: Signage
+ material: Printed, Signage
+
+
+ comments: Small no smoking sign on top in English (not very clear on the picture)
+ comments2:
+
+ Body:
+  Paragraph1:
+     "NO SMOKING"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+     "Smoking in this place is against the law 174 Penalty (Min 135,000 L.L.)"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+     "ممنوع التدخين "
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "التدخين في هذا المكان مخالف للقانون ١٧٤ ويعرضك للغرامة المالية (أقلها ١٣٥٠٠٠ل.ل)"
+      Script: Arabic
+      Language: Arabic
+      Feature: Eastern, Equivalence
+  Paragraph2:
+     "التجهيز "
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "Equipement"
+      Script: Latin
+      Language: French
+      Feature: Equivalence
+     "اللوجستية "
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "Logistique"
+      Script: Latin
+      Language: French
+      Feature: Equivalence
+Paragraph3:
+     "الصليب الأحمر اللبناني "
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence
+     "Croix Rouge Libanaise"
+      Script: Latin
+      Language: French
+      Feature: Proper_name, Equivalence

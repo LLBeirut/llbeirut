@@ -1,0 +1,61 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 0c756581-722f-4b28-9d9a-e36ca5fdee3d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=c1684fc9-4466-4614-80c2-382a2ef58238
+ revised_id: 263
+ date_taken: 26-09-15
+ time_taken: 21:53:48
+ time_zone: EEST
+ created_by: 21
+ latitude: 33.89534293
+ longitude: 35.48346864
+
+ languages:  Arabic, English
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: null
+
+ Characteristics: "bilingual,mixed languages"
+ general_context: Food/Entertainment
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "بيروت"
+      Script: Arabic
+      Language: Null
+      Feature: Place_Name, Equivalence
+     "زوايا "
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence
+     "Beirut"
+      Script: Latin
+      Language: Null
+      Feature: Place_Name, Equivalence
+     "ZAWAYA"
+      Script: Latin
+      Language: Arabic
+      Feature: Proper_name, Equivalence
+      "Cafe & Restaurant"
+      Script: Latin
+      Language: English
+      Feature: Null

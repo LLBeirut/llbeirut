@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 5c6f8664-a48f-49f6-9648-fb0a7821848d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=102d806d-82c7-4ea1-ad81-35bd2040b0bb
+ revised_id: 240
+ date_taken: 23-09-15
+ time_taken: 19:54:06
+ time_zone: EEST
+ created_by: 21
+ latitude: 33.89747269
+ longitude: 35.50794434
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,Western numbers"
+ general_context: Food/Entertainment
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "BeSivere"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "WILL GIVE YOU 10% discount IF YOU LEAVE YOUR PHONE in our custody & SOCIALIZE"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Like & Follow us (after getting your phone back)"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Join The Circle"
+      Script: Latin
+      Language: English
+      Feature: Null
