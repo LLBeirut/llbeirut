@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 2291ac6b-0468-48bf-96aa-505512c299a2
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=24a7d17e-1fcd-4fb2-8b61-e7b404aced78
+ revised_id: 513
+ date_taken: 07-11-15
+ time_taken: 15:47:27
+ time_zone: EET
+ created_by: 1
+ latitude: 33.8848297
+ longitude: 35.5223271
+
+ languages:  
+  dominant_language: null
+    
+ script: Latin  
+  dominant_script: null
+    
+ Characteristics: unilingual 
+ general_context: "Signage,Advertising,Housing" 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
