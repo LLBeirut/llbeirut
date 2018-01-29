@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: b7735bab-2a61-48e5-8503-fa205afb6305
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f72fa1d7-8a66-4c09-b991-610c153562b7
+ revised_id: 101
+ date_taken: 17-09-15
+ time_taken: 08:41:31
+ time_zone: EEST
+ created_by: 7
+ latitude: 33.89866759
+ longitude: 35.49559772
+
+ languages: Arabic, French
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: null
+
+ Characteristics: "bilingual,meaning same across langs,transliteration,mixed languages,multiple scripts in total item"
+ general_context: Signage
+ material: Traffic
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "جادة الرئيس سليمان فرنجية "
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "Boulevard du Président Sleiman Frangie"
+      Script: Latin
+      Language: French
+      Feature: Equivalence

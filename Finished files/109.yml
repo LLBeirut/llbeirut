@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True 
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 93b3a486-4e08-4a7e-a1ad-359da1c3e011
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=0f438b1a-bf95-4707-8a32-9f790fd92c51
+ revised_id: 109
+ date_taken: 18-09-15
+ time_taken: 07:25:33
+ time_zone: EEST
+ created_by: 13
+ latitude: 33.90003348
+ longitude: 35.48953026
+
+ languages: French
+  dominant_language: null
+
+ script: Latin
+  dominant_script: null
+
+ Characteristics: bilingual
+ general_context: "Advertising,Health/Beauty"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Salon Samir Style"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "pour Femmes"
+      Script: Latin
+      Language: French
+      Feature: Null

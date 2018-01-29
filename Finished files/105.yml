@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True 
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 392e362f-8660-40bc-b2f2-b64dd0923c64
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=dedd4855-6886-4559-a713-1c57e4b651f8
+ revised_id: 105
+ date_taken: 16-09-15
+ time_taken: 20:01:30
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89274855
+ longitude: 35.48663664
+
+ languages: English, French
+  dominant_language: null
+
+ script: Latin
+  dominant_script: null
+
+ Characteristics: "mixed languages,usage issue,misspelling"
+ general_context: Food/Entertainment
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Dip 'n Cruch'"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "Ice Cream"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Choclate Vanille"
+      Script: Latin
+      Language: French
+      Feature: Null

@@ -1,0 +1,45 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 00694cc3-8432-435e-a391-452fb98a6f02
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=25b5e3a0-ea2f-48fe-bc78-41f28427e922
+ revised_id: 116
+ date_taken: 17-09-15
+ time_taken: 18:54:35
+ time_zone: EEST
+ created_by: 5
+ latitude: 33.89550675
+ longitude: 35.54325103
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: Signage
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "BIG SALE"
+      Script: Latin
+      Language: English
+      Feature: Null
