@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 52a4b147-8897-45d1-b08b-bfc5c3f24468
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=8eb814ec-3e91-4724-a3d2-34aab1a427f9
+ revised_id: 54
+ date_taken: 11-09-15
+ time_taken: 16:36:11
+ time_zone: EEST
+ created_by: 6
+ latitude: 33.89097003
+ longitude: 35.52096035
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: null
+
+ Characteristics: "bilingual,meaning not same across langs,humor,wordplay,Western numbers"
+ general_context: "Food/Entertainment,Advertising"
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "مَشرِما معنا"
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name
+     "Mushroom & Swiss, 7,000 L.L."
+      Script: Latin
+      Language: English
+      Feature: Western

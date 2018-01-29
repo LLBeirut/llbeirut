@@ -1,0 +1,45 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 3f72cf52-562f-4693-8e92-d1e9fb725508
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=be62c6f7-8383-4c62-bf0a-4ff71691b806
+ revised_id: 51
+ date_taken: 11-09-15
+ time_taken: 22:42:05
+ time_zone: EEST
+ created_by: 7
+ latitude: 33.98042705
+ longitude: 35.61511461
+
+ languages:  Arabic
+  dominant_language: Arabic
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,transliteration"
+ general_context: Food/Entertainment
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Zaatar w Zeit"
+      Script: Latin
+      Language: Arabic
+      Feature: Proper_name

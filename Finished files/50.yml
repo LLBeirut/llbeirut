@@ -1,0 +1,61 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True 
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 39b7be85-39be-4015-927d-91315f3bbe76
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=cc999d29-b924-43ed-989d-eb156083c3ba
+ revised_id: 50
+ date_taken: 11-09-15
+ time_taken: 22:32:54
+ time_zone: EEST
+ created_by: 7
+ latitude: 33.98050406
+ longitude: 35.61524738
+
+ languages:  English, Arabic
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: null
+
+ Characteristics: "bilingual,meaning same across langs,mixed languages,Western numbers,Oriental numbers"
+ general_context: Signage
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "No Smoking"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+     "ممنوع التدخين"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "التدخين في هذا المكان مخالف للقانون ١٧٤ ويعّرضك للغرامة المالية (اقلهـّا...،١٣٥ ل.ل)"
+      Script: Arabic
+      Language: Arabic
+      Feature: Eastern, Equivalence
+     "Smoking in this premises is prohibited by the law under the article 174, which will be reinforced by a minimum fine of 135 000 LL."
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+      "Zaatar w Zeit"
+      Script: Latin
+      Language: Arabic
+      Feature: Proper_name
