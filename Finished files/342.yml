@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: a3ca241e-8efe-48b6-a89d-07764aae9075
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3067ec34-dede-41ca-925d-7ac73a3ba8fd
+ revised_id: 342
+ date_taken: 08-10-15
+ time_taken: 07:08:32
+ time_zone: EEST
+ created_by: 23
+ latitude: 33.85083865
+ longitude: 35.51573717
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: bilingual 
+ general_context: Education 
+ material:
+    
+    
+ comments: "Usage of English language was limited to the name of college, address, and the frequent term 'apply now'. However, the advertisement was in Arabic. "
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
