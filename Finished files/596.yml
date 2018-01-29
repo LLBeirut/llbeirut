@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True 
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 4abd11a4-211b-48ee-a6d2-09ea68300e83
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=6236829f-ec87-45cf-be09-3a661a51b25e
+ revised_id: 596
+ date_taken: 16-11-15
+ time_taken: 09:14:01
+ time_zone: EET
+ created_by: 13
+ latitude: 33.89671185
+ longitude: 35.47958066
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: null
+
+ Characteristics: "literal translation,bilingual"
+ general_context: Services
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "DANI WOOL"
+      Script: Latin
+      Language: English
+      Feature: Proper_name, Equivalence
+     "اصواف داني"
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence

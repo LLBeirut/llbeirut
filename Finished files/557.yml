@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: ec8b849c-70b8-4257-b71b-5c9bc8df0857
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=99c3913b-ff99-42b7-bac4-cdf463115e75
+ revised_id: 557
+ date_taken: 05-11-15
+ time_taken: 21:30:18
+ time_zone: EET
+ created_by: 5
+ latitude: 33.89942581
+ longitude: 35.48062694
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: Merchandise
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "NEW SUITCASES BUT VINTAGE"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "(40 YEARS OLD)"
+      Script: Latin
+      Language: English
+      Feature: Western

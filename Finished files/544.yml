@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 102cad3a-ac5f-4223-9486-725c6660bba9
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=910cb7bd-53c7-43ed-a102-2bf90a162dd2
+ revised_id: 544
+ date_taken: 15-09-15
+ time_taken: 11:22:47
+ time_zone: EEST
+ created_by: 22
+ latitude: 33.89872551
+ longitude: 35.47794661
+
+ languages: Arabic, French
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: null
+
+ Characteristics: "bilingual,meaning same across langs,audience-specific,multiple scripts in total item,literal translation"
+ general_context: Signage
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "مسجد الداعوق "
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence
+     "Mosquée Daouq"
+      Script: Latin
+      Language: French
+      Feature: Proper_name, Equivalence

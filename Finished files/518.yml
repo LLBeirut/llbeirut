@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 45bfdfbe-6613-41d5-89e6-6abe375d013f
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=feeb3cd4-8f35-43f0-8821-6e0a64c93ef9
+ revised_id: 518
+ date_taken: 07-11-15
+ time_taken: 16:01:29
+ time_zone: EET
+ created_by: 1
+ latitude: 33.884999
+ longitude: 35.5207578
+
+ languages:  Arabic
+  dominant_language: Arabic
+
+ script: "Arabic ,Latin "
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,meaning same across langs,Western numbers,Oriental numbers"
+ general_context: "Signage,Advertising,Housing"
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+      " Vشقة – طابق "
+      Script: Arabic
+      Language: Arabic
+      Feature: Western
+     "برسم الإيجًار اول"
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "A LOUER 03-60 80 47"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Western

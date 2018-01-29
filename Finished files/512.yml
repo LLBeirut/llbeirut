@@ -1,0 +1,82 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 407fc511-2689-46ba-bc1d-ba3013483e32
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=7f6b9da3-a54e-47ff-a6ac-2a94319e75e2
+ revised_id: 512
+ date_taken: 07-11-15
+ time_taken: 10:11:52
+ time_zone: EET
+ created_by: 20
+ latitude: 33.89940877
+ longitude: 35.48099929
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: null
+
+ Characteristics: "bilingual,meaning same across langs,Western numbers"
+ general_context: "Advertising,Housing"
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "للايجاز"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "شقة مفروشة 120 م2   قرب مدخل "
+      Script: Arabic
+      Language: Arabic
+      Feature: Western, Equivalence
+      "AUB"
+      Script: Latin
+      Language: Null
+      Feature: Equivalence
+     "تبعد 10 امتاز من شارع بلس "
+      Script: Arabic
+      Language: Arabic
+      Feature: Western, Equivalence, Proper_name
+     "هاتف 03/316312"
+      Script: Arabic
+      Language: Arabic
+      Feature: Western, Equivalence
+  Paragraph2:
+      "FOR RENT"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+      "Furnished Apartment 120 m2 "
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+      "Near main gate AUB"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+      "10 m from Bliss Street"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence, Proper_name
+     "Phone: 03/316312"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence,

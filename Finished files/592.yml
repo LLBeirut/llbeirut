@@ -1,0 +1,65 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 51de3c36-8e3c-4e26-b9c9-abb2ada7e962
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=a385d1fd-d257-4462-b171-b1953609e6f0
+ revised_id: 592
+ date_taken: 15-11-15
+ time_taken: 20:26:08
+ time_zone: EET
+ created_by: 21
+ latitude: 33.9198145
+ longitude: 35.61770394
+
+ languages: Arabic, English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,meaning not same across langs,mixed languages,Western numbers"
+ general_context: "Food/Entertainment,Advertising"
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "ABUL 3EZZ"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Western
+     "GRILL"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Bringing back good taste"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Shawerma "Arabi""
+      Script: Latin
+      Language: Arabic
+      Feature: Null
+     "Wavies + Salad + Drink"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Mtayleb main road - Rockland center, 04-928 518, 70-833 877"
+      Script: Latin
+      Language: Arabic, English
+      Feature: Western

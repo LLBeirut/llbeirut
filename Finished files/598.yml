@@ -1,0 +1,45 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 0f5778c0-3109-4699-ba11-49ee705c9ecb
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=be69cae0-1826-4f6c-9747-7ed58784d0fc
+ revised_id: 598
+ date_taken: 16-11-15
+ time_taken: 09:12:47
+ time_zone: EET
+ created_by: 13
+ latitude: 33.9002281
+ longitude: 35.48943358
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,humor"
+ general_context: Services
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Phone Me"
+      Script: Latin
+      Language: English
+      Feature: Proper_name

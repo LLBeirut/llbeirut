@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 1014e50d-802d-4fc1-afba-3e77275eff9b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=8fe5df53-3f90-4249-b1c3-c15d4c074912
+ revised_id: 519
+ date_taken: 07-11-15
+ time_taken: 16:04:59
+ time_zone: EET
+ created_by: 1
+ latitude: 33.8849388
+ longitude: 35.5211338
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,Western numbers"
+ general_context: "Signage,Food/Entertainment,Advertising,Services"
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Spark's balloons"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "Koraltem - 01 86 11 86, Achrafieh - 01 20 52 00"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Western
+     "www.sparksballoons.com"
+      Script: Latin
+      Language: Null
+      Feature: Null
+     "Welcome"
+      Script: Latin
+      Language: English
+      Feature: Null

@@ -1,0 +1,61 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: ab1ade7d-8c63-438d-8361-5f8100961aff
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=224f23e5-cf24-4719-a7a9-ed85ff3a143a
+ revised_id: 522
+ date_taken: 07-11-15
+ time_taken: 16:16:20
+ time_zone: EET
+ created_by: 1
+ latitude: 33.8849524
+ longitude: 35.5213844
+
+ languages:  English, French
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: Latin
+
+ Characteristics: "trilingual,meaning not same across langs,multiple scripts in total item,calligraphy"
+ general_context: "Signage,Food/Entertainment,Advertising,Health/Beauty,Franchise"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "البرج الأبيَض "
+      Script: Arabic
+      Language: Null
+      Feature: Proper_name, Equivalence
+     "WHITE TOWER"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Equivalence
+     "ANTENNE PLUS - 37-67 UHF, 10, J. EL-HACHEM, Dr. GEORGES TASRINI,9, Dr.FADY SALHANY, 8, MYI McLARENS YOUNG INTERNATIONAL GLOBAL CLAIMS SERVICES, 7, SITRAM CONSULTANTS, ETUDES & CONSEILS, ELECTEL S.A.R.L., 6, RAYMOND M. RIZK, Dr. GEORGE J. FRAYHA, 5, Dr. GEORGE J. FRAYHA, Dr, ANTOINE F. SAADE, 4, Dr.PIERRE ERNEST MAJDALANI, Dr. CESAR H. KAYEM, 3, Dr. SAMIR W. SALAMEH, R.J. SROUR & CO. LTD, 2, CONSTRUCTION & DEVELOPMENT CO. LTD. CONDEC - RAMZI SHAMI, Genimex SARL, 1 "
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Western
+     "Chirugie bucco-dentaire, GYNECOLOGUE, PHYSIUTHERAPIE, ENDERMUILOGIE, ORTHODONTISTE, PEDIATRIE-PNEUMOLOGIE PEDIATRQUE"
+      Script: Latin
+      Language: French
+      Feature: transliteration
+     "TRANSPORT & INFRASTRUCTURES, ENGINEERING COMPANY, SURVEYORS"
+      Script: Latin
+      Language: English
+      Feature: Null

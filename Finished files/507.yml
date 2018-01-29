@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 284204d4-4008-41aa-9216-85f5e4204032
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=19010ff4-eecf-4843-b846-34a16bef018c
+ revised_id: 507
+ date_taken: 06-11-15
+ time_taken: 18:35:59
+ time_zone: EET
+ created_by: 26
+ latitude: 33.96303064
+ longitude: 35.61241999
+
+ languages:  French
+  dominant_language: French
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,meaning not same across langs,audience-specific,multiple scripts in total item,usage issue"
+ general_context:  Bookstore
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "LIBRAIRIE BOOKMARK"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "50 ans dans le domaine du livre"
+      Script: Latin
+      Language: French
+      Feature: Western
+     "Livres scolaires, Material d'architecture et artistique, Fournitures, Printing, Recharge cellelaire et internet"
+      Script: Latin
+      Language: French
+      Feature: transliteration

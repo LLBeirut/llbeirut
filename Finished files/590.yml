@@ -1,0 +1,61 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 7bfedb9b-1ef5-422c-8472-09855c810737
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=3c220964-030b-43b7-a600-f4f554ab8417
+ revised_id: 590
+ date_taken: 14-11-15
+ time_taken: 11:24:42
+ time_zone: EET
+ created_by: 13
+ latitude: 33.89663741
+ longitude: 35.53917984
+
+ languages: Arabic, English, French
+  dominant_language: English
+
+ script: "Latin ,Arabic "
+  dominant_script: Latin
+
+ Characteristics: "trilingual,Western numbers"
+ general_context: "Advertising,Services"
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "من عيلة لعيلة"
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "GIVE YOUR CLOTHES & SHOES FOR HOMELESS PEOPLE IN LEBANON"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "13 & 14 NOVEMBER, 2015"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "BETWEEN 8AM & 7PM"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "FORUM DE BEYROUTH"
+      Script: Latin
+      Language: French
+      Feature: Proper_name

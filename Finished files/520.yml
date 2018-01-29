@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: b24fad59-6667-42a4-b6a1-821b4f16af27
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=aa5eb6c8-92b8-4afb-9b39-d892fb232e7d
+ revised_id: 520
+ date_taken: 07-11-15
+ time_taken: 16:09:14
+ time_zone: EET
+ created_by: 1
+ latitude: 33.8849388
+ longitude: 35.5211338
+
+ languages: Arabic, English, French
+  dominant_language: null
+
+ script: "Arabic ,Latin "
+  dominant_script: null
+
+ Characteristics: "trilingual,meaning not same across langs,multiple scripts in total item,calligraphy,Frenched by definite article (le la l'),business name in French"
+ general_context: "Signage,Food/Entertainment,Advertising"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Le Merou Fish Market"
+      Script: Latin
+      Language: French, English
+      Feature: Proper_name, Equivalence
+     "مسمكة الميرو "
+      Script: Arabic
+      Language: Arabic
+      Feature: Proper_name, Equivalence

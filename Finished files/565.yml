@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: ef700f3d-d4e6-49da-8df9-f2eb46769797
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=09189221-77fc-46fd-aefd-fbfe92af2d71
+ revised_id: 565
+ date_taken: 11-11-15
+ time_taken: 07:21:09
+ time_zone: EET
+ created_by: 17
+ latitude: 33.89034557
+ longitude: 35.5553473
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: "Arabic ,Latin "
+  dominant_script: Arabic
+
+ Characteristics: "transliteration,multiple scripts in total item"
+ general_context: Food/Entertainment
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "قصر حلو عبد الرحمن الحلاب "
+      Script: Arabic
+      Language: Null
+      Feature: Proper_name, Equivalence
+     "Kasr Helou Abdul Rahman Hallab"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Equivalence
+     "قصر الحلو أصل الحلو "
+      Script: Arabic
+      Language: Arabic
+      Feature: Null
+     "LE RESEAU, 01 611115"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name, Western

@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 75949edd-c912-40d2-b2c5-518af84a81de
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=5aa1a0c9-223c-4640-bf3a-ea740ec10d12
+ revised_id: 588
+ date_taken: 14-11-15
+ time_taken: 11:24:24
+ time_zone: EET
+ created_by: 13
+ latitude: 33.89595257
+ longitude: 35.54187136
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "wordplay,audience-specific,humor"
+ general_context: Advertising
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "SPECTRE 007"
+      Script: Latin
+      Language: NULL
+      Feature: Proper_name
+     "EXCELLENT CHOICE, MR. BOND"
+      Script: Latin
+      Language: English
+      Feature: Proper_name
+     "KNOW THE DIFFERENCE"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "PIKASSO"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name

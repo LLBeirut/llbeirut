@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: f0292afc-a5ac-47ee-8186-2f94b48e50e7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=77f94773-fba1-4c07-b8e0-417ee30c3f53
+ revised_id: 523
+ date_taken: 07-11-15
+ time_taken: 10:10:31
+ time_zone: EET
+ created_by: 4
+ latitude: 33.89965954
+ longitude: 35.48163517
+
+ languages: Arabic, English
+  dominant_language: Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,transliteration,calligraphy"
+ general_context: Publication
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "أوتلوك"
+      Script: Arabic
+      Language: English
+      Feature: Proper_name, transliteration
+     "الجريدة الطلابية المستقلة منذ العام ١٩٤٩"
+      Script: Arabic
+      Language: Arabic
+      Feature: Eastern

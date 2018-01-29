@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: a2e30f13-fbd6-497c-b18e-874db999f3eb
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=6a5869c5-99c7-4ff9-9419-7f7845e57289
+ revised_id: 511
+ date_taken: 07-11-15
+ time_taken: 09:46:28
+ time_zone: EET
+ created_by: 20
+ latitude: 33.88608081
+ longitude: 35.50905459
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,multiple scripts in total item,transliteration,misspelling"
+ general_context: Food/Entertainment
+ material: Printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Ka3ek 3asrounyeh, ka3ke Seda - 1500 LL, Ka3ket Akkawi - 5000 LL, Ka3ket Kashwaken - 5000 LL, Ka3ket Akkawi w Kashkawen - 6000 LL, Ka3ket Picon - 3000 LL, Ka3ket Labneh - 4000 LL, Ka3ket 3 Cheese - 6000 LL, Ka3ket Chocolat w Moz - 400 LL, Mou3ajanet, Sabenegh Kbire - 2000 LL, Soujouk, Mana2ish Cocktails"
+      Script: Latin
+      Language: Arabic
+      Feature: Western, transliteration
+     "A Dozen Of Sabenegh - 7000 LL, A Dozen Of Sfiha - 7000 LL, A Dozen Of Pizza - 9000 LL, A Dozen Of Cheese Sticks - 8000 LL, A Dozen Of Meat Sticks - 8000 LL, A Dozen Of Greek Sabanegh - 8000 LL, A Pizza Traboulsieh - 3000 LL, A Meat Traboulsieh - 3000 LL, Vegetable Plate, Small - 2000 LL, Medium - 3000 LL, Large - 5000 LL, Pizza, Cheese & Sauce, Vegetarian, Turkey , Chicken, Pepperoni, Zaatar & Cheese, Zaatar & Labneh, Labneh & Kawerma, Cheese & Kawerma, Eggs & Kawerma, Cheese, Eggs & Kawerma, Cheese, Eggs & Soujouk, Turkey & Cheese, Soujouk & Cheese, Kafta & Cheese, Meat & Cheese, Keshek & Cheese, Tomato, Ognion & Cheese, Mortadella & Cheese, Smocked Turkey & Cheese"
+      Script: Latin
+      Language: English
+      Feature: Western, transliteration

@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: True
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: KM
+
+ Fulcrum_id: 34afbc4d-f69f-4c6a-b787-42cc6dbafee6
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=36a1a8d4-8acf-47dd-bac9-f0d018f7face
+ revised_id: 573
+ date_taken: 11-11-15
+ time_taken: 10:28:50
+ time_zone: EET
+ created_by: 21
+ latitude: 33.91051257
+ longitude: 35.58304737
+
+ languages: English
+  dominant_language:  English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,Western numbers"
+ general_context: Food/Entertainment
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "coffee club Resto-Cafe"
+      Script: Latin
+      Language: Null
+      Feature: Proper_name
+     "Full Breakfast, Int'l & Leb. Cuisine"
+      Script: Latin
+      Language: English
+      Feature: Null
+     "Free Delivery, 04/406606 - 70/336606"
+      Script: Latin
+      Language: English
+      Feature: Western
