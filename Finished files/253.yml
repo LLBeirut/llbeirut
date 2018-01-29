@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+    
+   
+header:
+    
+ complete: false
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: 61ee28d4-00ce-407d-8075-7827313a780d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=808ff6c7-465c-4ab7-a742-75bb052cde7c
+ revised_id: 253
+ date_taken: 25-09-15
+ time_taken: 15:21:04
+ time_zone: EEST
+ created_by: 20
+ latitude: 33.89579959
+ longitude: 35.48066726
+
+ languages:  
+  dominant_language: null
+    
+ script: "Arabic ,Latin " 
+  dominant_script: null
+    
+ Characteristics: "trilingual,meaning not same across langs,mixed languages,mixed scripts in same words,misspelling" 
+ general_context: Advertising 
+ material:
+    
+    
+ comments: 
+ comments2: 
+
+ Body:
+  Paragraph1:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+  Paragraph2:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
+     "Insert text here"
+      Script:
+      Language:
+      Feature:
