@@ -1,0 +1,82 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 15a5be6a-95b9-4891-bf19-d7ebd56ac9cd
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=802db86c-dc54-4544-9620-ca2452d76dca
+ revised_id: 1072
+ date_taken: 09-12-15
+ time_taken: 00:30:14
+ time_zone: EET
+ created_by: 6
+ latitude: 33.88790909
+ longitude: 35.51613573
+
+ languages: English
+  dominant_language: English
+
+ script: Arabic, Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,meaning not same across langs,multiple scripts in total item"
+ general_context: Food/Entertainment
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "يمامة "
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "٢٠٠٠"
+      Script: null
+      Language: null
+      Feature: Eastern
+  Paragraph2:
+     "Basmati Rice"
+      Script: Latin
+      Language: English
+      Feature: null
+     "PRODUCE OF PAKISTAN GRADE I"
+      Script: Latin
+      Language: English
+      Feature: null
+     "CROP 2013"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "NET WT. 2KG"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "KG 04-2015"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "EXP: 04-2018"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Cooking Recipe"
+      Script: Latin
+      Language: English
+      Feature: null
+     "1.Soak rice in water for 20 min"
+      Script: Latin
+      Language: English
+      Feature: Western

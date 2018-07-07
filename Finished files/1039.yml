@@ -1,0 +1,68 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 5848f6e6-7293-4140-9877-c9852bce74cb
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=a232a10f-9069-4ef3-a10f-dfd17dccac77
+ revised_id: 1039
+ date_taken: 09-12-15
+ time_taken: 18:12:11
+ time_zone: EET
+ created_by: 24
+ latitude: 33.9568018
+ longitude: 35.60748692
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic, Latin
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,audience-specific,mixed languages,multiple scripts in total item,Western numbers"
+ general_context: "Signage,Food/Entertainment,Advertising"
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "ADIB Palace"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+  Paragraph2:
+     "ليلة راس السنة"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+  Paragraph3:
+     "امير يزبك"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "سارية"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "دي ليلى"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+  Paragraph4:
+     "09/959560 - 03/225570 - 03-666533"
+      Script: null
+      Language: null
+      Feature: Western

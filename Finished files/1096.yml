@@ -1,0 +1,45 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 6451bbfb-5df0-4ddd-8630-f2f0035348e7
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f03caf60-00ee-4d53-87df-cdd8d4303ee9
+ revised_id: 1096
+ date_taken: 07-02-16
+ time_taken: 20:24:03
+ time_zone: EET
+ created_by: 27
+ latitude: 33.89367213
+ longitude: 35.47860827
+
+ languages: null
+  dominant_language: null
+
+ script:  Latin
+  dominant_script: Latin
+
+ Characteristics: Frenched by definite article (le la l')
+ general_context: Housing
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "LE BRISTOL"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name

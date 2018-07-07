@@ -1,0 +1,44 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 93b46dcf-4697-4a9f-b481-17bd6e4c8977
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=8efc451a-0077-46ec-a925-a06a512a8498
+ revised_id: 1100
+ date_taken: 07-02-16
+ time_taken: 20:35:00
+ time_zone: EET
+ created_by: 27
+ latitude: 33.91669339
+ longitude: 35.60785856
+
+ languages: null
+  dominant_language: null
+
+ script:  Latin
+  dominant_script: Latin
+
+ Characteristics: humor
+ general_context: Food/Entertainment
+ material: signage
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "PARIS DU GOUT RESTAURANT"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name

@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 3b3c45d5-9838-4628-a251-7f42df915f5f
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=548ce76a-4f5a-4789-94f2-c8a8777c87cd
+ revised_id: 1082
+ date_taken: 05-02-16
+ time_taken: 13:34:08
+ time_zone: EET
+ created_by: 28
+ latitude: 33.900998
+ longitude: 35.4911386
+
+ languages: English, Arabic
+  dominant_language: Arabic
+
+ script: Arabic, Latin
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,meaning not same across langs,mixed languages,multiple scripts in total item"
+ general_context: Signage
+ material: traffic
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "WARNING"
+      Script: Latin
+      Language: English
+      Feature: null
+      "الرجاء عدم الوقوف امام الورشة"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "تساقط اشياء"
+      Script: Arabic
+      Language: Arabic
+      Feature: null

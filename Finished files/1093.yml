@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: b94d8bf2-6744-48ba-bb53-be0fc70ebc25
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=854a8e80-dd48-4ebb-bb3e-557f645ed3e2
+ revised_id: 1093
+ date_taken: 07-02-16
+ time_taken: 20:19:57
+ time_zone: EET
+ created_by: 27
+ latitude: 33.89625364
+ longitude: 35.47781534
+
+ languages: null
+  dominant_language: null
+
+ script: Laitn, Arabic
+  dominant_script: null
+
+ Characteristics: humor
+ general_context: Services
+ material: overwriting
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "UNCLE SAM"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "أنكل سام"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, Transliteration

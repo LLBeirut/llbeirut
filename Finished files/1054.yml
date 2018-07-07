@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 2a0840bc-d6e0-4353-99b1-ffe9a4ec1fb2
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=7e855740-56e9-4231-9433-f93b3ba56b6c
+ revised_id: 1054
+ date_taken: 09-12-15
+ time_taken: 21:22:43
+ time_zone: EET
+ created_by: 8
+ latitude: 33.86070052
+ longitude: 35.58918732
+
+ languages: French
+  dominant_language: French
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,audience-specific,wordplay,Western numbers,business name in French,Frenched by definite article (le la l'),humor"
+ general_context: "Education,Telephone,Advertising,Signage"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "école de musique & de peinture"
+      Script: Latin
+      Language: French
+      Feature: null
+     "Clé d'Art"
+      Script: Latin
+      Language: French
+      Feature: Proper_Name
+  Paragraph2:
+     "Tel 03/ 54 06 99"
+      Script: null
+      Language: null
+      Feature: Western
+     "71/ 01 55 83"
+      Script: null
+      Language: null
+      Feature: Western

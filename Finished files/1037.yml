@@ -1,0 +1,50 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: c98abf99-e1b7-4eb9-a811-9b3ef1d653b4
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=0cf90018-12be-4695-af43-63b6cf79477b
+ revised_id: 1037
+ date_taken: 04-12-15
+ time_taken: 09:10:43
+ time_zone: EET
+ created_by: 26
+ latitude: 33.89812376
+ longitude: 35.48075438
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,meaning not same across langs,audience-specific,wordplay"
+ general_context: Merchandise
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Violetta FLOWERS"
+      Script: Latin
+      Language: English
+      Feature: Proper_Name
+  Paragraph2:
+     "Salon Arabelle"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name

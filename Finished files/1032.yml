@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: c11017c0-d7b8-4404-8766-551c71c80de1
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=7fe9b536-e418-4bdc-a5f1-0d0c7c55f3c8
+ revised_id: 1032
+ date_taken: 04-12-15
+ time_taken: 09:06:30
+ time_zone: EET
+ created_by: 26
+ latitude: 33.89817469
+ longitude: 35.48179373
+
+ languages: English, French, Arabic
+  dominant_language: Arabic
+
+ script: Arabic, Latin
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,meaning not same across langs,transliteration,audience-specific,mixed languages"
+ general_context: "Signage,Advertising"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "GARAGE JEANNE D'ARC"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+  Paragraph2:
+     "Service"
+      Script: Latin
+      Language: English
+      Feature: null
+     "فيتاس اتوماتيك"
+      Script: Arabic
+      Language: French
+      Feature: null
+     "- تنظيف بخاخ - غيار زيت بطارية - سرفيس للمعايبة"
+      Script: Arabic
+      Language: Arabic
+      Feature: null

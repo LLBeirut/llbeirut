@@ -1,0 +1,79 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 536cfffe-338f-40c8-9be8-33f12b4a1b4b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e4df6a6e-98ac-4dd0-a94d-cc961f1b1564
+ revised_id: 1045
+ date_taken: 07-12-15
+ time_taken: 21:10:56
+ time_zone: EET
+ created_by: 8
+ latitude: 33.85172964
+ longitude: 35.57369197
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,Western numbers"
+ general_context: "Vehicle,Services"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "wardieh"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "unleaded 98 21700"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "unleaded 95 21100"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Diesel oil 12700"
+      Script: Latin
+      Language: English
+      Feature: Western
+  Paragraph2:
+     "Mobil"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "POWER"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "lubricants"
+      Script: Latin
+      Language: English
+      Feature: null
+  Paragraph:
+     "Lube Change"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Car Wash"
+      Script: Latin
+      Language: English
+      Feature: null

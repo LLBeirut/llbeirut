@@ -1,0 +1,63 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete:  true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 5d9f462f-9b6f-4f09-97e8-bf7defcb80a9
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=488b13c5-132e-4a9f-a1ba-4acf240c7c18
+ revised_id: 1031
+ date_taken: 04-12-15
+ time_taken: 09:05:53
+ time_zone: EET
+ created_by: 26
+ latitude: 33.89858183
+ longitude: 35.4816784
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,meaning not same across langs,transliteration,audience-specific,mixed languages,humor,wordplay,cultural reference"
+ general_context: "Signage,Advertising"
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "كراج جان دارك"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "لوووو لحظة مش"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+  Paragraph2:
+     "ممنوع الوقوف"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+  Paragraph3:
+     "مسموح الوقوف"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "هيدا مدخل كراج"
+      Script: Arabic
+      Language: Arabic
+      Feature: null

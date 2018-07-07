@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 27efe688-1503-4847-80fc-4cdf39146c29
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=dd356d50-ebcf-42d9-8a0b-48229304d5f3
+ revised_id: 1097
+ date_taken: 07-02-16
+ time_taken: 20:15:02
+ time_zone: EET
+ created_by: 27
+ latitude: 33.89536865
+ longitude: 35.50998643
+
+ languages: null
+  dominant_language: null
+
+ script: Latin, Arabic
+  dominant_script: null
+
+ Characteristics: "bilingual,Frenched by definite article (le la l')"
+ general_context:  Restaurant
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "LE CHEF"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "لو شيف"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, Transliteration
