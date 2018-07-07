@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 16a51c28-bb6f-4621-8bc7-e00896b6df05
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=46d3b6b4-473d-eade-7bcb-9f05e2990514
+ revised_id: 1151
+ date_taken: 08-02-16
+ time_taken: 19:18:49
+ time_zone: EET
+ created_by: 14
+ latitude: 33.897083
+ longitude: 35.47936
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: "bilingual,meaning not same across langs,transliteration,audience-specific,misspelling,literal translation"
+ general_context: "Signage,Merchandise"
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "ملك الكرافات"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "KING NECKTIES"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name, Equivalence

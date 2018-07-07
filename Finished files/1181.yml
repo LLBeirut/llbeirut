@@ -1,0 +1,58 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 606d789d-4f17-46be-b550-7a8c26a5612b
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=781d30fa-071b-4519-943a-52ffb7f1dbae
+ revised_id: 1181
+ date_taken: 07-02-16
+ time_taken: 12:46:30
+ time_zone: EET
+ created_by: 19
+ latitude: 33.85197758
+ longitude: 35.51538035
+
+ languages: English, French
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: mixed languages
+ general_context: Health/Beauty
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Sexy little things"
+      Script: Latin
+      Language: English
+      Feature: null
+     "NOIR TEASE"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+  Paragraph2:
+     "scented body lotion"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+     "lait parfumé pour le corps"
+      Script: Latin
+      Language: French
+      Feature: Equivalence

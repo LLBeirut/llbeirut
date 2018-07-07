@@ -1,0 +1,61 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: e6a08ae1-ee93-4bd6-a76c-34b0708d0f3f
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=a9ff735a-18c8-4778-8c11-9bfd1d361a73
+ revised_id: 1121
+ date_taken: 08-02-16
+ time_taken: 12:04:43
+ time_zone: EET
+ created_by: 15
+ latitude: 33.89846884
+ longitude: 35.48275899
+
+ languages: English, Arabic
+  dominant_language: English
+
+ script: Arabic, Latin
+  dominant_script: Latin
+
+ Characteristics: "bilingual,Western numbers"
+ general_context: "Signage,Advertising,Services"
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "رقسني يا جدع"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "Belly Dancing Classe Every Thursday at"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Artsca"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Hamra. makhoul dalal bldg"
+      Script: Latin
+      Language: null
+      Feature: Place_Name
+     "70037367"
+      Script: null
+      Language: null
+      Feature: Western

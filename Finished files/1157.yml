@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: f2177d06-2871-4394-b9d1-1403ad92436c
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=646f396d-92c9-45f3-ac65-96ec6607547f
+ revised_id: 1157
+ date_taken: 09-02-16
+ time_taken: 15:39:03
+ time_zone: EET
+ created_by: 9
+ latitude: 33.8891274
+ longitude: 35.5167449
+
+ languages: French, Arabic
+  dominant_language: null
+
+ script: Arabic, French
+  dominant_script: null
+
+ Characteristics: "bilingual,meaning same across langs"
+ general_context: Signage
+ material: traffic
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "DEFENSE DE STATIONNER"
+      Script: Latin
+      Language: French
+      Feature: Equivalence
+     "ممنوع الوقوف"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence

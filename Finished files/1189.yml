@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: fcbf0cb8-eb42-401a-afda-98531eb1af2d
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=2be97bf7-04a7-4682-a14a-d4b74eb6c3ed
+ revised_id: 1189
+ date_taken: 09-02-16
+ time_taken: 12:50:14
+ time_zone: EET
+ created_by: 3
+ latitude: 33.89330171
+ longitude: 35.48349962
+
+ languages: Arabic, French
+  dominant_language: Arabic
+
+ script: Latin, Arabic
+  dominant_script: null
+
+ Characteristics: bilingual
+ general_context: Health/Beauty
+ material: advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "صالون للسيدات"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "COIFFURE"
+      Script: Latin
+      Language: French
+      Feature: null
+     "الطابق الاول"
+      Script: Arabic
+      Language: Arabic
+      Feature: null

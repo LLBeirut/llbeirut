@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: f16d2e8c-c4a5-409d-92ca-1d40d746fcb1
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=0e639989-7582-4cf9-a606-d0bed0eaf94c
+ revised_id: 1120
+ date_taken: 08-02-16
+ time_taken: 12:05:16
+ time_zone: EET
+ created_by: 15
+ latitude: 33.89857879
+ longitude: 35.48274868
+
+ languages: Arabic, French, English
+  dominant_language: null
+
+ script: "Latin ,Arabic "
+  dominant_script: null
+
+ Characteristics: "bilingual,humor,transliteration"
+ general_context: Signage Government road sign
+ material: traffic، Overwriting
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "إنتبه أولاد"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "Attention Enfants"
+      Script: Latin
+      Language: French
+      Feature: Equivalence
+     "عمي"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "Radio"
+      Script: Latin
+      Language: English
+      Feature: null

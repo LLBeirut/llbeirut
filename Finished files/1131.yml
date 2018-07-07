@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: ab490b8e-5a34-4d7c-bd3c-a246a235af84
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=c4d081c2-0c0a-4044-8997-10e402f804dd
+ revised_id: 1131
+ date_taken: 09-02-16
+ time_taken: 15:20:05
+ time_zone: EET
+ created_by: 9
+ latitude: 33.8885748
+ longitude: 35.5136447
+
+ languages: null
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: Arabic
+
+ Characteristics: "unilingual,audience-specific"
+ general_context: Food/Entertainment
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "قمر عدين"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "AMAREDDINE"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name, Transliteration

@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 31ef3970-4429-47ab-b315-5eab76e2ecad
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=ac13e884-5dbb-4e07-a945-72aa4816e198
+ revised_id: 1164
+ date_taken: 07-02-16
+ time_taken: 12:38:22
+ time_zone: EET
+ created_by: 19
+ latitude: 33.89936493
+ longitude: 35.47983505
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: literal translation
+ general_context: Signage
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "WARNING WHEN ALARM ACTIVATES DO NOT OPEN DOOR DO NOT ENTER ROOM CALL EXT. 5555"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+     "تحذير عندما يعمل الانذار لاتفتح الباب لاتدخل الغرفة اتصل بمقسم 5555"
+      Script: Arabic
+      Language: Arabic
+      Feature: Western, Equivalence

@@ -1,0 +1,121 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+    
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: d4c0a05b-796b-452f-830f-150558cb8ea9
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=c608ed2d-2dd1-33d7-8e98-f52efdcce780
+ revised_id: 1149
+ date_taken: 08-02-16
+ time_taken: 19:10:25
+ time_zone: EET
+ created_by: 14
+ latitude: 33.897192
+ longitude: 35.478281
+
+ languages: English, Arabic
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: "bilingual,audience-specific"
+ general_context: "Signage,Advertising,Event"
+ material: printed
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "LAU"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "School of Arts and Science"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "Department of Communication Arts"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "الجامعة اللبنانية الاميركية"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "كلية الاداب والعلوم"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "قسم فنون الاعلام"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "MAJOR THEATRE PRODUCTION SPRING 2016"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "TRY-OUTS"
+      Script: Latin
+      Language: English
+      Feature: null
+     "تجربة اداء لمسرحية"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     " نوم الغزلان"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "TIME 17:00 TILL 19:00"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+     "من الساعة الخامسة ولغاية السابعة مساء"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "PLACE"
+      Script: Latin
+      Language: null
+      Feature: English
+     "GULBENKIAN THEATRE LAU BEIRUT CAMPUS"
+      Script: Latin
+      Language: null
+      Feature: Place_Name, Equivalence
+     "مسرح غلبنكيان حرم الجامعة في بيروت"
+      Script: Arabic
+      Language: null
+      Feature: Place_Name, Equivalence
+     "DATES JANUARY WED 20 THUR 21 FRI 21"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+     "الاربعاء ٢٠ الخميس ٢١ الجمعة ٢٢ كانون الثاني"
+      Script: Arabic
+      Language: Arabic
+      Feature: Eastern, Equivalence
+     "اعداد واخراج"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "لينا ابيض"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+      "الرجاء تحضير مونولوج مدته دقيقتين على الا"
+      Script: Arabic
+      Language: Arabic
+      Feature: null

@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 5b8a2a66-c8f6-4bd3-9327-02cc7d86c3fa
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=9de95bef-89ab-4705-a236-b1d892474ece
+ revised_id: 1106
+ date_taken: 08-02-16
+ time_taken: 12:54:44
+ time_zone: EET
+ created_by: 15
+ latitude: 33.89965017
+ longitude: 35.48577882
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,Western numbers"
+ general_context: "Advertising,Graffiti"
+ material: Overwriting
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "دفاتر سواقة للبيع"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "76 808080"
+      Script: null
+      Language: null
+      Feature: Western

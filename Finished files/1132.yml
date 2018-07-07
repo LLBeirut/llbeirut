@@ -1,0 +1,70 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: d706f088-fb1e-442a-98c8-bfcabac7aa36
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=8650445c-6178-417a-ac44-12ffeb1bed9d
+ revised_id: 1132
+ date_taken: 09-02-16
+ time_taken: 15:23:24
+ time_zone: EET
+ created_by: 9
+ latitude: 33.8901683
+ longitude: 35.5143022
+
+ languages:  Arabic, French
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: bilingual
+ general_context: Services
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "HUGUES CHEVALIER"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+  Paragraph2:
+     "TEINTURERIE CHEHADE CHARBEL"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "NETOYAGE A SEC REPASSAGE A VAPEUR"
+      Script: Latin
+      Language: French
+      Feature: Equivalence
+     "مصبغة شحاده شربل"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "تنظيف على الناشف وكوي على البخا"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "تلفون: ٠١/٣٢١٠٢٩"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence, Eastern
+     "Tèl: 01/321029"
+      Script: Latin
+      Language: French
+      Feature: Equivalence, Western

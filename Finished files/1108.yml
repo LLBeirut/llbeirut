@@ -1,0 +1,45 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 60330efc-9647-455c-b32e-ec48ad3a6bfd
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=853a3aa9-c3e7-4a46-96e8-8a7fbb7500de
+ revised_id: 1108
+ date_taken: 08-02-16
+ time_taken: 12:53:22
+ time_zone: EET
+ created_by: 15
+ latitude: 33.89957364
+ longitude: 35.48558671
+
+ languages: French
+  dominant_language: French
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual Politics
+ general_context: Graffiti
+ material: overwriting
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "JE SUIS CHARLIE"
+      Script: Latin
+      Language: French
+      Feature: null

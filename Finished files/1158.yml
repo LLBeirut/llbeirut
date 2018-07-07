@@ -1,0 +1,97 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 4b10c169-9904-4291-917e-39f163d41689
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=305141d7-2f66-4929-92b3-fc0c62b3dee0
+ revised_id: 1158
+ date_taken: 09-02-16
+ time_taken: 15:39:53
+ time_zone: EET
+ created_by: 9
+ latitude: 33.8889546
+ longitude: 35.5160366
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: Arabic, English
+  dominant_script: null
+
+ Characteristics: bilingual
+ general_context: Services
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "كوري كلينرز"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, Transliteration
+     "KHOURY Cleaners"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "K/C"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "since 1967"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Dry Cleaning & Steam Ironing"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+     "Branch Achrfieh"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "Tel: 01/325313-"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+     "Head Office: Mekalles"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "Tel:01/689629 - 692007"
+      Script: Latin
+      Language: English
+      Feature: Western, Equivalence
+     "تنظيف على الناشف وكوي على البخار"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "فرع الاشرفية"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "تلفون ٠١/٣٢٥٣١٣ -"
+      Script: Arabic
+      Language: Arabic
+      Feature: Eastern, Equivalence
+     "المركز الرئيسي: المكلس"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name, Equivalence
+     "التلفون: ٠١ ٦٨٩٦٢٥ - ٦٩٢٠٠٧"
+      Script: Arabic
+      Language: Arabic
+      Feature: Eastern, Equivalence

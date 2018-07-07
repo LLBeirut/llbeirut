@@ -1,0 +1,65 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 6e5fed51-aa6e-46b8-b198-d113501900c3
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=75995292-191c-43c1-ac04-fd1ce45ce4d9
+ revised_id: 1194
+ date_taken: 11-02-16
+ time_taken: 06:52:43
+ time_zone: EET
+ created_by: 18
+ latitude: 33.8787513
+ longitude: 35.4971906
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: "unilingual,Oriental numbers"
+ general_context: "Food/Entertainment,Merchandise"
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "فروج ابوعصام"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "٢٢٤٨٣٨٣٠"
+      Script: null
+      Language: null
+      Feature: Eastern
+     "بادارة "
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "ابو حسن"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "خدمة للمنازل "
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "فروج ابوعصام"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name

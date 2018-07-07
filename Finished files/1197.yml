@@ -1,0 +1,65 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: cb0b6b3a-acdf-4b09-9ca2-417b128e8253
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=e86f32ba-0652-45a5-9700-24db5b1df9d8
+ revised_id: 1197
+ date_taken: 11-02-16
+ time_taken: 12:42:23
+ time_zone: EET
+ created_by: 18
+ latitude: 33.889477
+ longitude: 35.4923987
+
+ languages: Arabic
+  dominant_language: Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,multiple scripts in total item,Western numbers"
+ general_context: Food/Entertainment
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "طعمة أيام زمان منذ ١٩٦٠"
+      Script: Arabic
+      Language: Arabic
+      Feature: Eastern
+     "مشوي"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "بروستد"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "شميطلي"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     "خدمة مجانية"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "01-73 83 48"
+      Script: null
+      Language: null
+      Feature: Western

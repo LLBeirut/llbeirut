@@ -1,0 +1,53 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: false
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: true
+
+ transcribed_by: RJ
+
+ Fulcrum_id: fa0ecc0e-bd88-4b1f-84e8-f6e2e9feece9
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=57f5f627-0ab7-4b43-8cda-0c14bf7055b9
+ revised_id: 1172
+ date_taken: 09-02-16
+ time_taken: 16:55:21
+ time_zone: EET
+ created_by: 16
+ latitude: 33.8937131
+ longitude: 35.48919652
+
+ languages:  Arabic
+  dominant_language: Arabic
+
+ script: Arabic
+  dominant_script: Arabic
+
+ Characteristics: "bilingual,transliteration,meaning not same across langs,Western numbers"
+ general_context: "Signage,Advertising,Services,Telephone"
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "عشي غروب"
+      Script: Arabic
+      Language: null
+      Feature: Proper_Name
+     " سقالات خارجية قوالب تدعيم دعائم مفردة"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "03/322 811 03 / 739905"
+      Script: null
+      Language: null
+      Feature: Western

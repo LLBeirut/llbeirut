@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 39dc7ec1-1f5d-4fb1-873b-4219ff43e2d3
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=dc9b1bd8-821c-4c3b-ae0d-095acb6dbf91
+ revised_id: 1135
+ date_taken: 09-02-16
+ time_taken: 15:16:51
+ time_zone: EET
+ created_by: 9
+ latitude: 33.8882874
+ longitude: 35.5129001
+
+ languages:  English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: Health/Beauty
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "CUTTING EDGE"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Hair & Beauty Salon"
+      Script: Latin
+      Language: English
+      Feature: null
+     "By"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Marc Jacob"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name

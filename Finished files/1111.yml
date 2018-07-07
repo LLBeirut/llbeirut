@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 44992284-7838-4958-87cc-9de1a8f207ec
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=243f6d30-e1b2-406c-b93b-7edd866e57bf
+ revised_id: 1111
+ date_taken: 08-02-16
+ time_taken: 12:35:15
+ time_zone: EET
+ created_by: 15
+ latitude: 33.8958501
+ longitude: 35.48257048
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: "unilingual,Western numbers"
+ general_context: "Advertising,Signage" Construction
+ material: Signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "MAC"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Engineering & Contracting"
+      Script: Latin
+      Language: English
+      Feature: null
+     "+961 1 747 861/2/4"
+      Script: null
+      Language: null
+      Feature: Western
+     "www.mac-e-c.com"
+      Script: null
+      Language: null
+      Feature: null

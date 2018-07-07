@@ -1,0 +1,85 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: ae00a4a9-9d98-411d-93a1-52c23c4291ec
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=f0de305d-2f81-4794-a299-479c45e2aff2
+ revised_id: 1169
+ date_taken: 08-02-16
+ time_taken: 20:46:10
+ time_zone: EET
+ created_by: 16
+ latitude: 33.85307692
+ longitude: 35.52751467
+
+ languages: Arabic, English, French
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: "trilingual,transliteration,mixed languages"
+ general_context: "Signage,Food/Entertainment"
+ material: Advertising
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "Maison Si bon Malouf"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "كنافة"
+      Script: Arabic
+      Language: Arabic
+      Feature: null
+     "KENEFE"
+      Script: Latin
+      Language: Arabic
+      Feature: Transliteration
+     "بوظة"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "ICE CREAM"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+     "كاتو"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "GATEAUX"
+      Script: Latin
+      Language: French
+      Feature: Equivalence
+     "حلويات عربية"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "ARABIC SWEETS"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
+     "شوكولا"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "CHOCOLAT"
+      Script: Latin
+      Language: French
+      Feature: Equivalence

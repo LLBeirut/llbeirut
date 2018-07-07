@@ -1,0 +1,57 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: false
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by:
+
+ Fulcrum_id: daeceba5-4b8e-436b-b7ee-aafb06221b47
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=10c780a0-87ab-420d-bae3-a8a036349878
+ revised_id: 1182
+ date_taken: 09-02-16
+ time_taken: 12:40:00
+ time_zone: EET
+ created_by: 3
+ latitude: 33.88140834
+ longitude: 35.50414559
+
+ languages: English, Arabic
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: bilingual
+ general_context: Merchandise
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "BIG SALE"
+      Script: Latin
+      Language: English
+      Feature: null
+     "Jeans 19.000 SWT 12.000 Jacket 34.000 Shoes 24.000 Pull 24.000"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "Chemise 15.000"
+      Script: Latin
+      Language: Arabic
+      Feature: Western
+     "VALENTINE OFFER"
+      Script: Latin
+      Language: English
+      Feature: null

@@ -1,0 +1,66 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: b3f80f83-b03e-49a3-a1e7-5d31842016f2
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=59118441-28b0-4263-982d-4f8318c22f1f
+ revised_id: 1186
+ date_taken: 09-02-16
+ time_taken: 12:46:33
+ time_zone: EET
+ created_by: 3
+ latitude: 33.89322434
+ longitude: 35.48347313
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: unilingual
+ general_context: Health/Beauty
+ material: Signage
+
+
+ comments: "Incorrect spelling of ""tattoo"""
+ comments2:
+
+ Body:
+  Paragraph1:
+     "JOUHAYNA Beauty Salon"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Hair Makeup"
+      Script: Latin
+      Language: English
+      Feature: null
+  Paragraph2:
+     "Tatto"
+      Script: Latin
+      Language: English
+      Feature: Misspelling
+     "Wax Laser Nails Hanna Tel: 01/755886"
+      Script: Latin
+      Language: English
+      Feature: Western
+     "JOUHAYNA Beauty Salon"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "Manicure Eyelash Wax Full Body Laser Tattoo Pose Italy USA Paris Rome Geneva Washington"
+      Script: Latin
+      Language: English
+      Feature: null

@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 794a1942-76b3-4372-9bd8-61c00556c17a
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d4820862-2a62-4659-892e-73b71ac821f2
+ revised_id: 1142
+ date_taken: 09-02-16
+ time_taken: 15:52:03
+ time_zone: EET
+ created_by: 9
+ latitude: 33.8882557
+ longitude: 35.5113414
+
+ languages: English
+  dominant_language: English
+
+ script: Latin
+  dominant_script: Latin
+
+ Characteristics: bilingual
+ general_context: Services
+ material: signage
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "A la queue"
+      Script: Latin
+      Language: null
+      Feature: Proper_Name
+     "pet boutique & spa"
+      Script: Latin
+      Language: English
+      Feature: null

@@ -1,0 +1,49 @@
+
+Template_Version : 0.5
+
+
+header:
+
+ complete: true
+
+ altered:
+  anonymized: false
+  point_focus: false
+  rotated: false
+
+ transcribed_by: RJ
+
+ Fulcrum_id: 00f83adc-4570-4431-9b95-7477dd80ec63
+ photo_url: https://web.fulcrumapp.com/photos/view?photos=d52b4aa1-a547-4975-aa58-76c0a5e6b856
+ revised_id: 1159
+ date_taken: 09-02-16
+ time_taken: 15:42:39
+ time_zone: EET
+ created_by: 9
+ latitude: 33.8884864
+ longitude: 35.5149561
+
+ languages: Arabic, English
+  dominant_language: null
+
+ script: Arabic, Latin
+  dominant_script: null
+
+ Characteristics: bilingual
+ general_context: Signage
+ material: traffic
+
+
+ comments:
+ comments2:
+
+ Body:
+  Paragraph1:
+     "موقف للعموم ليلا نهارا"
+      Script: Arabic
+      Language: Arabic
+      Feature: Equivalence
+     "Public Parking Day & Night"
+      Script: Latin
+      Language: English
+      Feature: Equivalence
